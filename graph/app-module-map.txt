@@ -1,0 +1,265 @@
+ethiack.com - recovered module map (from source-map sourcesContent)
+generated: 2026-10-15T07:46:44.853Z
+files: 71
+
+assets/icons/accuracy-impact.svg  [833B, 17 lines]
+    -> vue
+assets/icons/act.svg  [602B, 17 lines]
+    -> vue
+assets/icons/arrow-right-panel.svg  [587B, 17 lines]
+    -> vue
+assets/icons/cell.svg  [765B, 17 lines]
+    -> vue
+assets/icons/compliance-report.svg  [892B, 17 lines]
+    -> vue
+assets/icons/diverse.svg  [665B, 17 lines]
+    -> vue
+assets/icons/down-arrow-2.svg  [551B, 17 lines]
+    -> vue
+assets/icons/emerging-threats.svg  [1049B, 17 lines]
+    -> vue
+assets/icons/github.svg  [1293B, 19 lines]
+    -> vue
+assets/icons/hackian-type.svg  [1887B, 17 lines]
+    -> vue
+assets/icons/hackian.svg  [721B, 17 lines]
+    -> vue
+assets/icons/internal-external.svg  [809B, 17 lines]
+    -> vue
+assets/icons/linkedIn.svg  [906B, 19 lines]
+    -> vue
+assets/icons/login.svg  [665B, 17 lines]
+    -> vue
+assets/icons/plus.svg  [551B, 17 lines]
+    -> vue
+assets/icons/proof-of-exploit.svg  [735B, 17 lines]
+    -> vue
+assets/icons/rapid-discovery.svg  [649B, 17 lines]
+    -> vue
+assets/icons/right-arrow-2.svg  [615B, 17 lines]
+    -> vue
+assets/icons/right-arrow-3.svg  [613B, 17 lines]
+    -> vue
+assets/icons/right-arrow.svg  [698B, 17 lines]
+    -> vue
+assets/icons/see.svg  [867B, 17 lines]
+    -> vue
+assets/icons/test.svg  [678B, 17 lines]
+    -> vue
+assets/icons/testing-triggered.svg  [793B, 17 lines]
+    -> vue
+assets/icons/third-party.svg  [791B, 17 lines]
+    -> vue
+assets/icons/x-right-panel.svg  [590B, 17 lines]
+    -> vue
+assets/icons/x.svg  [720B, 17 lines]
+    -> vue
+assets/icons/youtube.svg  [1029B, 23 lines]
+    -> vue
+components/core/DraggableList/DraggableList.vue  [6175B, 243 lines]
+    -> gsap/all
+    -> vue-screen
+    -> ~/components/core/Page/context
+    -> ~/composables/core
+components/core/RiveAsset/RiveAsset.vue  [7966B, 353 lines]
+    -> ~/components/core/ImageAsset
+    -> ~/components/core/Page
+    -> ~/composables/core
+    -> vue-screen
+components/core/VideoAsset/VideoAsset.vue  [4134B, 166 lines]
+    -> vue
+    -> ~/composables/core
+    -> vue-screen
+components/forms/NewsletterForm/NewsletterForm.vue  [5217B, 235 lines]
+    -> ~/composables
+    -> ~/composables/core
+components/fragments/AccuracyCard/AccuracyCard.vue  [7925B, 357 lines]
+    -> gsap/all
+components/fragments/ButtonList/ButtonList.vue  [2526B, 98 lines]
+    -> ~/components/primitives/Button
+    -> ~/components/primitives/ButtonOutside
+components/fragments/ExploitCard/ExploitCard.vue  [6145B, 316 lines]
+    -> gsap/all
+    -> vue-screen
+    -> ~/config
+components/fragments/FeaturedCards/FeaturedCards.vue  [15470B, 622 lines]
+    -> gsap
+    -> @/components/primitives/ButtonSimple
+    -> @/components/core/SvgAsset
+    -> @/components/core/DraggableList
+    -> ~/composables
+    -> ~/composables/core
+components/fragments/RemediationCard/RemediationCard.vue  [5822B, 267 lines]
+    -> gsap/all
+    -> vue-screen
+components/fragments/SpeedCard/SpeedCard.vue  [2133B, 109 lines]
+    -> gsap
+    -> ~/components/core/RiveAsset
+    -> ~/composables/core
+    -> ~/config
+components/fragments/StatCard/StatCard.vue  [3015B, 157 lines]
+    -> ~/components/core/RiveAsset
+    -> ~/composables/core
+    -> gsap/all
+    -> ~/config
+components/fragments/StepCard/StepCard.vue  [7009B, 339 lines]
+    -> ~/components/core/Icon
+    -> ~/components/core/VideoAsset
+components/pages/Home/Home.vue  [2438B, 73 lines]
+    -> ./sections/Header
+    -> ~/components/primitives/CrtCanvas
+    -> ~/composables/useSectionLookup
+    -> ~/composables/core
+components/pages/Home/sections/Hackian/Hackian.vue  [21617B, 944 lines]
+    -> gsap/all
+    -> ~/components/core/VideoAsset
+    -> ~/components/core/Icon
+    -> ~/assets/icons/cell.svg
+    -> ~/assets/icons/hackian-type.svg
+    -> ~/components/primitives/FunctionSnippet
+    -> ~/components/fragments/ButtonList
+    -> ~/components/fragments/AccuracyCard
+    -> ~/components/fragments/SpeedCard
+    -> ~/components/fragments/StatCard
+    -> ~/components/fragments/RemediationCard
+    -> ~/components/fragments/ExploitCard
+    -> ~/composables
+    -> ~/composables/core
+    -> vue-screen
+    -> ~/config
+components/pages/Home/sections/Header/Header.vue  [15831B, 608 lines]
+    -> gsap
+    -> ~/components/primitives/ButtonOutside
+    -> ~/components/primitives/InfectionTag
+    -> ~/composables/core
+    -> ~/composables
+    -> vue-screen
+    -> ~/config
+components/pages/Home/sections/Issue/Issue.vue  [4077B, 185 lines]
+    -> vue-screen
+    -> ~/config
+    -> ~/components/primitives/ButtonOutside
+    -> ~/components/primitives/Carousel
+    -> ~/components/core/Icon
+    -> ~/components/forms/NewsletterForm
+    -> ./components/Issues
+    -> ./components/IssuesTouch
+    -> ~/composables/core
+components/pages/Home/sections/Issue/components/Issues/Issues.vue  [21918B, 823 lines]
+    -> gsap/all
+    -> vue-screen
+    -> ~/components/core/Icon
+    -> ~/composables/core
+    -> ~/composables/useLetterSwap
+    -> ~/composables/useRightPanelMethods
+    -> ~/composables/useTerminalType
+components/pages/Home/sections/Issue/components/IssuesTouch/IssuesTouch.vue  [13488B, 510 lines]
+    -> gsap/all
+    -> vue-screen
+    -> ~/components/core/Icon
+    -> ~/components/primitives/StepSelector
+    -> ~/composables/core
+    -> ~/composables/useLetterSwap
+components/pages/Home/sections/Platform/Platform.vue  [4884B, 205 lines]
+    -> ~/components/sections/Solutions
+    -> ~/components/fragments/ButtonList
+    -> ~/components/core/ImageAsset
+    -> ~/components/core/VideoAsset
+    -> ~/composables/core
+    -> vue-screen
+    -> ~/config
+    -> gsap/all
+components/pages/Home/sections/UseCases/UseCases.vue  [1794B, 81 lines]
+    -> ~/components/fragments/FeaturedCards
+    -> ~/components/primitives/ButtonOutside
+components/primitives/ButtonIcon/ButtonIcon.vue  [1015B, 45 lines]
+    -> ~/components/core/Icon
+components/primitives/ButtonSimple/ButtonSimple.vue  [1366B, 73 lines]
+    -> gsap
+components/primitives/Carousel/Carousel.vue  [4231B, 187 lines]
+    -> vue-screen
+    -> ~/composables/core
+    -> ~/components/core/SvgAsset
+    -> ~/config
+components/primitives/FunctionSnippet/FunctionSnippet.vue  [6291B, 298 lines]
+    -> gsap/all
+    -> vue-screen
+    -> ~/composables
+    -> ~/composables/core
+    -> ~/config
+    -> ~/utils/math
+components/primitives/InfectionTag/InfectionTag.vue  [12214B, 528 lines]
+    -> gsap
+    -> ~/composables
+components/primitives/SolutionCard/SolutionCard.vue  [7169B, 304 lines]
+    -> ~/components/core/SvgAsset
+    -> ~/components/primitives/ButtonIcon
+    -> ~/composables/core
+    -> vue-screen
+components/primitives/StepSelector/StepSelector.vue  [3511B, 162 lines]
+    -> ~/components/core/Icon
+    -> gsap
+components/primitives/TitleWithSnippet/TitleWithSnippet.vue  [2535B, 125 lines]
+    -> ~/components/primitives/FunctionSnippet
+components/sections/Footer/Footer.vue  [12627B, 637 lines]
+    -> gsap
+    -> gsap/ScrollTrigger
+    -> ~/components/primitives/LogoBig
+    -> ~/components/core/HyperLink
+    -> ~/components/core/SvgAsset
+    -> ~/components/core/Icon
+    -> ~/components/fragments/ButtonList
+    -> ~/composables/useTerminalType
+    -> ~/composables
+components/sections/PreFooter/PreFooter.vue  [8216B, 378 lines]
+    -> gsap/all
+    -> ~/composables/core
+    -> vue-screen
+    -> ~/components/primitives/FunctionSnippet
+    -> ~/components/fragments/ButtonList
+    -> ~/composables
+components/sections/SeeTestAct/SeeTestAct.vue  [1043B, 41 lines]
+    -> ~/components/primitives/TitleWithSnippet
+    -> ~/components/fragments/StepCard
+components/sections/Solutions/Solutions.vue  [1514B, 65 lines]
+    -> ~/components/primitives/TitleWithSnippet
+    -> ~/components/primitives/SolutionCard
+composables/core/useClientOnlyComputed.js  [289B, 15 lines]
+    -> vue
+composables/core/useHydrateStaggered.js  [547B, 22 lines]
+    -> #imports
+composables/core/useInViewport.js  [1463B, 61 lines]
+    -> vue
+composables/core/useIsSafari.js  [188B, 7 lines]
+composables/core/useSwipe.js  [1724B, 72 lines]
+    -> vue
+composables/useSectionLookup.js  [659B, 14 lines]
+pages/index.vue  [945B, 40 lines]
+    -> ~/components/core/Page
+    -> ~/components/pages/Home
+    -> ~/sanity/projections
+    -> ~/transitions/page
+    -> ~/composables/core
+sanity/projections/core/metadata.js  [406B, 19 lines]
+    -> groq
+sanity/projections/footer.js  [848B, 37 lines]
+    -> groq
+    -> ./core/callToAction.js
+    -> ./core/imageAsset.js
+    -> ./buttonCta.js
+    -> ./socials.js
+sanity/projections/home/index.js  [1045B, 32 lines]
+    -> groq
+    -> ../core/metadata.js
+    -> ./sections/header.js
+    -> ../seeTestAct.js
+    -> ./sections/platform.js
+    -> ./sections/useCases.js
+    -> ./sections/hackian.js
+    -> ./sections/issue.js
+    -> ../footer.js
+    -> ../preFooter.js
+sanity/projections/preFooter.js  [330B, 15 lines]
+    -> groq
+    -> ./buttonCta.js
+utils/math.js  [2088B, 84 lines]

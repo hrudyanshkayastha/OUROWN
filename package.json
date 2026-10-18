@@ -1,8 +1,8 @@
 {
-  "name": "ethiack-reconstructed",
+  "name": "agletras-website",
   "version": "1.0.0",
   "type": "module",
-  "description": "Faithfully reconstructed Ethiack website with original recovered assets, prerendered routes, CRT canvas videos, and fonts.",
+  "description": "Agletras website with CRT matrix canvas, video streaming, interactive environment, and verified research intelligence content.",
   "scripts": {
     "start": "node serve/server.mjs",
     "serve": "node serve/server.mjs",

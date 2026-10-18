@@ -1,0 +1,2870 @@
+{
+ "origin": "https://ethiack.com",
+ "capturedAt": "2026-10-15T10:19:02.726Z",
+ "count": 409,
+ "files": [
+  {
+   "url": "https://ethiack.com/",
+   "path": "index.html",
+   "bytes": 518363,
+   "contentType": "text/html",
+   "sha256": "5725852e90adb27d3335bd78f516f70b26c653c8bd11b3fe8e27f4fcb15eaac1"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/entry.BqUG4Qle.css",
+   "path": "_nuxt/entry.BqUG4Qle.css",
+   "bytes": 135550,
+   "contentType": "text/css",
+   "sha256": "892bccc3b9a2c28225153c2dacd9a8cd60c60b24015e4d9e0c7b14b724b78a6b"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/index.D9o0If2e.css",
+   "path": "_nuxt/index.D9o0If2e.css",
+   "bytes": 18466,
+   "contentType": "text/css",
+   "sha256": "21202439db0daad7f72bf8f19f7b8d57e80505265c60352f1130630d090ea5d2"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/TitleWithSnippet.BMGwZpoL.css",
+   "path": "_nuxt/TitleWithSnippet.BMGwZpoL.css",
+   "bytes": 4631,
+   "contentType": "text/css",
+   "sha256": "3a22e2b9c5c3e4263a8f2bdd908b2bd73b587695421b4aa93acd871da96fe7fb"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/FunctionSnippet.Bpa5Heqh.css",
+   "path": "_nuxt/FunctionSnippet.Bpa5Heqh.css",
+   "bytes": 4339,
+   "contentType": "text/css",
+   "sha256": "358147bc271459e48a974d595d02023ec6a2f49b6f1831e71dae7e0f02c87404"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/SolutionCard.DWYBKx5x.css",
+   "path": "_nuxt/SolutionCard.DWYBKx5x.css",
+   "bytes": 10880,
+   "contentType": "text/css",
+   "sha256": "dbfc35a9cc73fe9127db53c191af1d84245291165339d5acb8c3fdc6dcc46ed1"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/ButtonIcon.BmpIYvH-.css",
+   "path": "_nuxt/ButtonIcon.BmpIYvH-.css",
+   "bytes": 3006,
+   "contentType": "text/css",
+   "sha256": "f8493d4e92938e7329a3ef8509caadb2b7428e9fc8af01d6af4afb43f83f4acf"
+  },
+  {
+   "url": "https://ethiack.com/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "_payload.json",
+   "bytes": 294638,
+   "contentType": "application/json",
+   "sha256": "d17b6395f491012636dd8b851424405d6f0e7e36b0f801f06e088210e3458f80"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/CzNW3ZJW.js",
+   "path": "_nuxt/CzNW3ZJW.js",
+   "bytes": 2229161,
+   "contentType": "application/javascript",
+   "sha256": "a5344ed707ca559164328ae4bc01e953c148431f442ae8e216b85b4aa5a0579a"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/BMYXNpqD.js",
+   "path": "_nuxt/BMYXNpqD.js",
+   "bytes": 16451,
+   "contentType": "application/javascript",
+   "sha256": "5b4554f4a6d18234c715347e02785a38f7ad790a12bc98ed152d62818dd0cdfa"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/C69WlMbV.js",
+   "path": "_nuxt/C69WlMbV.js",
+   "bytes": 1559,
+   "contentType": "application/javascript",
+   "sha256": "3b8b7d406f3c0e07da54be2b84dbecf87fa416b292f7547cb9558a22587a98d6"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/BkOiF--w.js",
+   "path": "_nuxt/BkOiF--w.js",
+   "bytes": 185,
+   "contentType": "application/javascript",
+   "sha256": "99c764a964f714723ade090c4ea081717b8966d770b061462a6ad32ff7914048"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/tdp4zk6A.js",
+   "path": "_nuxt/tdp4zk6A.js",
+   "bytes": 798,
+   "contentType": "application/javascript",
+   "sha256": "6a52fe628b194042fd730b52256b0c6fa4cacb9c59381250c9749b6794dd2a54"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/C1XzVAb6.js",
+   "path": "_nuxt/C1XzVAb6.js",
+   "bytes": 2225,
+   "contentType": "application/javascript",
+   "sha256": "1b15961177f25ec89027164f9ce16fc0d045c9ded03a4fb67a752251013cb1c6"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/BLRQ8Ec4.js",
+   "path": "_nuxt/BLRQ8Ec4.js",
+   "bytes": 652,
+   "contentType": "application/javascript",
+   "sha256": "bd9e49dda3caee2ea70086ea53e3770e3598a3f8e7065f398e9aca7b9fa74ed3"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/Du-A2zPi.js",
+   "path": "_nuxt/Du-A2zPi.js",
+   "bytes": 1035,
+   "contentType": "application/javascript",
+   "sha256": "999b3c26b564fbc50bc51e2e6ac6577f470ba4014be197490da9fa20383fe29a"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/AjVZdNou.js",
+   "path": "_nuxt/AjVZdNou.js",
+   "bytes": 1365,
+   "contentType": "application/javascript",
+   "sha256": "68b73c0fe2c1f81499cb2251e27529695c4eefe0699dce1680ae606e00339c97"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/CuOkeAN8.js",
+   "path": "_nuxt/CuOkeAN8.js",
+   "bytes": 3017,
+   "contentType": "application/javascript",
+   "sha256": "814bf33787774e1b16de95c2274c943d6146b9521dcbc57d20ff98c69947d9e4"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/BnMYDIlF.js",
+   "path": "_nuxt/BnMYDIlF.js",
+   "bytes": 2092,
+   "contentType": "application/javascript",
+   "sha256": "2648f4700501bf3934e3d1b96c8c2b1291694ac46c4cc8f69dc96940f413cd01"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/BTrafbDn.js",
+   "path": "_nuxt/BTrafbDn.js",
+   "bytes": 500,
+   "contentType": "application/javascript",
+   "sha256": "8ee186b77fe8c991e5052c081d09f6244f3b44d0461e620f7c60f112d7ce0b9b"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/builds/meta/9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67.json",
+   "path": "_nuxt/builds/meta/9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67.json",
+   "bytes": 18261,
+   "contentType": "application/json",
+   "sha256": "edd330664467941052bd2a9d8bb5c3a475fc8e2e17a216da4ca280e17fee533a"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/Bwz1r6hd.js",
+   "path": "_nuxt/Bwz1r6hd.js",
+   "bytes": 648,
+   "contentType": "application/javascript",
+   "sha256": "3b94a6064e54fde853c649836db8483b5a82db7f105fba038cde6d65cd0aaec5"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/DQcAHONE.js",
+   "path": "_nuxt/DQcAHONE.js",
+   "bytes": 404,
+   "contentType": "application/javascript",
+   "sha256": "2dd8b609694e4d859f910856bddddde4640cbd0c05e2d79e0c5c14dbdb589276"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/Ct-YAUpM.js",
+   "path": "_nuxt/Ct-YAUpM.js",
+   "bytes": 417,
+   "contentType": "application/javascript",
+   "sha256": "6432cf5e18da2440a02e2f74811cd68398102848dd8679add1c421871c4c9f24"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/Bk4uSTP8.js",
+   "path": "_nuxt/Bk4uSTP8.js",
+   "bytes": 402,
+   "contentType": "application/javascript",
+   "sha256": "a2067598f3c395505c3ea5f7d46584ee8c23143918fa610f2a51278b40d9a92a"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/Bg6JjSem.js",
+   "path": "_nuxt/Bg6JjSem.js",
+   "bytes": 580,
+   "contentType": "application/javascript",
+   "sha256": "e9e5e1126aa713c1e2389c6221e306d1d0060734c43b3cd993559c953b182535"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/CHOVrSH8.js",
+   "path": "_nuxt/CHOVrSH8.js",
+   "bytes": 435,
+   "contentType": "application/javascript",
+   "sha256": "02bd91d2343cbb155ca37b026901e5d1c68d99bf6dfa20f46d36e3291bc4822a"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/Q3Rv5u-1.js",
+   "path": "_nuxt/Q3Rv5u-1.js",
+   "bytes": 545,
+   "contentType": "application/javascript",
+   "sha256": "315dacf170fcf6050b054bc05a5f2953671ad94d84f79555b2d37f9d1d66696d"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/DQ5DOhHw.js",
+   "path": "_nuxt/DQ5DOhHw.js",
+   "bytes": 707,
+   "contentType": "application/javascript",
+   "sha256": "60925218fa12b6c2cd7bcf494945533221fc2ca0ea43f4312fa3a854318216b4"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/COUvKk0T.js",
+   "path": "_nuxt/COUvKk0T.js",
+   "bytes": 382,
+   "contentType": "application/javascript",
+   "sha256": "8b6085354b25a88ded5a9e4bed337e9db89edcef90d34c3f6a1bb973f7c1b670"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/DoBWjOTb.js",
+   "path": "_nuxt/DoBWjOTb.js",
+   "bytes": 480,
+   "contentType": "application/javascript",
+   "sha256": "7aaae0b49da2b4fd1466281bcc9b2355f26d04f699f4e8d681bb2b4d231875dc"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/CtminaUQ.js",
+   "path": "_nuxt/CtminaUQ.js",
+   "bytes": 366,
+   "contentType": "application/javascript",
+   "sha256": "ad0a190e24b065b1c87732a7b27e13ef7a83c36856d4bad0a001f7e2e005f11d"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/ZACtG2A1.js",
+   "path": "_nuxt/ZACtG2A1.js",
+   "bytes": 506,
+   "contentType": "application/javascript",
+   "sha256": "4fc9b3ff684592c6992d5aa59ef165866a3504d168f9828ad7a2fd41a28cfdda"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/yIDbgYg1.js",
+   "path": "_nuxt/yIDbgYg1.js",
+   "bytes": 864,
+   "contentType": "application/javascript",
+   "sha256": "4dceaca1945e59c9960020858b805bf58026e43a2f46ef7689f2a6b772265d6a"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/Dvul4teP.js",
+   "path": "_nuxt/Dvul4teP.js",
+   "bytes": 647,
+   "contentType": "application/javascript",
+   "sha256": "ec2ae2e9d8724fd65502f9f0af118a4dfa79e51dc1c6e44b86d14daa88f4446f"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/DUhj2TtC.js",
+   "path": "_nuxt/DUhj2TtC.js",
+   "bytes": 1092,
+   "contentType": "application/javascript",
+   "sha256": "e13e98f57c752c962742db5519d5c7eaac54a396e934efe045ce381c8b7dc1b5"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/7wGBDfKE.js",
+   "path": "_nuxt/7wGBDfKE.js",
+   "bytes": 826,
+   "contentType": "application/javascript",
+   "sha256": "e0109e2abe5b3587209f646d23fbf0d9bc2bb006d54c6988f50d437072c91ca2"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/D7UsqVVD.js",
+   "path": "_nuxt/D7UsqVVD.js",
+   "bytes": 1702,
+   "contentType": "application/javascript",
+   "sha256": "2e6013b8ae1032a93c511e3bc754eb158a0d058c0a4cc776c7eb3d84a42d4e98"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/cc92CHLP.js",
+   "path": "_nuxt/cc92CHLP.js",
+   "bytes": 536,
+   "contentType": "application/javascript",
+   "sha256": "650d84438db1348d6d9aa934d465eb53f7155e2183e3a5484e4c330353ba0563"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/CvPToqJW.js",
+   "path": "_nuxt/CvPToqJW.js",
+   "bytes": 1112,
+   "contentType": "application/javascript",
+   "sha256": "89f1e8034fc0e73c7955db98de6824697e2fdfb37df41758af27b24a3288426d"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/BFcVyb7W.js",
+   "path": "_nuxt/BFcVyb7W.js",
+   "bytes": 1674,
+   "contentType": "application/javascript",
+   "sha256": "582ee32e1bdf8a25177bdc393d3d0b9cc00a6e8d5d0fdb785bd7e2296b140763"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/D4uy8bQq.js",
+   "path": "_nuxt/D4uy8bQq.js",
+   "bytes": 624,
+   "contentType": "application/javascript",
+   "sha256": "a835a6ed0a701bbf520d23a6bb8d6e009031c9fe4cbfd1a9dc34bc7c5334f608"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/D5Qigt-c.js",
+   "path": "_nuxt/D5Qigt-c.js",
+   "bytes": 427,
+   "contentType": "application/javascript",
+   "sha256": "1458b36ba796b89b99e3f5ef6147d9f284a0db830324ac255ae2a46869f238dd"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/CWmWsNSM.js",
+   "path": "_nuxt/CWmWsNSM.js",
+   "bytes": 508,
+   "contentType": "application/javascript",
+   "sha256": "73c7160d020a9de58308a97ea58bbd3b96f61c035d635ac4ae5aadac10a0df54"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/DRMM8Oko.js",
+   "path": "_nuxt/DRMM8Oko.js",
+   "bytes": 705,
+   "contentType": "application/javascript",
+   "sha256": "3941f384c7c226464cda6920b225e05989d25e97a48792e55da08404371a4bc6"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/pNnSFk_x.js",
+   "path": "_nuxt/pNnSFk_x.js",
+   "bytes": 632,
+   "contentType": "application/javascript",
+   "sha256": "157f95119f45a2515f61bfc66ca0ad568b767aa57f21f9603435a98213a26707"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/DWBXBUh-.js",
+   "path": "_nuxt/DWBXBUh-.js",
+   "bytes": 705,
+   "contentType": "application/javascript",
+   "sha256": "4d0cfa483f0a88ff57ade4bb1526ee87bb20d78a334d8ffa9591a52706b446b9"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/CRiitV7Y.js",
+   "path": "_nuxt/CRiitV7Y.js",
+   "bytes": 400,
+   "contentType": "application/javascript",
+   "sha256": "c836bc56293f56d7d15422eefd1be4c4b92c71388997628075c3ebe4daeb22b7"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/DsUqG2PS.js",
+   "path": "_nuxt/DsUqG2PS.js",
+   "bytes": 397,
+   "contentType": "application/javascript",
+   "sha256": "201418ee7e9044c5b1267519ac77a5b85ec3cfd4d6980efd8fa1ada7c26400e3"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/BO-nxHMP.js",
+   "path": "_nuxt/BO-nxHMP.js",
+   "bytes": 480,
+   "contentType": "application/javascript",
+   "sha256": "829b0a698ce4bff06b18dda8aa6708c2db63c21a78e647fc58ddf2d0beb8d4e5"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/DToiaNCr.js",
+   "path": "_nuxt/DToiaNCr.js",
+   "bytes": 459,
+   "contentType": "application/javascript",
+   "sha256": "1909d70c140f5974eb74e56d1ebc204eacc166d0719cb4cdb413e91517f9132b"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/DOZG_1Jn.js",
+   "path": "_nuxt/DOZG_1Jn.js",
+   "bytes": 470,
+   "contentType": "application/javascript",
+   "sha256": "501a7f2109de56130b01363a13106b98d15685b7d4ce25675c6b4932250daeaf"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/3WcR_fSL.js",
+   "path": "_nuxt/3WcR_fSL.js",
+   "bytes": 337,
+   "contentType": "application/javascript",
+   "sha256": "6ef52a763a3cd04751440224db48bd8b8ad0796f30393d20721b862663a362c9"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/DrrqncaE.js",
+   "path": "_nuxt/DrrqncaE.js",
+   "bytes": 366,
+   "contentType": "application/javascript",
+   "sha256": "9623fb93e809b4f61e0d1be77eaa04be931d553cabbe62d65c154126c8c71b7a"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/Ch1Swvf_.js",
+   "path": "_nuxt/Ch1Swvf_.js",
+   "bytes": 550,
+   "contentType": "application/javascript",
+   "sha256": "9604ea608b6f2ae139968b1b874d6d107880cc176b7c9346dafa2b499e75d36c"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/Bea-zFln.js",
+   "path": "_nuxt/Bea-zFln.js",
+   "bytes": 464,
+   "contentType": "application/javascript",
+   "sha256": "91e453d8887a5bb7ebcfea3c532cbdec02f2fe164bd5237f4bb7f51730a19a5c"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/D9RVlv5a.js",
+   "path": "_nuxt/D9RVlv5a.js",
+   "bytes": 430,
+   "contentType": "application/javascript",
+   "sha256": "cf0214ac280e2d11f8e409fc71be14380a2bfcebbd19406d85d9e94933e5573e"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/DMSiQwX0.js",
+   "path": "_nuxt/DMSiQwX0.js",
+   "bytes": 428,
+   "contentType": "application/javascript",
+   "sha256": "20549d7509966e2ed62d914fbe03da2a694ac47f8832c2a678ce7e723227d387"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/BSXF6GHE.js",
+   "path": "_nuxt/BSXF6GHE.js",
+   "bytes": 513,
+   "contentType": "application/javascript",
+   "sha256": "735c2d5aae4c2eb019f39d3e500fd255402b29143c75ad9563c36ddd8fd22c2d"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/R1YppT-H.js",
+   "path": "_nuxt/R1YppT-H.js",
+   "bytes": 638,
+   "contentType": "application/javascript",
+   "sha256": "3ed3a3856186030ac60adcec02b80632aacfde6046d355546bb8e7fca2169508"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/BL9MzHeF.js",
+   "path": "_nuxt/BL9MzHeF.js",
+   "bytes": 682,
+   "contentType": "application/javascript",
+   "sha256": "c278a41c94040e855c83ec53b537ebf10a8a4fc826d544cae765577dc0a1845d"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/BFkvSXsj.js",
+   "path": "_nuxt/BFkvSXsj.js",
+   "bytes": 895,
+   "contentType": "application/javascript",
+   "sha256": "6a9fc55daf2f18a52586319215a0e83142c91987975587034ef5c707299519fc"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/CHKSFBfr.js",
+   "path": "_nuxt/CHKSFBfr.js",
+   "bytes": 533,
+   "contentType": "application/javascript",
+   "sha256": "f57322e37d0fd053bdf27577a7b8c3e17d12efa9c37b8d7c1330d7050290db20"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/DjIGpGll.js",
+   "path": "_nuxt/DjIGpGll.js",
+   "bytes": 493,
+   "contentType": "application/javascript",
+   "sha256": "61a78123768a5c3e4a98844de944b63f7d4a9f0a47aeefe94f48f0cfae303a81"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/C3j8vV1Q.js",
+   "path": "_nuxt/C3j8vV1Q.js",
+   "bytes": 608,
+   "contentType": "application/javascript",
+   "sha256": "b3f5b9b163ac3655dad523ec66bedce5d9c951bab719136dda3bc55e5d23f861"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/CF-MYP8-.js",
+   "path": "_nuxt/CF-MYP8-.js",
+   "bytes": 606,
+   "contentType": "application/javascript",
+   "sha256": "fb0278382bfcdb46ba1d2305a9168007fb78edb3a8d4ea0cf04d7b6d39f15909"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/Bv2RI3pp.js",
+   "path": "_nuxt/Bv2RI3pp.js",
+   "bytes": 762,
+   "contentType": "application/javascript",
+   "sha256": "d04f18fe5bcacdee3a235e4b7b56f3cb50ebc37a68bf651326015ca9c6d4078a"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/BelFiKs2.js",
+   "path": "_nuxt/BelFiKs2.js",
+   "bytes": 422,
+   "contentType": "application/javascript",
+   "sha256": "1fb488d4e099fd5f4e8155504011a670bbec061273d1efbf01b18d53c76d46b1"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/BY1kBfAM.js",
+   "path": "_nuxt/BY1kBfAM.js",
+   "bytes": 503,
+   "contentType": "application/javascript",
+   "sha256": "18a62f5ee53aae37e9f43e3d34209cacfd0f8fb5aac73e3a3082e8c448ed416a"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/D9gPtOiy.js",
+   "path": "_nuxt/D9gPtOiy.js",
+   "bytes": 345,
+   "contentType": "application/javascript",
+   "sha256": "24f715840f2ac33084e4795eee12fe469bc4f30ffd520ef987a4a4a55a34485c"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/GavbuTPg.js",
+   "path": "_nuxt/GavbuTPg.js",
+   "bytes": 405,
+   "contentType": "application/javascript",
+   "sha256": "916d4ecfd61b9830c3607f8953d943f8af3d4ce46e60f9dc7d058c1303b0e123"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/Ckzxu43k.js",
+   "path": "_nuxt/Ckzxu43k.js",
+   "bytes": 535,
+   "contentType": "application/javascript",
+   "sha256": "7e9d7a31e50446659b5afe9911aa0bc042fcb7f1e869efac344d6818f4e1d9c2"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/-4vuhrH9.js",
+   "path": "_nuxt/-4vuhrH9.js",
+   "bytes": 781,
+   "contentType": "application/javascript",
+   "sha256": "8d6df4bfa84a3a63445e604c8a171b6272010dc535ff57fc204b946a181eea4c"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/JANqgc9p.js",
+   "path": "_nuxt/JANqgc9p.js",
+   "bytes": 53725,
+   "contentType": "application/javascript",
+   "sha256": "1b89d4f78ba8ef67bd7bf4a7c46f92371ac99187fdefd3c2f937b9d4c71cf948"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/8ATbtSXR.js",
+   "path": "_nuxt/8ATbtSXR.js",
+   "bytes": 7397,
+   "contentType": "application/javascript",
+   "sha256": "738af235ae8d090b4d349ba0f21cb8c798b6c124ec71d59c811c177cf64744ad"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/D9pfWW-c.js",
+   "path": "_nuxt/D9pfWW-c.js",
+   "bytes": 12525,
+   "contentType": "application/javascript",
+   "sha256": "d12fcaa228c4e1e6c834e5e663fc11d5c0231ec7dbe804601f9968327cb9a26b"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/Carousel.BrZmrPcs.css",
+   "path": "_nuxt/Carousel.BrZmrPcs.css",
+   "bytes": 4250,
+   "contentType": "text/css",
+   "sha256": "2c3111f1588b76c29bc287e88d7fbb62ba78201023d143389bdbc4d3b524d3a0"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/NewsletterForm.BHWbQLxP.css",
+   "path": "_nuxt/NewsletterForm.BHWbQLxP.css",
+   "bytes": 8893,
+   "contentType": "text/css",
+   "sha256": "0010fe674868a95b0571613b0520d90921125d2d92a14cb85c5329487874344e"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/9nuYNTwJ.js",
+   "path": "_nuxt/9nuYNTwJ.js",
+   "bytes": 20995,
+   "contentType": "application/javascript",
+   "sha256": "c72a0bd1afdc994bd1680f445a95511a6db3c3febcecfd7bd69e5ab1b025ad08"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/BocJCfvS.js",
+   "path": "_nuxt/BocJCfvS.js",
+   "bytes": 2097,
+   "contentType": "application/javascript",
+   "sha256": "c511d461ee7de22665acee6ea4644a81cd6af2f46a3e7ff580bfe620a9351222"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/oYFCVSHy.js",
+   "path": "_nuxt/oYFCVSHy.js",
+   "bytes": 1318,
+   "contentType": "application/javascript",
+   "sha256": "aaec18c761e46d73b8c2e8d8d6fda9f15581b9ec77f94b87caf32618294329f7"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/ButtonList.Cd-0A8zx.css",
+   "path": "_nuxt/ButtonList.Cd-0A8zx.css",
+   "bytes": 3928,
+   "contentType": "text/css",
+   "sha256": "dcf887a446688e93dc0848d8ac076579839abd7ce435680698fceacd3f283d7c"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/AccuracyCard.j5xHQp5F.css",
+   "path": "_nuxt/AccuracyCard.j5xHQp5F.css",
+   "bytes": 6583,
+   "contentType": "text/css",
+   "sha256": "e455967d56eec7bd4fee155b4abfddfbda5bb45e4c3ebd393adad19055642a82"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/SpeedCard.DMfeBcGY.css",
+   "path": "_nuxt/SpeedCard.DMfeBcGY.css",
+   "bytes": 3472,
+   "contentType": "text/css",
+   "sha256": "7b8157cf10488dca7899056dfa04935837c4be088aa593e8c05899f68067da6e"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/RiveAsset.CZm2wqiV.css",
+   "path": "_nuxt/RiveAsset.CZm2wqiV.css",
+   "bytes": 2591,
+   "contentType": "text/css",
+   "sha256": "91ca23dbee1c140428eb5fa6e7064d8940b071973706f374595fec2cd586e32e"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/StatCard.C9QZIiah.css",
+   "path": "_nuxt/StatCard.C9QZIiah.css",
+   "bytes": 4131,
+   "contentType": "text/css",
+   "sha256": "ea3d7943f5d3b2ab98de202be8477ccbe25892df7dae494abd72cf00d8e63df4"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/ExploitCard.lxoY-usu.css",
+   "path": "_nuxt/ExploitCard.lxoY-usu.css",
+   "bytes": 12230,
+   "contentType": "text/css",
+   "sha256": "b52509754e9799f1ff381dc9eb40893bba2db4df6dc68faa4c7ef0d8038ce804"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/CUqbjOjy.js",
+   "path": "_nuxt/CUqbjOjy.js",
+   "bytes": 8036,
+   "contentType": "application/javascript",
+   "sha256": "d58a6c64cd3fa934660a1607925f4b3113ecfc2a9fa39866352b3897dfe17d7d"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/6yCKWxF8.js",
+   "path": "_nuxt/6yCKWxF8.js",
+   "bytes": 981,
+   "contentType": "application/javascript",
+   "sha256": "116fe3a87405e4281a6b14b6755b05a010e2a07b240e6a2a22954e636f27c8be"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/cIfk7yRO.js",
+   "path": "_nuxt/cIfk7yRO.js",
+   "bytes": 3098,
+   "contentType": "application/javascript",
+   "sha256": "443077c910b270bec419644d9507113e5c41a95b6bc2fcf7ca87fa83b3b5f6c5"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/DGhBzL6K.js",
+   "path": "_nuxt/DGhBzL6K.js",
+   "bytes": 1247,
+   "contentType": "application/javascript",
+   "sha256": "1c255a1cf63bd73544d6c4142f8c16f2702dea1b4715578855fa0d458a0af6db"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/D33iF0LW.js",
+   "path": "_nuxt/D33iF0LW.js",
+   "bytes": 4451,
+   "contentType": "application/javascript",
+   "sha256": "6bdee587cc92b87e5fed95873813eb28b73d4654d86567b18d9c53936948ddd4"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/mDN5UEkR.js",
+   "path": "_nuxt/mDN5UEkR.js",
+   "bytes": 1880,
+   "contentType": "application/javascript",
+   "sha256": "a7c4be27e15bb0c1e683937cf6f2a9115fec26dd34b94e987fa92420c4d2f3a4"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/BFtXoW5L.js",
+   "path": "_nuxt/BFtXoW5L.js",
+   "bytes": 4675,
+   "contentType": "application/javascript",
+   "sha256": "40ce194474d31b40792d830e9ec20df5a97fd1d9bc280f95603cc383039ac8f1"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/DWvQKxl4.js",
+   "path": "_nuxt/DWvQKxl4.js",
+   "bytes": 3070,
+   "contentType": "application/javascript",
+   "sha256": "6da78272f2ecce16c38f59a41e576f37fa85162a174518af081453db6baac3bc"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/BaWCe95U.js",
+   "path": "_nuxt/BaWCe95U.js",
+   "bytes": 2486,
+   "contentType": "application/javascript",
+   "sha256": "dcc406c25375f6a98004a9c99abcb61e1dee473da6aef15c5440070dabec71a3"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/FeaturedCards.BZ7xCGQP.css",
+   "path": "_nuxt/FeaturedCards.BZ7xCGQP.css",
+   "bytes": 16106,
+   "contentType": "text/css",
+   "sha256": "8354a48809ba0291ca6344560334929fa9f022f07617777678ebb04242dfc11f"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/ButtonSimple.DhEDKuor.css",
+   "path": "_nuxt/ButtonSimple.DhEDKuor.css",
+   "bytes": 3351,
+   "contentType": "text/css",
+   "sha256": "33d056ac9b767dbe60f6a7633c977308eefbd1744e5dd3065bedf2974a575fdb"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/DraggableList.MepqEmy7.css",
+   "path": "_nuxt/DraggableList.MepqEmy7.css",
+   "bytes": 4034,
+   "contentType": "text/css",
+   "sha256": "28b579d967a1f65f60c148590c29a39ba85e6b2ddd1d9ca2be788f66ac904279"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/w24EzQVx.js",
+   "path": "_nuxt/w24EzQVx.js",
+   "bytes": 1179,
+   "contentType": "application/javascript",
+   "sha256": "2d06a1a3674675d2c33b31bfebdda00389f4f49728d1f83585df2f677fe69088"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/BbdpyP-i.js",
+   "path": "_nuxt/BbdpyP-i.js",
+   "bytes": 4400,
+   "contentType": "application/javascript",
+   "sha256": "65088cf4628652fcfb6eabd1cdee2a94679d921db10337ee14493d18d4974858"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/DOiHG4TN.js",
+   "path": "_nuxt/DOiHG4TN.js",
+   "bytes": 487,
+   "contentType": "application/javascript",
+   "sha256": "34efd53a5c74bd91183af63362d6a15c9063a6f30473336943fa626609260bb7"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/Br7XH3O8.js",
+   "path": "_nuxt/Br7XH3O8.js",
+   "bytes": 44763,
+   "contentType": "application/javascript",
+   "sha256": "46922617104da433df8ab707919d4e33e9640b3ced2179aea29485c9a5e1a067"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/BJ2APCe5.js",
+   "path": "_nuxt/BJ2APCe5.js",
+   "bytes": 4232,
+   "contentType": "application/javascript",
+   "sha256": "b66baa25e83f9310f69429bca58d26d38d26b4602a3d16c35d43b1f81a0d07ae"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/CgHT1weo.js",
+   "path": "_nuxt/CgHT1weo.js",
+   "bytes": 4982,
+   "contentType": "application/javascript",
+   "sha256": "0a050eedf8f9b19d48a8878cc5c7aea8b486357bac9ab67f68bbb0d38e20a231"
+  },
+  {
+   "url": "https://ethiack.com/favicon-96x96.png",
+   "path": "favicon-96x96.png",
+   "bytes": 1371,
+   "contentType": "image/png",
+   "sha256": "2533c72bb32f31017ec58349fccefd1bef07dbf4c24b6fad2ea40eff15d54d00"
+  },
+  {
+   "url": "https://ethiack.com/favicon.svg",
+   "path": "favicon.svg",
+   "bytes": 789,
+   "contentType": "image/svg+xml",
+   "sha256": "8bd4dfcd20167ddbf02c59ddaa3881a4afa8744119b218cae91a869e080719c3"
+  },
+  {
+   "url": "https://ethiack.com/favicon.ico",
+   "path": "favicon.ico",
+   "bytes": 15086,
+   "contentType": "image/vnd.microsoft.icon",
+   "sha256": "a0bff2aec0a9dc488c06e209cce8f6ae768f884ceff65e358eb41cfa7c43f693"
+  },
+  {
+   "url": "https://ethiack.com/apple-touch-icon.png",
+   "path": "apple-touch-icon.png",
+   "bytes": 2786,
+   "contentType": "image/png",
+   "sha256": "801cd455dfffb9edd40e35b5763b57a9d3bcdc921e3477a5d54edb58e19d5bc0"
+  },
+  {
+   "url": "https://ethiack.com/site.webmanifest",
+   "path": "site.webmanifest",
+   "bytes": 397,
+   "contentType": "application/manifest+json",
+   "sha256": "ebd96b10149a49bf12ef75e8738e156a40d06aadbad68deed3ebc45f941fc7f3"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/feed.xml",
+   "path": "info-hub/feed.xml",
+   "bytes": 32980,
+   "contentType": "application/rss+xml",
+   "sha256": "bb4b6e360050874fb47f4242e89f9aabe53ba746bca85be513d0560f6a814afe"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x4096/https://cdn.sanity.io/images/ah5kp358/production/bfd90eb65a612331e69cb3c991ecc9ddbfd49862-1656x1995.jpg",
+   "path": "_ipx/f_webp_amp_s_3400x4096/https_/cdn.sanity.io/images/ah5kp358/production/bfd90eb65a612331e69cb3c991ecc9ddbfd49862-1656x1995.jpg",
+   "bytes": 22854,
+   "contentType": "image/webp",
+   "sha256": "aab0d45a903817635d7284b2752df6977d43c6245e43fd87ec0520716efa159e"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x2510/https://cdn.sanity.io/images/ah5kp358/production/9f6dbe60c89b7926b6fff2880601242bf576d40b-1341x990.jpg",
+   "path": "_ipx/f_webp_amp_s_3400x2510/https_/cdn.sanity.io/images/ah5kp358/production/9f6dbe60c89b7926b6fff2880601242bf576d40b-1341x990.jpg",
+   "bytes": 23198,
+   "contentType": "image/webp",
+   "sha256": "308b92643af0592975d63ce6cfc5cea0546b6eff9c4528a23bd707742a6e2be1"
+  },
+  {
+   "url": "https://ethiack.com/hackian",
+   "path": "hackian.html",
+   "bytes": 422608,
+   "contentType": "text/html",
+   "sha256": "e74936417ce8d1aed0477c2736536fc81be86ad9c3c40a472e64b0c2a7b4f41f"
+  },
+  {
+   "url": "https://ethiack.com/platform",
+   "path": "platform.html",
+   "bytes": 384847,
+   "contentType": "text/html",
+   "sha256": "1edd202cd723281d93a738ad09757c98d1e27ce35437fc223d1c8a6eb81adf1f"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x6792/https://cdn.sanity.io/images/ah5kp358/production/46ce51d17e8591f9771e17ea79547852aeae9b28-804x1606.jpg",
+   "path": "_ipx/f_webp_amp_s_3400x6792/https_/cdn.sanity.io/images/ah5kp358/production/46ce51d17e8591f9771e17ea79547852aeae9b28-804x1606.jpg",
+   "bytes": 49044,
+   "contentType": "image/webp",
+   "sha256": "b24593553643b63187a936b7907091c555731896b954976c7a55b4c334658121"
+  },
+  {
+   "url": "https://ethiack.com/platform/attack-surface-management",
+   "path": "platform/attack-surface-management.html",
+   "bytes": 371835,
+   "contentType": "text/html",
+   "sha256": "3a1710efe286a8f679ecd5434763f1427b533e38fbd7b97cf8e9f67a45bd1434"
+  },
+  {
+   "url": "https://ethiack.com/platform/adversarial-exposure-validation",
+   "path": "platform/adversarial-exposure-validation.html",
+   "bytes": 374382,
+   "contentType": "text/html",
+   "sha256": "3225e5032cd87fa81f214f9ba5c589463cc502cb3b8ebe16321c94c2503f1428"
+  },
+  {
+   "url": "https://ethiack.com/platform/agentic-pentest-as-a-service",
+   "path": "platform/agentic-pentest-as-a-service.html",
+   "bytes": 373654,
+   "contentType": "text/html",
+   "sha256": "c0a70f296eb78469868d241df17788ecc400afed82696444c503e3d56771af55"
+  },
+  {
+   "url": "https://ethiack.com/platform/risk-based-vulnerability-management",
+   "path": "platform/risk-based-vulnerability-management.html",
+   "bytes": 372053,
+   "contentType": "text/html",
+   "sha256": "3c549ffcfa4e7d67b346218f44d1cc072706e5f6acb4140937fcc52abfe10fff"
+  },
+  {
+   "url": "https://ethiack.com/platform/risk-exposure-management",
+   "path": "platform/risk-exposure-management.html",
+   "bytes": 371476,
+   "contentType": "text/html",
+   "sha256": "e1f666fcdfb6944ab4f4b1765bc9a80d4904f952a3fbfdced89a50a4389d37c6"
+  },
+  {
+   "url": "https://ethiack.com/platform/compliance-reporting",
+   "path": "platform/compliance-reporting.html",
+   "bytes": 371784,
+   "contentType": "text/html",
+   "sha256": "f48befc1ae9301311bc1730b160d5acac34a09ceb8ac9805c29b4a72a32c00e3"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/case-studies/strengthening-cybersecurity-at-ana-aeroportos-with-ethiacks-ethical-hacking",
+   "path": "info-hub/case-studies/strengthening-cybersecurity-at-ana-aeroportos-with-ethiacks-ethical-hacking.html",
+   "bytes": 292114,
+   "contentType": "text/html",
+   "sha256": "cc8863737cb92eb94820b185947bc34675f442f593c3e1ab3df99ce724a0d7af"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/case-studies/scaling-security-how-uporto-and-ethiack-protected-5000-assets-with-ai-powered-intelligence",
+   "path": "info-hub/case-studies/scaling-security-how-uporto-and-ethiack-protected-5000-assets-with-ai-powered-intelligence.html",
+   "bytes": 288027,
+   "contentType": "text/html",
+   "sha256": "dd64f05173d2d22a0b9bc1295d1360b238a4a2ca297bf025daf43e30e0bc0946"
+  },
+  {
+   "url": "https://ethiack.com/use-cases",
+   "path": "use-cases.html",
+   "bytes": 439585,
+   "contentType": "text/html",
+   "sha256": "0a371ca02bf8c63bf7e0b1ea7cca646139d6521b43247f548e75a5c6c19f409d"
+  },
+  {
+   "url": "https://ethiack.com/legal/terms-of-service",
+   "path": "legal/terms-of-service.html",
+   "bytes": 281337,
+   "contentType": "text/html",
+   "sha256": "5dade987a70d2cf8cac26b15ba8867096447b456c9a54a6cffeccfffa34ae4cd"
+  },
+  {
+   "url": "https://ethiack.com/legal/security-policy",
+   "path": "legal/security-policy.html",
+   "bytes": 228488,
+   "contentType": "text/html",
+   "sha256": "e1989fe2e321a84e4fceb7a77974827ff11ca240ca8ed6e9dd14780c1e09c9e8"
+  },
+  {
+   "url": "https://ethiack.com/sitemap",
+   "path": "sitemap.html",
+   "bytes": 239176,
+   "contentType": "text/html",
+   "sha256": "81702a0d73eec15baba1191ca8e38b4b2d797a5584a37af69d9b64883b961c2a"
+  },
+  {
+   "url": "https://ethiack.com/legal/ethiack-portal-ipn",
+   "path": "legal/ethiack-portal-ipn.html",
+   "bytes": 230682,
+   "contentType": "text/html",
+   "sha256": "69e88bcddc3b07c79b24849e3abbcbec27df6cc928f6dae4849213ca1368cc68"
+  },
+  {
+   "url": "https://ethiack.com/legal/privacy-policy",
+   "path": "legal/privacy-policy.html",
+   "bytes": 244182,
+   "contentType": "text/html",
+   "sha256": "7ffc3262aab31988d4225ae923c02d699894395b975f12973022d2527f378523"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/index.CpOek4ti.css",
+   "path": "_nuxt/index.CpOek4ti.css",
+   "bytes": 19803,
+   "contentType": "text/css",
+   "sha256": "6583409df629eb6c0e6aa6adabea77a32cafc3c422430393e719697590bc9ece"
+  },
+  {
+   "url": "https://ethiack.com/hackian/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "hackian/_payload.json",
+   "bytes": 244406,
+   "contentType": "application/json",
+   "sha256": "8c328d2e735d4e32a5c0d2eda6628d73abe0ec48e96a182ebdc118e053fb2cde"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/DpGOSAyH.js",
+   "path": "_nuxt/DpGOSAyH.js",
+   "bytes": 11252,
+   "contentType": "application/javascript",
+   "sha256": "5504bc66c9bbda45174f36405ee260c02e26f60dba8a28c274282b4ca05f1824"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/BhDMk6Jg.js",
+   "path": "_nuxt/BhDMk6Jg.js",
+   "bytes": 3910,
+   "contentType": "application/javascript",
+   "sha256": "3abd9b349f9e24e5995962634dc1e79dc694a6f8178652d1ae697d98b9a0e10a"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/DKv5shZh.js",
+   "path": "_nuxt/DKv5shZh.js",
+   "bytes": 6254,
+   "contentType": "application/javascript",
+   "sha256": "d92a434a04dade75fac0f8083287b676abf1d21e3eb64d47c4fd954f718a602a"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/HighlightsList.BJtV2GG-.css",
+   "path": "_nuxt/HighlightsList.BJtV2GG-.css",
+   "bytes": 4302,
+   "contentType": "text/css",
+   "sha256": "9b40e861c11eb97cd3c9d40ea8c8c90c93789b0711fa885f7f80f2f271fde0df"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/CroqzwbF.js",
+   "path": "_nuxt/CroqzwbF.js",
+   "bytes": 1104,
+   "contentType": "application/javascript",
+   "sha256": "df3f079a8b53640ac41ad409fb00303f775d41bd350a0a067796f2e0b0d6c444"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/CE7GCibe.js",
+   "path": "_nuxt/CE7GCibe.js",
+   "bytes": 1634,
+   "contentType": "application/javascript",
+   "sha256": "6bff514303a5bf112287533257cff4c2b9f53c3ce1876ab454f6b5d1a7664ac0"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/CSceFqSJ.js",
+   "path": "_nuxt/CSceFqSJ.js",
+   "bytes": 3943,
+   "contentType": "application/javascript",
+   "sha256": "2f2c7d4b361dbd7e83c17a0d8a4fa3ed6f49c7f236bbcb906e12938700b590da"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x1776/https://cdn.sanity.io/images/ah5kp358/production/671b456484135dccdbdfe21bd75cdb1f2272768f-1206x630.jpg",
+   "path": "_ipx/f_webp_amp_s_3400x1776/https_/cdn.sanity.io/images/ah5kp358/production/671b456484135dccdbdfe21bd75cdb1f2272768f-1206x630.jpg",
+   "bytes": 16496,
+   "contentType": "image/webp",
+   "sha256": "ac0e81d0e38f2378f0ec60a8b2b36f98fc4fe8d8f352ca5480994f1bb9b797a1"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x2434/https://cdn.sanity.io/images/ah5kp358/production/e0c089a5047aa23dd8f23e1fb05b8ca1008c9453-1341x960.jpg",
+   "path": "_ipx/f_webp_amp_s_3400x2434/https_/cdn.sanity.io/images/ah5kp358/production/e0c089a5047aa23dd8f23e1fb05b8ca1008c9453-1341x960.jpg",
+   "bytes": 15522,
+   "contentType": "image/webp",
+   "sha256": "759f436e99e48bc75336067aa04348420f9b9ca8472ce77215ccaf82998858cf"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x1972/https://cdn.sanity.io/images/ah5kp358/production/36fcb530ed26e3859c56ae4c11c45c8be40285d3-1656x960.jpg",
+   "path": "_ipx/f_webp_amp_s_3400x1972/https_/cdn.sanity.io/images/ah5kp358/production/36fcb530ed26e3859c56ae4c11c45c8be40285d3-1656x960.jpg",
+   "bytes": 13044,
+   "contentType": "image/webp",
+   "sha256": "51694caf449b0e4006866b20ae870820f3b65c37ce6a4cbdc0b9117ab0caf77c"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x4096/https://cdn.sanity.io/images/ah5kp358/production/f0545053cf384d8e648d2a29c3a5eafbadd56cab-1656x1995.jpg",
+   "path": "_ipx/f_webp_amp_s_3400x4096/https_/cdn.sanity.io/images/ah5kp358/production/f0545053cf384d8e648d2a29c3a5eafbadd56cab-1656x1995.jpg",
+   "bytes": 17474,
+   "contentType": "image/webp",
+   "sha256": "c85fe9f17b3d82f92babbf77d366cd2cbeffe56a7766783b5daf4856a784d2a8"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x2434/https://cdn.sanity.io/images/ah5kp358/production/74654d21ba0c2dae65063f89b6ff72305be5cb35-1341x960.jpg",
+   "path": "_ipx/f_webp_amp_s_3400x2434/https_/cdn.sanity.io/images/ah5kp358/production/74654d21ba0c2dae65063f89b6ff72305be5cb35-1341x960.jpg",
+   "bytes": 14970,
+   "contentType": "image/webp",
+   "sha256": "5f84277de7f6e0bab46e971bd6e0b1266689a3b5dc908e31ae45a6b5ec9e30e5"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x2434/https://cdn.sanity.io/images/ah5kp358/production/f525f7da4fa3a3dfe5e1d0b5afe7ff4e5fe53fc0-1341x960.jpg",
+   "path": "_ipx/f_webp_amp_s_3400x2434/https_/cdn.sanity.io/images/ah5kp358/production/f525f7da4fa3a3dfe5e1d0b5afe7ff4e5fe53fc0-1341x960.jpg",
+   "bytes": 5564,
+   "contentType": "image/webp",
+   "sha256": "95c9880db1dc5fe998a55779e636689abd4db5f8b51585c7a4abc813f2d8c9dc"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/index.pzXV2XEb.css",
+   "path": "_nuxt/index.pzXV2XEb.css",
+   "bytes": 11168,
+   "contentType": "text/css",
+   "sha256": "139431d1bb939dff845e89595a850386ebc618fee17ff2b632678c7acc2dd75d"
+  },
+  {
+   "url": "https://ethiack.com/platform/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "platform/_payload.json",
+   "bytes": 278439,
+   "contentType": "application/json",
+   "sha256": "bd6b061a86447dc63e580a3b4ad4aa3a4be529d07d7ac5c69018963030b716c4"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/Dr1hQoHk.js",
+   "path": "_nuxt/Dr1hQoHk.js",
+   "bytes": 10366,
+   "contentType": "application/javascript",
+   "sha256": "94ab22f8fb347d70e29b8084804e33688b36b14e206966bfe45f01539740fcbc"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/CZrm-18c.js",
+   "path": "_nuxt/CZrm-18c.js",
+   "bytes": 3117,
+   "contentType": "application/javascript",
+   "sha256": "568774f1107c04dcf890945e6f447c21373294a2f2bc991423882fa9e518b4db"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/BUxDA4QN.js",
+   "path": "_nuxt/BUxDA4QN.js",
+   "bytes": 927,
+   "contentType": "application/javascript",
+   "sha256": "81e49fe8648d559acc4c08d6c0641ef6260adbab4da64902544bd3b1db60e5a0"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x2550/https://cdn.sanity.io/images/ah5kp358/production/2da3fe6b96aa5c6df292dfbbabb6785d8a259036-3000x2250.jpg",
+   "path": "_ipx/f_webp_amp_s_3400x2550/https_/cdn.sanity.io/images/ah5kp358/production/2da3fe6b96aa5c6df292dfbbabb6785d8a259036-3000x2250.jpg",
+   "bytes": 228512,
+   "contentType": "image/webp",
+   "sha256": "f6b653f61c8af36989e39571f655e3fc3c9d85a1bab744ed66bb19d7451efa0a"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/index.C28WbdF0.css",
+   "path": "_nuxt/index.C28WbdF0.css",
+   "bytes": 7345,
+   "contentType": "text/css",
+   "sha256": "d0a0df2b456e239a466061988c1c1e7e76d315e14778abe448d934a2fbad17d7"
+  },
+  {
+   "url": "https://ethiack.com/platform/attack-surface-management/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "platform/attack-surface-management/_payload.json",
+   "bytes": 262467,
+   "contentType": "application/json",
+   "sha256": "d13cc8fed62bf54635265c4c3ddd7871d168d86160f5aa17c1699359919b5fc2"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/DwiI_BbY.js",
+   "path": "_nuxt/DwiI_BbY.js",
+   "bytes": 8798,
+   "contentType": "application/javascript",
+   "sha256": "de2c8d3e931c28d447adb26e20ccfa82fb46b87799cc30c0655a9dddaef7883c"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/L0otF8b7.js",
+   "path": "_nuxt/L0otF8b7.js",
+   "bytes": 2793,
+   "contentType": "application/javascript",
+   "sha256": "2e061d2e342a1592127af70a35d16202909b7da4969a962c2017019b9960f813"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/TopNoteNumber.KOipRrht.css",
+   "path": "_nuxt/TopNoteNumber.KOipRrht.css",
+   "bytes": 3900,
+   "contentType": "text/css",
+   "sha256": "556171a834e498da6501e84db3f5c79caba2646023c66048390581246d91a7bc"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/DAMpMUIz.js",
+   "path": "_nuxt/DAMpMUIz.js",
+   "bytes": 1673,
+   "contentType": "application/javascript",
+   "sha256": "9d3a76c9c634ab49136f83d6d1e002fc7355102d7b5d1f516831c6460b1064ca"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/Dj-XpjtK.js",
+   "path": "_nuxt/Dj-XpjtK.js",
+   "bytes": 812,
+   "contentType": "application/javascript",
+   "sha256": "44f8ea79eaf36077e88b5749f22a5b5e0e2292566daa6e46137a640698d79036"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/XAwUUxIO.js",
+   "path": "_nuxt/XAwUUxIO.js",
+   "bytes": 3504,
+   "contentType": "application/javascript",
+   "sha256": "7570a508d9f5f6016c1ec37e91992bbfcbe0f72f76513ac66f441ca179397de1"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/D58Cty5a.js",
+   "path": "_nuxt/D58Cty5a.js",
+   "bytes": 5272,
+   "contentType": "application/javascript",
+   "sha256": "960acef27c293c531fce21aa2a320fa77b984c972f93fe5226232dc4dcd23d82"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/DoqED-8m.js",
+   "path": "_nuxt/DoqED-8m.js",
+   "bytes": 1745,
+   "contentType": "application/javascript",
+   "sha256": "875c122b3b64b405c16120b01eef6706d5f64a38c80fe884dd81e379a0500305"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/QuoteDrawers.BDT94GG4.css",
+   "path": "_nuxt/QuoteDrawers.BDT94GG4.css",
+   "bytes": 9113,
+   "contentType": "text/css",
+   "sha256": "1596eb871a015726688c1120d8d66a3823f3fcc4b9d540a48babe75d2b08f7b9"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/AuthorCard.DY5yc6Gi.css",
+   "path": "_nuxt/AuthorCard.DY5yc6Gi.css",
+   "bytes": 4985,
+   "contentType": "text/css",
+   "sha256": "d689233df1595d16c6d4d34ea831c9a2e7d469d52894676fd69778662d904765"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/kUzwLRBZ.js",
+   "path": "_nuxt/kUzwLRBZ.js",
+   "bytes": 775,
+   "contentType": "application/javascript",
+   "sha256": "4ee72fc08be4e04bb114b0a43db7ae542b8fef16f1f2ca37fa213f2e393f385f"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/DA7uQ1o6.js",
+   "path": "_nuxt/DA7uQ1o6.js",
+   "bytes": 3563,
+   "contentType": "application/javascript",
+   "sha256": "a3170bb7e58b27639ddf0130cb84836211b4d0dc804a48427c3e7d783e830593"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/BLiyEnK9.js",
+   "path": "_nuxt/BLiyEnK9.js",
+   "bytes": 1308,
+   "contentType": "application/javascript",
+   "sha256": "08f931ecf89cabb91203568374f28ee8b3f721882626357c41db4e49b1c9066c"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/C6i4Sdga.js",
+   "path": "_nuxt/C6i4Sdga.js",
+   "bytes": 1078,
+   "contentType": "application/javascript",
+   "sha256": "36507296e43b0449c39d62b0ddea8d571ee8f3483a39e26c75f14054411ee887"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x2090/https://cdn.sanity.io/images/ah5kp358/production/d09d9bf307caa31b8a52d70ef4ce5defc6378b78-1796x1104.png",
+   "path": "_ipx/f_webp_amp_s_3400x2090/https_/cdn.sanity.io/images/ah5kp358/production/d09d9bf307caa31b8a52d70ef4ce5defc6378b78-1796x1104.png",
+   "bytes": 127166,
+   "contentType": "image/webp",
+   "sha256": "9b8d633a53e4e79329dab36b41327ef889909dc79072350653ecc0599324dfa5"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/case-studies/how-ethiack-helps-zick-learn-protect-their-relationships-with-enterprise-clients",
+   "path": "info-hub/case-studies/how-ethiack-helps-zick-learn-protect-their-relationships-with-enterprise-clients.html",
+   "bytes": 287766,
+   "contentType": "text/html",
+   "sha256": "e8e3aa21d1f8a781fc27a5dc88e55e395ffe0e6f3a7eeb5f10d61364a5888078"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x5174/https://cdn.sanity.io/images/ah5kp358/production/04662dc64df104cdf0876615ee1670b02098ecaa-184x280.jpg",
+   "path": "_ipx/f_webp_amp_s_3400x5174/https_/cdn.sanity.io/images/ah5kp358/production/04662dc64df104cdf0876615ee1670b02098ecaa-184x280.jpg",
+   "bytes": 8360,
+   "contentType": "image/webp",
+   "sha256": "0750ec132fd0b1530e70bc84b3759cf01aacb13da748116561d2eb9e9c8e5dba"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x3400/https://cdn.sanity.io/images/ah5kp358/production/4abb37e47600f4cc21714dafbe601f1b0c7354fe-800x800.png",
+   "path": "_ipx/f_webp_amp_s_3400x3400/https_/cdn.sanity.io/images/ah5kp358/production/4abb37e47600f4cc21714dafbe601f1b0c7354fe-800x800.png",
+   "bytes": 64406,
+   "contentType": "image/webp",
+   "sha256": "3d5cd54184af1070f0cb5f2decc48db015ad0cdc4633ead9576285b5786d6059"
+  },
+  {
+   "url": "https://ethiack.com/platform/adversarial-exposure-validation/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "platform/adversarial-exposure-validation/_payload.json",
+   "bytes": 263700,
+   "contentType": "application/json",
+   "sha256": "5628c74828d528861b3c5098c7321f2434d8cada57928b110b6db45856d8573c"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x1374/https://cdn.sanity.io/images/ah5kp358/production/bbea1c322ca8bf1b1a03071e29765169a36ea29e-2114x854.png",
+   "path": "_ipx/f_webp_amp_s_3400x1374/https_/cdn.sanity.io/images/ah5kp358/production/bbea1c322ca8bf1b1a03071e29765169a36ea29e-2114x854.png",
+   "bytes": 96304,
+   "contentType": "image/webp",
+   "sha256": "8188ad939c8637ba7715e9b00c1df07017775a0a7732d36f27613b90d3950d50"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x3400/https://cdn.sanity.io/images/ah5kp358/production/2d1ca25b770a3369fb909ca5092c81650151802e-800x800.jpg",
+   "path": "_ipx/f_webp_amp_s_3400x3400/https_/cdn.sanity.io/images/ah5kp358/production/2d1ca25b770a3369fb909ca5092c81650151802e-800x800.jpg",
+   "bytes": 21182,
+   "contentType": "image/webp",
+   "sha256": "3c2318611d39ace9616f4e589ec8d29545673d6f780e5639c27387a8a664762b"
+  },
+  {
+   "url": "https://ethiack.com/platform/agentic-pentest-as-a-service/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "platform/agentic-pentest-as-a-service/_payload.json",
+   "bytes": 264533,
+   "contentType": "application/json",
+   "sha256": "9433c9c81f7fbfeabdd9a452f34dcc7aefe8150dc2f2fa4b836d45e1c99b6900"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x2142/https://cdn.sanity.io/images/ah5kp358/production/13d5f04d84a81e1995ef42e0cc740f6395e0fbab-2000x1260.png",
+   "path": "_ipx/f_webp_amp_s_3400x2142/https_/cdn.sanity.io/images/ah5kp358/production/13d5f04d84a81e1995ef42e0cc740f6395e0fbab-2000x1260.png",
+   "bytes": 391924,
+   "contentType": "image/webp",
+   "sha256": "7c36a80ae0f13ffe11a76d0a052dcf194d670d010215b51b6ea8970d504a92aa"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x5174/https://cdn.sanity.io/images/ah5kp358/production/b3f50b970b53aff5c9faedd096eaedb3ac529298-184x280.jpg",
+   "path": "_ipx/f_webp_amp_s_3400x5174/https_/cdn.sanity.io/images/ah5kp358/production/b3f50b970b53aff5c9faedd096eaedb3ac529298-184x280.jpg",
+   "bytes": 4690,
+   "contentType": "image/webp",
+   "sha256": "9f4d4e9947416b183c980a465fd5912adb0185f24c9d617d64b766063b481f69"
+  },
+  {
+   "url": "https://ethiack.com/platform/risk-based-vulnerability-management/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "platform/risk-based-vulnerability-management/_payload.json",
+   "bytes": 262926,
+   "contentType": "application/json",
+   "sha256": "b233c0fdae27ac673f1dfcc1e250fe4ee21ae10fa93eec81bd05ccfe4c36e000"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x1524/https://cdn.sanity.io/images/ah5kp358/production/97c7a3dc003cf0e380665497e28f8d03e035c6a7-2114x948.png",
+   "path": "_ipx/f_webp_amp_s_3400x1524/https_/cdn.sanity.io/images/ah5kp358/production/97c7a3dc003cf0e380665497e28f8d03e035c6a7-2114x948.png",
+   "bytes": 103662,
+   "contentType": "image/webp",
+   "sha256": "1cf07513c96badfc7f884cdc74e13650ebb6184519046b7515a6399d780d4eeb"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/case-studies/upgrading-from-annual-pentests-to-automated-pentests-secfixs-story",
+   "path": "info-hub/case-studies/upgrading-from-annual-pentests-to-automated-pentests-secfixs-story.html",
+   "bytes": 287800,
+   "contentType": "text/html",
+   "sha256": "9621f0a24c36033e3acb74fe0732ac93152e5e13724f2d5ffdd819f225290800"
+  },
+  {
+   "url": "https://ethiack.com/platform/risk-exposure-management/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "platform/risk-exposure-management/_payload.json",
+   "bytes": 262692,
+   "contentType": "application/json",
+   "sha256": "3cdd5cae884f66e4b3746ac7b51756bf11b17adf72c9883c7d45ac345f036994"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x1386/https://cdn.sanity.io/images/ah5kp358/production/07ac2f61e9cd021ff8a9b6da907c6b2d1b71dc0b-2700x1100.png",
+   "path": "_ipx/f_webp_amp_s_3400x1386/https_/cdn.sanity.io/images/ah5kp358/production/07ac2f61e9cd021ff8a9b6da907c6b2d1b71dc0b-2700x1100.png",
+   "bytes": 404276,
+   "contentType": "image/webp",
+   "sha256": "5d7af129bd41d7be5bbadb088cdc64d3c889bff1495a06487e58d54eb11e454d"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/case-studies/continuous-security-assurance-for-compliancewise-adapting-to-an-ever-evolving-landscape",
+   "path": "info-hub/case-studies/continuous-security-assurance-for-compliancewise-adapting-to-an-ever-evolving-landscape.html",
+   "bytes": 284274,
+   "contentType": "text/html",
+   "sha256": "f9529a919b696c617ebabce0d71579eb8430c9a98d70e0a7162f378fc4190d2d"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x3400/https://cdn.sanity.io/images/ah5kp358/production/028c93fb3df0ded7446363fcebc1b4fac5284d9e-400x400.jpg",
+   "path": "_ipx/f_webp_amp_s_3400x3400/https_/cdn.sanity.io/images/ah5kp358/production/028c93fb3df0ded7446363fcebc1b4fac5284d9e-400x400.jpg",
+   "bytes": 6882,
+   "contentType": "image/webp",
+   "sha256": "06cce321b0246471f0e356658a2297967d8f42203a73974100f0e9c34258d79e"
+  },
+  {
+   "url": "https://ethiack.com/platform/compliance-reporting/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "platform/compliance-reporting/_payload.json",
+   "bytes": 262637,
+   "contentType": "application/json",
+   "sha256": "8ad2fe6ad5e316ad466b19ef67386cca1077b1c2090f35c13dab579b273522f2"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x1582/https://cdn.sanity.io/images/ah5kp358/production/3c9e8097d1b0eedc1b4cb19bad15b73e093acacc-2114x984.png",
+   "path": "_ipx/f_webp_amp_s_3400x1582/https_/cdn.sanity.io/images/ah5kp358/production/3c9e8097d1b0eedc1b4cb19bad15b73e093acacc-2114x984.png",
+   "bytes": 101610,
+   "contentType": "image/webp",
+   "sha256": "d493ecf621d775487823e25f6eed9ccea18da0780ba05996411dab73bf29d1ce"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/_slug_.TPzdyozw.css",
+   "path": "_nuxt/_slug_.TPzdyozw.css",
+   "bytes": 50290,
+   "contentType": "text/css",
+   "sha256": "91404be8a41fd05725ef34728cb309797049aea68d1a7b0ea7a3ad6f9c062729"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/BubbleNote.BteZG72U.css",
+   "path": "_nuxt/BubbleNote.BteZG72U.css",
+   "bytes": 9722,
+   "contentType": "text/css",
+   "sha256": "2167df243bd6ec9c9659dd71e8d32315628667da2a2d8beaff32931eec162384"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/ScriptYouTubePlayer.DPadAbBJ.css",
+   "path": "_nuxt/ScriptYouTubePlayer.DPadAbBJ.css",
+   "bytes": 132,
+   "contentType": "text/css",
+   "sha256": "e92777ee300c3b0dc4ee54d4053023186c6295e4b13c5118df306d006b3f11e8"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/BlogForm.BzSFyQl2.css",
+   "path": "_nuxt/BlogForm.BzSFyQl2.css",
+   "bytes": 4467,
+   "contentType": "text/css",
+   "sha256": "b2c4cc35d0c7e18e26059b858a5a471dc2059d47979183a0d81fe0d67f0a1853"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/ArticleCard.DTJfEb2x.css",
+   "path": "_nuxt/ArticleCard.DTJfEb2x.css",
+   "bytes": 9965,
+   "contentType": "text/css",
+   "sha256": "f4c6a6412499d8bb47df5562f036418b85f58590470b5ed071a7724740f2ecdc"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/case-studies/strengthening-cybersecurity-at-ana-aeroportos-with-ethiacks-ethical-hacking/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "info-hub/case-studies/strengthening-cybersecurity-at-ana-aeroportos-with-ethiacks-ethical-hacking/_payload.json",
+   "bytes": 257302,
+   "contentType": "application/json",
+   "sha256": "a08e1d485ad902d6761abaaebfad638fb92fdebe6b85f2122594b61fddc06a85"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/BeF4bmC3.js",
+   "path": "_nuxt/BeF4bmC3.js",
+   "bytes": 28462,
+   "contentType": "application/javascript",
+   "sha256": "5c9f12a6ea4232e1487b39b6692e8f4390dbb5e21f768d514608248f1e84740c"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/D6vsUnJB.js",
+   "path": "_nuxt/D6vsUnJB.js",
+   "bytes": 836,
+   "contentType": "application/javascript",
+   "sha256": "97e6d0717105173164b16d4584f25930bca5b5db3840c35ea129271090f2041f"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/CtVd2G2U.js",
+   "path": "_nuxt/CtVd2G2U.js",
+   "bytes": 7716,
+   "contentType": "application/javascript",
+   "sha256": "8577d277e2c6bc831c055526e4dc04402ced27a9976e6624c647d1c459c5cebc"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/COKzMoW2.js",
+   "path": "_nuxt/COKzMoW2.js",
+   "bytes": 1293,
+   "contentType": "application/javascript",
+   "sha256": "216425ef95937ca003d9d8d1e5edab1a76986b11bfba2afe5be154f85283dac0"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/K4uFLb9I.js",
+   "path": "_nuxt/K4uFLb9I.js",
+   "bytes": 1367,
+   "contentType": "application/javascript",
+   "sha256": "f577d01bcee5358b6c1487e3bba423d34cb785837037815e203e2dc624b61711"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/DUQUX3af.js",
+   "path": "_nuxt/DUQUX3af.js",
+   "bytes": 2476,
+   "contentType": "application/javascript",
+   "sha256": "951184589be70c119bc1e3e1d70808d92c9f97bba67a44707a7f7ac20b0a374d"
+  },
+  {
+   "url": "https://ethiack.com/info-hub",
+   "path": "info-hub.html",
+   "bytes": 335523,
+   "contentType": "text/html",
+   "sha256": "c6ee88a8f346a13d5bd91e5eff260a6a42ec9345a915d06cc1cb02af61eecfa7"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/jorge-monteiro",
+   "path": "info-hub/jorge-monteiro.html",
+   "bytes": 305196,
+   "contentType": "text/html",
+   "sha256": "afd0e8f5da80ba67f993e0f91b1a3aa35bff3a9c7fba0fa5f99aa879550a1d87"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x4440/https://cdn.sanity.io/images/ah5kp358/production/22d82e7c687f922f4af96b1d4013d6ac0fc6bd62-980x1280.jpg",
+   "path": "_ipx/f_webp_amp_s_3400x4440/https_/cdn.sanity.io/images/ah5kp358/production/22d82e7c687f922f4af96b1d4013d6ac0fc6bd62-980x1280.jpg",
+   "bytes": 183238,
+   "contentType": "image/webp",
+   "sha256": "c50ff8b5d2160150797b1c2e248b11632f85723664ff8828976ca91000ffa6b2"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/case-studies/scaling-security-how-uporto-and-ethiack-protected-5000-assets-with-ai-powered-intelligence/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "info-hub/case-studies/scaling-security-how-uporto-and-ethiack-protected-5000-assets-with-ai-powered-intelligence/_payload.json",
+   "bytes": 237084,
+   "contentType": "application/json",
+   "sha256": "6de27e9dbfef8709caae3424841cb8deb52925013a99a7053e84fb87b09beb34"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/index.DqQnS3Y8.css",
+   "path": "_nuxt/index.DqQnS3Y8.css",
+   "bytes": 32469,
+   "contentType": "text/css",
+   "sha256": "82b163094b41cecc6f646e257e94323d03fc0205db06dee98fe9e5c87a8a3dfd"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/PersonPicture.Bir5mTg2.css",
+   "path": "_nuxt/PersonPicture.Bir5mTg2.css",
+   "bytes": 3100,
+   "contentType": "text/css",
+   "sha256": "e308cbbc2fa6b5a0ff5880daabeb1d532b0d508d760aaa9c2e3fdbcba5e17f19"
+  },
+  {
+   "url": "https://ethiack.com/use-cases/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "use-cases/_payload.json",
+   "bytes": 295500,
+   "contentType": "application/json",
+   "sha256": "d69077f2873cc9e4f12b7323b7405d9f91bacf0cc12cc0c30974871cf28dedb4"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/CvTMY0hI.js",
+   "path": "_nuxt/CvTMY0hI.js",
+   "bytes": 12645,
+   "contentType": "application/javascript",
+   "sha256": "2d3bb702834f410791678d1bc559050f8b1dcadfdb2bb888442a2f2ba61ba7e9"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/CfwUIiyP.js",
+   "path": "_nuxt/CfwUIiyP.js",
+   "bytes": 539,
+   "contentType": "application/javascript",
+   "sha256": "7185741cb49302111b2219bdcc8c3823c7bb2e33c3362247de10763cfe842a0e"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/DlOttVz3.js",
+   "path": "_nuxt/DlOttVz3.js",
+   "bytes": 536,
+   "contentType": "application/javascript",
+   "sha256": "8bb378f44efa58f98262cf71d1716fe7344c18af3b44df64c80505f11a69f884"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/mLAQALrs.js",
+   "path": "_nuxt/mLAQALrs.js",
+   "bytes": 960,
+   "contentType": "application/javascript",
+   "sha256": "218805c70e4a9cfaaa551bdf9d1b90376f67be2b40a3b5ccec81e27b94476fae"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/BMzzyhhd.js",
+   "path": "_nuxt/BMzzyhhd.js",
+   "bytes": 2729,
+   "contentType": "application/javascript",
+   "sha256": "e86f168253ac134faac63f38bb6051b1c2de07879c39572775be2ae12fa5602e"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/BwkCpN3d.js",
+   "path": "_nuxt/BwkCpN3d.js",
+   "bytes": 1485,
+   "contentType": "application/javascript",
+   "sha256": "5b205bfffcaca76c9e87f9154c94c05de36b7d2568152b2f7d2051df2634a4f6"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/CVJFFE7V.js",
+   "path": "_nuxt/CVJFFE7V.js",
+   "bytes": 4457,
+   "contentType": "application/javascript",
+   "sha256": "7c829dd22842ae7886f4cd141c152daa133265b1a22ce8d58b21929b7da3ffda"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x2266/https://cdn.sanity.io/images/ah5kp358/production/c37004562aa7474879c6d1e7fb2069c87bc5c57d-7008x4672.jpg",
+   "path": "_ipx/f_webp_amp_s_3400x2266/https_/cdn.sanity.io/images/ah5kp358/production/c37004562aa7474879c6d1e7fb2069c87bc5c57d-7008x4672.jpg",
+   "bytes": 772362,
+   "contentType": "image/webp",
+   "sha256": "2de0b25d788f5b224ba6eb1757232e649e63521605cec4b129fc36c273fcce35"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x3400/https://cdn.sanity.io/images/ah5kp358/production/6af6216d04f275aaf13ad8d8f4743b06c47b1647-800x800.jpg",
+   "path": "_ipx/f_webp_amp_s_3400x3400/https_/cdn.sanity.io/images/ah5kp358/production/6af6216d04f275aaf13ad8d8f4743b06c47b1647-800x800.jpg",
+   "bytes": 32260,
+   "contentType": "image/webp",
+   "sha256": "8fff2ed1e6e0ff59941d7c1693f6d07654d32f8fa0a2c6edfa9689e38954e35e"
+  },
+  {
+   "url": "https://ethiack.com/use-cases/manufacturing",
+   "path": "use-cases/manufacturing.html",
+   "bytes": 392173,
+   "contentType": "text/html",
+   "sha256": "bd42a5ec64463fcc32765bd212218c3b09e1e6819663f7fcdece45656577bd2a"
+  },
+  {
+   "url": "https://ethiack.com/use-cases/telecommunications",
+   "path": "use-cases/telecommunications.html",
+   "bytes": 396731,
+   "contentType": "text/html",
+   "sha256": "fb02190482496faed629ac564f226222183f973a54ed599eb6c8cbd5aa74ffae"
+  },
+  {
+   "url": "https://ethiack.com/use-cases/gov-and-critical-infrastructure",
+   "path": "use-cases/gov-and-critical-infrastructure.html",
+   "bytes": 390250,
+   "contentType": "text/html",
+   "sha256": "b54c93c143e0fcebe663ff3d20e1a914dd2130a81f0c2d054dd6137468c9b46c"
+  },
+  {
+   "url": "https://ethiack.com/use-cases/ai-saas",
+   "path": "use-cases/ai-saas.html",
+   "bytes": 392229,
+   "contentType": "text/html",
+   "sha256": "35b703badfcae7787fe44e1aae3b156fb937ec88a5607c8d8f2e12aaacacc032"
+  },
+  {
+   "url": "https://ethiack.com/use-cases/healthcare",
+   "path": "use-cases/healthcare.html",
+   "bytes": 391744,
+   "contentType": "text/html",
+   "sha256": "4dd277b61f01cf62f0400a1c7ff0a5cb11ac1ee7e52eebf73afd4a124088d345"
+  },
+  {
+   "url": "https://ethiack.com/use-cases/retail-commerce",
+   "path": "use-cases/retail-commerce.html",
+   "bytes": 392057,
+   "contentType": "text/html",
+   "sha256": "a25080c02e73feb8db926678440c492b9d045243d6b042bde0f576700a49729d"
+  },
+  {
+   "url": "https://ethiack.com/use-cases/aviation",
+   "path": "use-cases/aviation.html",
+   "bytes": 397182,
+   "contentType": "text/html",
+   "sha256": "63dc3bd82f4bd2bcc37f8f7d8688e8f821b54820fd930349d92bebfffb84b8d7"
+  },
+  {
+   "url": "https://ethiack.com/use-cases/financial",
+   "path": "use-cases/financial.html",
+   "bytes": 392477,
+   "contentType": "text/html",
+   "sha256": "4b9343cf14881a5e9c9f7c97b33edc101e71e41de31756e58b4a99899e73c584"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x2630/https://cdn.sanity.io/images/ah5kp358/production/20347fedd3f2a8cb20af3ae2574ecefe9248ea75-486x376.png",
+   "path": "_ipx/f_webp_amp_s_3400x2630/https_/cdn.sanity.io/images/ah5kp358/production/20347fedd3f2a8cb20af3ae2574ecefe9248ea75-486x376.png",
+   "bytes": 1854,
+   "contentType": "image/webp",
+   "sha256": "382c1b91e6cf4fb0483fbb14a70837bdbad76408a6835227d5781d01e52c5154"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x3400/https://cdn.sanity.io/images/ah5kp358/production/cee73e82cfed0a25eb03f71733ea36c82f3443f1-800x800.jpg",
+   "path": "_ipx/f_webp_amp_s_3400x3400/https_/cdn.sanity.io/images/ah5kp358/production/cee73e82cfed0a25eb03f71733ea36c82f3443f1-800x800.jpg",
+   "bytes": 42838,
+   "contentType": "image/webp",
+   "sha256": "85f2bef95d95bc4bcd9c14783120a4b95365c96afdee01bd5b18d00a3e756f60"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x3400/https://cdn.sanity.io/images/ah5kp358/production/98fc2128e6865d071723a111be258815d32d92a5-203x203.jpg",
+   "path": "_ipx/f_webp_amp_s_3400x3400/https_/cdn.sanity.io/images/ah5kp358/production/98fc2128e6865d071723a111be258815d32d92a5-203x203.jpg",
+   "bytes": 5536,
+   "contentType": "image/webp",
+   "sha256": "c48d15b60ecf123586bfd40377269ac36d8092af2d61a548b9ad724dad07d295"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x3400/https://cdn.sanity.io/images/ah5kp358/production/27156ce2be6e370b3c4258a12f16c5893e317aee-140x140.jpg",
+   "path": "_ipx/f_webp_amp_s_3400x3400/https_/cdn.sanity.io/images/ah5kp358/production/27156ce2be6e370b3c4258a12f16c5893e317aee-140x140.jpg",
+   "bytes": 2558,
+   "contentType": "image/webp",
+   "sha256": "632caeab0b731c9391d7bddd579758bb0e0bd7f435d3bdba3597c0a2408b43c8"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x3400/https://cdn.sanity.io/images/ah5kp358/production/9028a9ef529c3089d984009f39c2e851574d3263-141x141.jpg",
+   "path": "_ipx/f_webp_amp_s_3400x3400/https_/cdn.sanity.io/images/ah5kp358/production/9028a9ef529c3089d984009f39c2e851574d3263-141x141.jpg",
+   "bytes": 4482,
+   "contentType": "image/webp",
+   "sha256": "89641303c55a64fc792264cebb24f29ba8e627833de4bdb355f655f000f0ffef"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x3400/https://cdn.sanity.io/images/ah5kp358/production/580caecd2c6449ebef1bcbc358a92e53966eb0c2-800x800.jpg",
+   "path": "_ipx/f_webp_amp_s_3400x3400/https_/cdn.sanity.io/images/ah5kp358/production/580caecd2c6449ebef1bcbc358a92e53966eb0c2-800x800.jpg",
+   "bytes": 23368,
+   "contentType": "image/webp",
+   "sha256": "a869f89740f83b471a57a0c76ff661030acbf712824635929160ec590b11e39f"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x2738/https://cdn.sanity.io/images/ah5kp358/production/f77af5599baa19bfcf72b606ccfd026b53621d1c-1080x870.jpg",
+   "path": "_ipx/f_webp_amp_s_3400x2738/https_/cdn.sanity.io/images/ah5kp358/production/f77af5599baa19bfcf72b606ccfd026b53621d1c-1080x870.jpg",
+   "bytes": 19600,
+   "contentType": "image/webp",
+   "sha256": "4df50f5b5ff3f70d97d9c58a033a4835b151fc1dba24f95dc80d420d21c3774d"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x3400/https://cdn.sanity.io/images/ah5kp358/production/2e84095d841107a254f4942ba9647bd6ab7ae6be-555x555.jpg",
+   "path": "_ipx/f_webp_amp_s_3400x3400/https_/cdn.sanity.io/images/ah5kp358/production/2e84095d841107a254f4942ba9647bd6ab7ae6be-555x555.jpg",
+   "bytes": 32434,
+   "contentType": "image/webp",
+   "sha256": "2c4cde81f5782ec5f29d3a924166d06d223fef3936c69f3559f1c113452dc250"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x3400/https://cdn.sanity.io/images/ah5kp358/production/438d3891492680479f6a8f0d828a06852da75d32-400x400.jpg",
+   "path": "_ipx/f_webp_amp_s_3400x3400/https_/cdn.sanity.io/images/ah5kp358/production/438d3891492680479f6a8f0d828a06852da75d32-400x400.jpg",
+   "bytes": 17784,
+   "contentType": "image/webp",
+   "sha256": "4e4d91735a3a2bc7d7671fe8d69bef9ab09dc25a3326b34c618c002db74cea72"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x3400/https://cdn.sanity.io/images/ah5kp358/production/df23948b5b621b568e870a9dd39eb6ebf09f0612-200x200.jpg",
+   "path": "_ipx/f_webp_amp_s_3400x3400/https_/cdn.sanity.io/images/ah5kp358/production/df23948b5b621b568e870a9dd39eb6ebf09f0612-200x200.jpg",
+   "bytes": 5220,
+   "contentType": "image/webp",
+   "sha256": "5d6851262436605f2839cfcaa05e1d830c4229c0a1ba77999a6ec921ff63941d"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x3400/https://cdn.sanity.io/images/ah5kp358/production/ca13928c0ef46187d39d4bee52ec57bd76d5b8c0-750x750.jpg",
+   "path": "_ipx/f_webp_amp_s_3400x3400/https_/cdn.sanity.io/images/ah5kp358/production/ca13928c0ef46187d39d4bee52ec57bd76d5b8c0-750x750.jpg",
+   "bytes": 20100,
+   "contentType": "image/webp",
+   "sha256": "480339b4e9b44351db594a659fa203353c160117a1ef5a288d603b86a0ffff83"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x3808/https://cdn.sanity.io/images/ah5kp358/production/396e561d212c8a966aa043cd64fa666aec5559b7-800x896.jpg",
+   "path": "_ipx/f_webp_amp_s_3400x3808/https_/cdn.sanity.io/images/ah5kp358/production/396e561d212c8a966aa043cd64fa666aec5559b7-800x896.jpg",
+   "bytes": 50078,
+   "contentType": "image/webp",
+   "sha256": "cd008f892c987581389667aa809c0a9c3fe799e8d5a25c7e1aacd7cc1b0303cb"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x3400/https://cdn.sanity.io/images/ah5kp358/production/9e55d2dc65b21375cad4c5dccd5f1e261e5457ec-411x411.jpg",
+   "path": "_ipx/f_webp_amp_s_3400x3400/https_/cdn.sanity.io/images/ah5kp358/production/9e55d2dc65b21375cad4c5dccd5f1e261e5457ec-411x411.jpg",
+   "bytes": 25966,
+   "contentType": "image/webp",
+   "sha256": "e4d57b9ce9e82d2fafda14d0f2e7d633edd004722df568d3f1d7ea6f91b8c745"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/_slug_.Bg5HvJZi.css",
+   "path": "_nuxt/_slug_.Bg5HvJZi.css",
+   "bytes": 12349,
+   "contentType": "text/css",
+   "sha256": "a98c23c040d8ede73a44e1500e42da381bb194d7f0a53b84c9ea20f69a009392"
+  },
+  {
+   "url": "https://ethiack.com/legal/terms-of-service/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "legal/terms-of-service/_payload.json",
+   "bytes": 479066,
+   "contentType": "application/json",
+   "sha256": "70bc166d36f738e0df34d967e37d496d2a3e71ad93969174a1a161d345236b1d"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/CYTOAySW.js",
+   "path": "_nuxt/CYTOAySW.js",
+   "bytes": 4256,
+   "contentType": "application/javascript",
+   "sha256": "df2c7088ca42874efa201b693bc4986248d6e9f29230477c4b3e632df329b6a2"
+  },
+  {
+   "url": "https://ethiack.com/legal/security-policy/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "legal/security-policy/_payload.json",
+   "bytes": 214186,
+   "contentType": "application/json",
+   "sha256": "08312d67f6d52687c910dcde9735c99824e35187aab77cc6ed25fe644a267eec"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/index.AhjbM7jp.css",
+   "path": "_nuxt/index.AhjbM7jp.css",
+   "bytes": 11763,
+   "contentType": "text/css",
+   "sha256": "b8f3c6dc11128bdbf9dad54b149e55160a4304b0b092e8b7e1b50e379d3751c0"
+  },
+  {
+   "url": "https://ethiack.com/sitemap/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "sitemap/_payload.json",
+   "bytes": 255982,
+   "contentType": "application/json",
+   "sha256": "439e4f0bc1bc2e912b419d812dcdbcea20d829ab41532b1605bbfe9c20d92577"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/lKbktySr.js",
+   "path": "_nuxt/lKbktySr.js",
+   "bytes": 4622,
+   "contentType": "application/javascript",
+   "sha256": "8856f3cfea2643481bb86c3e203b2ca92bb143aba3f50537d094adb275f76a2f"
+  },
+  {
+   "url": "https://ethiack.com/legal/ethiack-portal-ipn/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "legal/ethiack-portal-ipn/_payload.json",
+   "bytes": 219960,
+   "contentType": "application/json",
+   "sha256": "075484f075860db398506e4887b44e2ece535a4ba444d29b11137130587d13c9"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x394/https://cdn.sanity.io/images/ah5kp358/production/c71c7fb1fde6b79fea5cc1b4e9b74256edd3b65c-1416x164.png",
+   "path": "_ipx/f_webp_amp_s_3400x394/https_/cdn.sanity.io/images/ah5kp358/production/c71c7fb1fde6b79fea5cc1b4e9b74256edd3b65c-1416x164.png",
+   "bytes": 47004,
+   "contentType": "image/webp",
+   "sha256": "6b4525adf386f4fc8f838fadaa6e3e802805e9334a78f7b3932fa5d6fa03a3dc"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x490/https://cdn.sanity.io/images/ah5kp358/production/f2d807af4930ef4a38036d363736eeaa2c0e1aa4-4925x711.png",
+   "path": "_ipx/f_webp_amp_s_3400x490/https_/cdn.sanity.io/images/ah5kp358/production/f2d807af4930ef4a38036d363736eeaa2c0e1aa4-4925x711.png",
+   "bytes": 46720,
+   "contentType": "image/webp",
+   "sha256": "fae40cc8569df0163c2bdd4f4e90631615f0b68fd7067e5e9c42ff351c7a8f4b"
+  },
+  {
+   "url": "https://ethiack.com/legal/privacy-policy/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "legal/privacy-policy/_payload.json",
+   "bytes": 285806,
+   "contentType": "application/json",
+   "sha256": "7d8e894067ab437a6941afc46198231f4da865cefaf8dd1d0418d7280312dc5f"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/case-studies/how-ethiack-helps-zick-learn-protect-their-relationships-with-enterprise-clients/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "info-hub/case-studies/how-ethiack-helps-zick-learn-protect-their-relationships-with-enterprise-clients/_payload.json",
+   "bytes": 234252,
+   "contentType": "application/json",
+   "sha256": "5955c7b2d9ca6567f6757aeec61b809948a0529154ef1c806a25545b4ddcc286"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/case-studies/upgrading-from-annual-pentests-to-automated-pentests-secfixs-story/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "info-hub/case-studies/upgrading-from-annual-pentests-to-automated-pentests-secfixs-story/_payload.json",
+   "bytes": 232698,
+   "contentType": "application/json",
+   "sha256": "0e1b75b426e5cb9c930488e28d699c080b716343cb5d6bacb2286cea4bc4e033"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/case-studies/continuous-security-assurance-for-compliancewise-adapting-to-an-ever-evolving-landscape/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "info-hub/case-studies/continuous-security-assurance-for-compliancewise-adapting-to-an-ever-evolving-landscape/_payload.json",
+   "bytes": 234176,
+   "contentType": "application/json",
+   "sha256": "38bbc8065b50aefce5b7c5fa4e37b5c9e919d63b2defb25a944297e02ac4183d"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/index.BJMJm8tV.css",
+   "path": "_nuxt/index.BJMJm8tV.css",
+   "bytes": 26471,
+   "contentType": "text/css",
+   "sha256": "a5fb9eaeadd02ba457ae985d0e6f4d1fc4596e346141cd0f7b60f97b61038659"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "info-hub/_payload.json",
+   "bytes": 1257539,
+   "contentType": "application/json",
+   "sha256": "e3b30f8ba3c733ed32d021c8baab5130d613c045c04f66eda22c848cbcc10584"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/21h52I9A.js",
+   "path": "_nuxt/21h52I9A.js",
+   "bytes": 18101,
+   "contentType": "application/javascript",
+   "sha256": "d7f426a6690d0dacf135a74e6abd7f631ccc05897c5a588ec9113aff3218a0dd"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/BA_npEGS.js",
+   "path": "_nuxt/BA_npEGS.js",
+   "bytes": 9423,
+   "contentType": "application/javascript",
+   "sha256": "e4c050dc195a36a1f38b0b297f87e0c75d9f8018e56c3a3cc9d6e5cb073471f0"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x4440/https://cdn.sanity.io/images/ah5kp358/production/449800cd79851702132fd4d72cb176d1f585a1f6-980x1280.jpg",
+   "path": "_ipx/f_webp_amp_s_3400x4440/https_/cdn.sanity.io/images/ah5kp358/production/449800cd79851702132fd4d72cb176d1f585a1f6-980x1280.jpg",
+   "bytes": 54702,
+   "contentType": "image/webp",
+   "sha256": "06f2fd7dfb58b160f51ca51b9d3af3f3847008060c10bf4b6c15528032a89a47"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x4440/https://cdn.sanity.io/images/ah5kp358/production/caf8957abfb3a5ab255ff0e84de3a868fb528274-980x1280.jpg",
+   "path": "_ipx/f_webp_amp_s_3400x4440/https_/cdn.sanity.io/images/ah5kp358/production/caf8957abfb3a5ab255ff0e84de3a868fb528274-980x1280.jpg",
+   "bytes": 67910,
+   "contentType": "image/webp",
+   "sha256": "b65ca3057d4b3a37aa88e1c7f1c4ee52ff3dae0fe10f7b68543cb130a8c0dd5c"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x3316/https://cdn.sanity.io/images/ah5kp358/production/6d4e6dd7eefbecc365586ebda4e2d7e068153946-1050x1024.jpg",
+   "path": "_ipx/f_webp_amp_s_3400x3316/https_/cdn.sanity.io/images/ah5kp358/production/6d4e6dd7eefbecc365586ebda4e2d7e068153946-1050x1024.jpg",
+   "bytes": 28110,
+   "contentType": "image/webp",
+   "sha256": "a248c8dbe74fb43234bd46534df9f5ed1aa33dcd383a51ddb115266c1d4eda53"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/resources/mythos-ai-security-implications-complete-guide",
+   "path": "info-hub/resources/mythos-ai-security-implications-complete-guide.html",
+   "bytes": 348362,
+   "contentType": "text/html",
+   "sha256": "bd31347411992f8b14bcf8f4e44cbcf03dc2ba52227df674f744271cda6d0bbb"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/research/now-detecting-cve-2026-85706-gitlab",
+   "path": "info-hub/research/now-detecting-cve-2026-85706-gitlab.html",
+   "bytes": 311124,
+   "contentType": "text/html",
+   "sha256": "7c6f7cf6096f909b11936742c4653dd4d49c2e3b390f3024768c3bc014db84e1"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/research/abusing-remix-routing-discrepancies",
+   "path": "info-hub/research/abusing-remix-routing-discrepancies.html",
+   "bytes": 331837,
+   "contentType": "text/html",
+   "sha256": "3f41aad376c1f0f16bb0e1d2c1d7f3d8abc777386de78370fe5b4f8f54bd3e78"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/resources/ctem-vs-bas",
+   "path": "info-hub/resources/ctem-vs-bas.html",
+   "bytes": 331568,
+   "contentType": "text/html",
+   "sha256": "7e9825c14942c7d39a4f8594216b9bc0bf70d1eebab08e0a7d7cf4f31ee22731"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/blog/attack-surface-management-vs-vulnerability-management",
+   "path": "info-hub/blog/attack-surface-management-vs-vulnerability-management.html",
+   "bytes": 331517,
+   "contentType": "text/html",
+   "sha256": "656e94a7ba8e890cbf852ef8060d18e6fe753f3c349a63454cf8e8296d94c96d"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/blog/manual-vs-automated-penetration-testing",
+   "path": "info-hub/blog/manual-vs-automated-penetration-testing.html",
+   "bytes": 333839,
+   "contentType": "text/html",
+   "sha256": "a7a3140e384ff9f179dd48f98e6285014366dac75e2364399a468396b0ae2319"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/blog/ai-hack-bank-21-minutes-ecb-dora-deadline",
+   "path": "info-hub/blog/ai-hack-bank-21-minutes-ecb-dora-deadline.html",
+   "bytes": 308986,
+   "contentType": "text/html",
+   "sha256": "756b500fc3f24404ef9158920a77fb22b914e0bfb0afcb84f58125efae95a988"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/blog/this-is-what-comes-next",
+   "path": "info-hub/blog/this-is-what-comes-next.html",
+   "bytes": 298212,
+   "contentType": "text/html",
+   "sha256": "61a3335931b8d5d1b050cd977f142d57f2827298fab83276151386dc958e510b"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/case-studies/broadvoice-ethiack",
+   "path": "info-hub/case-studies/broadvoice-ethiack.html",
+   "bytes": 304519,
+   "contentType": "text/html",
+   "sha256": "f847528db6e92be5ede229667150427844a72e37affbca1b0c6f26e725ba54d1"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/case-studies/securing-industrial-data-for-smartex-with-continuous-pentesting",
+   "path": "info-hub/case-studies/securing-industrial-data-for-smartex-with-continuous-pentesting.html",
+   "bytes": 287589,
+   "contentType": "text/html",
+   "sha256": "9d391d2047d21a3db5f2b45affb45850ca99a2939d0bc0f2b7a9329b8eebcc5b"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/product/now-detecting-wp2shell",
+   "path": "info-hub/product/now-detecting-wp2shell.html",
+   "bytes": 310508,
+   "contentType": "text/html",
+   "sha256": "1f6c935e5aee3e03c3d620aca2b25e10ff2db64e6f41bef9307a93c1d6f6f60a"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/product/introducing-the-new-ethiack-portal",
+   "path": "info-hub/product/introducing-the-new-ethiack-portal.html",
+   "bytes": 310005,
+   "contentType": "text/html",
+   "sha256": "346756d2403f8d03ae89d343028c77b0ff634349ddee20d480573d1a6c2ff392"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/product/spring-release-2026",
+   "path": "info-hub/product/spring-release-2026.html",
+   "bytes": 294489,
+   "contentType": "text/html",
+   "sha256": "4881312aea5ec640977879ad04313e336b83ec98e72b50a3d09e7d81689a3b4b"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/product/beacon-version-two",
+   "path": "info-hub/product/beacon-version-two.html",
+   "bytes": 342181,
+   "contentType": "text/html",
+   "sha256": "3445d2fdb4f79f1235e077854fed608e4b5668383f9110e1c582115f8ea0580d"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/research/geonetwork-preauth-RCE",
+   "path": "info-hub/research/geonetwork-preauth-RCE.html",
+   "bytes": 328080,
+   "contentType": "text/html",
+   "sha256": "e6760a7f60dff8c648146b4ce400ab68a1df3a01c5f8315ab9e37db2a0633f5b"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/research/strategy-is-key-evaluating-the-pentesting-skills-of-frontier-LLMs",
+   "path": "info-hub/research/strategy-is-key-evaluating-the-pentesting-skills-of-frontier-LLMs.html",
+   "bytes": 300887,
+   "contentType": "text/html",
+   "sha256": "343678c283b9fad791e0912a4edf171eca696dd2834a8f6ac092261eb088b3f4"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/resources/ecb-ai-cybersecurity-action-plan-complete-guide",
+   "path": "info-hub/resources/ecb-ai-cybersecurity-action-plan-complete-guide.html",
+   "bytes": 348140,
+   "contentType": "text/html",
+   "sha256": "2d275ca2789974c5c3e44ba885e5909a4b617d680974e69c4b3230e154b7f114"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/resources/ecb-cyber-resilience-ai-deadline-complete-guide",
+   "path": "info-hub/resources/ecb-cyber-resilience-ai-deadline-complete-guide.html",
+   "bytes": 355516,
+   "contentType": "text/html",
+   "sha256": "ea72b9718f40180238a370bb733a525ae97226e2c3c23829a2718b3b3512308e"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/jorge-monteiro/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "info-hub/jorge-monteiro/_payload.json",
+   "bytes": 1257539,
+   "contentType": "application/json",
+   "sha256": "f06e8c63fba905ca325063c90bb7f7a882a42f768c1cedbd89e205b4d5ca8044"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/blog/what-anthropic-mythos-means-for-cybersecurity",
+   "path": "info-hub/blog/what-anthropic-mythos-means-for-cybersecurity.html",
+   "bytes": 309983,
+   "contentType": "text/html",
+   "sha256": "771d2ea04b4d0e390cc2c9b8af8f83d5d1398bf0b42d538b890ad96a418228c3"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/index.vDg9HPkN.css",
+   "path": "_nuxt/index.vDg9HPkN.css",
+   "bytes": 11024,
+   "contentType": "text/css",
+   "sha256": "fa0c96822fee5675caeb0215b9a42abe3d9a3ec34854ab445a989527b128de28"
+  },
+  {
+   "url": "https://ethiack.com/use-cases/manufacturing/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "use-cases/manufacturing/_payload.json",
+   "bytes": 271422,
+   "contentType": "application/json",
+   "sha256": "6c6f8b7cdc96c409f0ef10ee193496279da371880c0be4c9f67c080836e54425"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/BoekCLuq.js",
+   "path": "_nuxt/BoekCLuq.js",
+   "bytes": 7369,
+   "contentType": "application/javascript",
+   "sha256": "e15d8fe0eb416e67524ceb5943c8c437c8fca5bba3c7e4b95e5d3d2c1577674d"
+  },
+  {
+   "url": "https://ethiack.com/_nuxt/DwXxPiuu.js",
+   "path": "_nuxt/DwXxPiuu.js",
+   "bytes": 11032,
+   "contentType": "application/javascript",
+   "sha256": "a469ca9c46930980e8db9c37938fc11ee18fddd747f63539145decf0c98013e0"
+  },
+  {
+   "url": "https://ethiack.com/use-cases/telecommunications/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "use-cases/telecommunications/_payload.json",
+   "bytes": 276598,
+   "contentType": "application/json",
+   "sha256": "ed6138859d81ae6c8c4e28c92b24ecd06a62b17c4eb7c001b2f7114cbba71139"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/case-studies/dont-stop-the-party-how-baladapp-is-keeping-their-users-safe-with-autonomous-ethical-hacking",
+   "path": "info-hub/case-studies/dont-stop-the-party-how-baladapp-is-keeping-their-users-safe-with-autonomous-ethical-hacking.html",
+   "bytes": 288292,
+   "contentType": "text/html",
+   "sha256": "e17c67eea45b12a068ab357836a5441499da2462e8aeb3899952b8692d9fc01f"
+  },
+  {
+   "url": "https://ethiack.com/use-cases/gov-and-critical-infrastructure/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "use-cases/gov-and-critical-infrastructure/_payload.json",
+   "bytes": 270811,
+   "contentType": "application/json",
+   "sha256": "1e1db8e186f893f26fe158893b2f5c68a084f8c5f2f4f3e9a10787663ab51705"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/case-studies/protecting-critical-software-with-machine-ethical-hacking",
+   "path": "info-hub/case-studies/protecting-critical-software-with-machine-ethical-hacking.html",
+   "bytes": 284100,
+   "contentType": "text/html",
+   "sha256": "5d37eec61232b21234c77c9541f6b80c7ac72d205c24f47f1919666b28dd554e"
+  },
+  {
+   "url": "https://ethiack.com/use-cases/ai-saas/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "use-cases/ai-saas/_payload.json",
+   "bytes": 277232,
+   "contentType": "application/json",
+   "sha256": "194d9ecf8ff867a1b1c68cd8a820c9ae8b68fc086eb6a6fb7ee9529ea256b89d"
+  },
+  {
+   "url": "https://ethiack.com/use-cases/healthcare/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "use-cases/healthcare/_payload.json",
+   "bytes": 271064,
+   "contentType": "application/json",
+   "sha256": "578ae88cdc876f1936d8591d520a98d63b0e6e9e253779bdc9fc394971fa6534"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/case-studies/from-checklist-based-pentesting-to-autonomous-ethical-hacking-what-changed-for-cegid",
+   "path": "info-hub/case-studies/from-checklist-based-pentesting-to-autonomous-ethical-hacking-what-changed-for-cegid.html",
+   "bytes": 288384,
+   "contentType": "text/html",
+   "sha256": "724b74fc32816ef08be47c9e128b5bb846b2bd1dc92b412c554c35d44ce6b5fd"
+  },
+  {
+   "url": "https://ethiack.com/use-cases/retail-commerce/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "use-cases/retail-commerce/_payload.json",
+   "bytes": 275765,
+   "contentType": "application/json",
+   "sha256": "42fb43f9e6c51cfec682d14eb993067228911c08d3dee7bf23d6523865462baf"
+  },
+  {
+   "url": "https://ethiack.com/use-cases/aviation/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "use-cases/aviation/_payload.json",
+   "bytes": 272168,
+   "contentType": "application/json",
+   "sha256": "ddc0727e19e4a3ea45abfe7f75d62c6136295dc5eadf088c1bec849936493966"
+  },
+  {
+   "url": "https://ethiack.com/use-cases/financial/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "use-cases/financial/_payload.json",
+   "bytes": 279649,
+   "contentType": "application/json",
+   "sha256": "a59765f97c994909dc3ff8ee85452f8fa59ec2ba3ac5107766e10b961eb44d4a"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/resources/mythos-ai-security-implications-complete-guide/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "info-hub/resources/mythos-ai-security-implications-complete-guide/_payload.json",
+   "bytes": 427647,
+   "contentType": "application/json",
+   "sha256": "bf442eace68ac7d0b8be70e1bbe2c83a3920dbc16a0d471a28ae4a38c316d677"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x2106/https://cdn.sanity.io/images/ah5kp358/production/3e6e5c8b9a5ea4018764f50127026d282e8d171d-1170x725.webp",
+   "path": "_ipx/f_webp_amp_s_3400x2106/https_/cdn.sanity.io/images/ah5kp358/production/3e6e5c8b9a5ea4018764f50127026d282e8d171d-1170x725.webp",
+   "bytes": 12754,
+   "contentType": "image/webp",
+   "sha256": "54d07703cf665d3d1b6a7d08ecac7f97a61fafb6d30a9f669c21ff434c04bb9b"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x5340/https://cdn.sanity.io/images/ah5kp358/production/c36d144671a5c4bfb1d23a62efcd8aa48c3cb792-776x1219.png",
+   "path": "_ipx/f_webp_amp_s_3400x5340/https_/cdn.sanity.io/images/ah5kp358/production/c36d144671a5c4bfb1d23a62efcd8aa48c3cb792-776x1219.png",
+   "bytes": 19940,
+   "contentType": "image/webp",
+   "sha256": "ba5e22a6bf304e4042852104a018d3e3cddd2bd89fc5ca91ebb3062384c121fc"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/research/now-detecting-cve-2026-85706-gitlab/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "info-hub/research/now-detecting-cve-2026-85706-gitlab/_payload.json",
+   "bytes": 264361,
+   "contentType": "application/json",
+   "sha256": "f8f384923dbb4fea7895d4e2e789dd035e2f4392f560135c2d62a693de8f32b0"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/andre-baptista",
+   "path": "info-hub/andre-baptista.html",
+   "bytes": 305030,
+   "contentType": "text/html",
+   "sha256": "1061edd46496cec211b393380da7bed7a634243f6e401d5147dd0bc01dabe8c9"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/research/abusing-remix-routing-discrepancies/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "info-hub/research/abusing-remix-routing-discrepancies/_payload.json",
+   "bytes": 313515,
+   "contentType": "application/json",
+   "sha256": "a854eb7785350a4797ab77489e5a808759b9262f48e4aa29d506660227ea6159"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/rafael-castilho",
+   "path": "info-hub/rafael-castilho.html",
+   "bytes": 288920,
+   "contentType": "text/html",
+   "sha256": "697b39d9b638860a470cc622e6e6e501e5c1d9ead31bb9978ca51a8334405e5b"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x3486/https://cdn.sanity.io/images/ah5kp358/production/6d05ab95e2d2d826903aee748066a924aa7f8808-1024x1050.jpg",
+   "path": "_ipx/f_webp_amp_s_3400x3486/https_/cdn.sanity.io/images/ah5kp358/production/6d05ab95e2d2d826903aee748066a924aa7f8808-1024x1050.jpg",
+   "bytes": 43818,
+   "contentType": "image/webp",
+   "sha256": "a70225e9c31a7b64228e3be6acfb77019757f79d7ff9da2b4b6e7348c5e92a96"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x1230/https://cdn.sanity.io/images/ah5kp358/production/027e21f617cad7f9127320ebdeff4256e2913ed4-1376x498.png",
+   "path": "_ipx/f_webp_amp_s_3400x1230/https_/cdn.sanity.io/images/ah5kp358/production/027e21f617cad7f9127320ebdeff4256e2913ed4-1376x498.png",
+   "bytes": 35066,
+   "contentType": "image/webp",
+   "sha256": "192e7dcd407b66ddd775cb77403dff4fa676df94f61f1ebc7a43a11cf9c2d8dd"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x1724/https://cdn.sanity.io/images/ah5kp358/production/d0fb87606890a0fb2f21e0bec2dd474957953a69-1664x844.png",
+   "path": "_ipx/f_webp_amp_s_3400x1724/https_/cdn.sanity.io/images/ah5kp358/production/d0fb87606890a0fb2f21e0bec2dd474957953a69-1664x844.png",
+   "bytes": 48950,
+   "contentType": "image/webp",
+   "sha256": "84a351eca03a07cd64154c5128d5b7df8e8f4a3336867c31188ff1a3eaa08561"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x1972/https://cdn.sanity.io/images/ah5kp358/production/5a9d7aa1090f9c378a3883ec34a9fb2c4a513cfa-1700x986.png",
+   "path": "_ipx/f_webp_amp_s_3400x1972/https_/cdn.sanity.io/images/ah5kp358/production/5a9d7aa1090f9c378a3883ec34a9fb2c4a513cfa-1700x986.png",
+   "bytes": 59342,
+   "contentType": "image/webp",
+   "sha256": "7cc76a7f634896245bf89e60ab770f7b6f69997036473dbdab80fef7cf1e7f16"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x840/https://cdn.sanity.io/images/ah5kp358/production/e584c15482138508531bf8becf56a0d095a00f0e-1448x358.png",
+   "path": "_ipx/f_webp_amp_s_3400x840/https_/cdn.sanity.io/images/ah5kp358/production/e584c15482138508531bf8becf56a0d095a00f0e-1448x358.png",
+   "bytes": 33144,
+   "contentType": "image/webp",
+   "sha256": "7888a27ee833d3d7d52d2a845b41595de19e80340b31a9da481c30ec3d69bc9d"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/resources/ctem-vs-bas/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "info-hub/resources/ctem-vs-bas/_payload.json",
+   "bytes": 404123,
+   "contentType": "application/json",
+   "sha256": "90b3456c36b550385fc4a53dc7c8638f897dad760f16660da86c739feee1daec"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x2668/https://cdn.sanity.io/images/ah5kp358/production/3892f01acbe70610b019ba881f77f1bf6f0bff49-1017x798.webp",
+   "path": "_ipx/f_webp_amp_s_3400x2668/https_/cdn.sanity.io/images/ah5kp358/production/3892f01acbe70610b019ba881f77f1bf6f0bff49-1017x798.webp",
+   "bytes": 47802,
+   "contentType": "image/webp",
+   "sha256": "64b5879fed52e58949a948bbcd2c7591c1497ddfb33ae386dda4e2a6cbf2dad7"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/blog/attack-surface-management-vs-vulnerability-management/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "info-hub/blog/attack-surface-management-vs-vulnerability-management/_payload.json",
+   "bytes": 389520,
+   "contentType": "application/json",
+   "sha256": "538bff3ebc160894f3e89a206f387bd967e5dcabcf4ac49ed213190b2d112a40"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x2480/https://cdn.sanity.io/images/ah5kp358/production/7271ba963bb6dbfe1770893b322b6f83a00b0d70-1006x734.webp",
+   "path": "_ipx/f_webp_amp_s_3400x2480/https_/cdn.sanity.io/images/ah5kp358/production/7271ba963bb6dbfe1770893b322b6f83a00b0d70-1006x734.webp",
+   "bytes": 36724,
+   "contentType": "image/webp",
+   "sha256": "04dc9cd668d553a395968fcf58870f6e08a6be376a2eae7e2c77b399a6b74f9c"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x2618/https://cdn.sanity.io/images/ah5kp358/production/39c48b5900d792a043ac83bb324e2abe7d8f60ed-943x726.webp",
+   "path": "_ipx/f_webp_amp_s_3400x2618/https_/cdn.sanity.io/images/ah5kp358/production/39c48b5900d792a043ac83bb324e2abe7d8f60ed-943x726.webp",
+   "bytes": 43842,
+   "contentType": "image/webp",
+   "sha256": "c262a3faa99feb658ff5f306c6eda20c9a4b1305b26ba792772f9fef91d92cfd"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x3470/https://cdn.sanity.io/images/ah5kp358/production/abbc20a1ce242c9b23bc666ad575f2b20a1c9a74-1017x1038.webp",
+   "path": "_ipx/f_webp_amp_s_3400x3470/https_/cdn.sanity.io/images/ah5kp358/production/abbc20a1ce242c9b23bc666ad575f2b20a1c9a74-1017x1038.webp",
+   "bytes": 55066,
+   "contentType": "image/webp",
+   "sha256": "34ca2572a523f3f127a186f064188ff9e4f05f3444df5adfec8a4aaf731ffd21"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/blog/manual-vs-automated-penetration-testing/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "info-hub/blog/manual-vs-automated-penetration-testing/_payload.json",
+   "bytes": 412633,
+   "contentType": "application/json",
+   "sha256": "b434acb1c20aa68114b37b0a5a6d6dfda2bcdbc529f2e752651d5f96bcaca6b3"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x2692/https://cdn.sanity.io/images/ah5kp358/production/74e0e999ede05d2027a09cc43652aace48a14f00-1201x951.jpg",
+   "path": "_ipx/f_webp_amp_s_3400x2692/https_/cdn.sanity.io/images/ah5kp358/production/74e0e999ede05d2027a09cc43652aace48a14f00-1201x951.jpg",
+   "bytes": 67772,
+   "contentType": "image/webp",
+   "sha256": "ab55ba809e47394184115a7a9fc5689e05d28f04fa6ce9b03972f2a2300faa43"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x2692/https://cdn.sanity.io/images/ah5kp358/production/cb865da46945dbcf16351c8bb4ad05feb10550e1-1201x951.jpg",
+   "path": "_ipx/f_webp_amp_s_3400x2692/https_/cdn.sanity.io/images/ah5kp358/production/cb865da46945dbcf16351c8bb4ad05feb10550e1-1201x951.jpg",
+   "bytes": 80322,
+   "contentType": "image/webp",
+   "sha256": "1ecc2cbce78a048cab3533e16b0d617899c723d64594f35095b86ad33a049577"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x3400/https://cdn.sanity.io/images/ah5kp358/production/66da5dcf5ede1fed560e201b21eddb5e8c0c1167-1451x1451.png",
+   "path": "_ipx/f_webp_amp_s_3400x3400/https_/cdn.sanity.io/images/ah5kp358/production/66da5dcf5ede1fed560e201b21eddb5e8c0c1167-1451x1451.png",
+   "bytes": 30096,
+   "contentType": "image/webp",
+   "sha256": "539bfe5ba6d5e5255e69abdc70ee6611150c786d9f0e4b94f0d17763fa3c3f3a"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/blog/ai-hack-bank-21-minutes-ecb-dora-deadline/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "info-hub/blog/ai-hack-bank-21-minutes-ecb-dora-deadline/_payload.json",
+   "bytes": 334224,
+   "contentType": "application/json",
+   "sha256": "2fcda689d583d2b2cdb0e8e5c686fda8df3fb0a9a607cb328bbe5b25c1dae5c1"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x1790/https://cdn.sanity.io/images/ah5kp358/production/b17eb1b4ee7d00b513884caec6751e2560fc80b0-4320x2274.png",
+   "path": "_ipx/f_webp_amp_s_3400x1790/https_/cdn.sanity.io/images/ah5kp358/production/b17eb1b4ee7d00b513884caec6751e2560fc80b0-4320x2274.png",
+   "bytes": 85238,
+   "contentType": "image/webp",
+   "sha256": "fcd3b080c539dec5619536f76ffe2db880f0a4b6394253bb8a2f096aefa4909c"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x1652/https://cdn.sanity.io/images/ah5kp358/production/e10929e4f0419c7354a6a23fad13a5c48de86d89-2160x1049.webp",
+   "path": "_ipx/f_webp_amp_s_3400x1652/https_/cdn.sanity.io/images/ah5kp358/production/e10929e4f0419c7354a6a23fad13a5c48de86d89-2160x1049.webp",
+   "bytes": 73006,
+   "contentType": "image/webp",
+   "sha256": "2278724f70236a7521454cf510890eb85df460c6b5bfc3ba0953bcde9e81acc8"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x2232/https://cdn.sanity.io/images/ah5kp358/production/f8b738fc5bd4c5211365a90e9f12506180f01cd0-1440x945.png",
+   "path": "_ipx/f_webp_amp_s_3400x2232/https_/cdn.sanity.io/images/ah5kp358/production/f8b738fc5bd4c5211365a90e9f12506180f01cd0-1440x945.png",
+   "bytes": 30944,
+   "contentType": "image/webp",
+   "sha256": "64e973d3d0ef1395e150f036ac9a7739dc8a520019087ae95c6f0bc548326344"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x1288/https://cdn.sanity.io/images/ah5kp358/production/7ed11564cf8a2b91796b5f83d90a74842322aacd-2160x818.webp",
+   "path": "_ipx/f_webp_amp_s_3400x1288/https_/cdn.sanity.io/images/ah5kp358/production/7ed11564cf8a2b91796b5f83d90a74842322aacd-2160x818.webp",
+   "bytes": 48528,
+   "contentType": "image/webp",
+   "sha256": "b3e5bff8995630b439d4db3835f2189c7baa9bd21c6e3ceead70b5ff6c4aa74b"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/blog/this-is-what-comes-next/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "info-hub/blog/this-is-what-comes-next/_payload.json",
+   "bytes": 290248,
+   "contentType": "application/json",
+   "sha256": "ab0234bbd82fb663e8b94aaa3d3c84e53dfb479bece5301dbc9713658c116031"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/case-studies/broadvoice-ethiack/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "info-hub/case-studies/broadvoice-ethiack/_payload.json",
+   "bytes": 274356,
+   "contentType": "application/json",
+   "sha256": "98abe53f9028abde2fa93afc870670bc10043ff492204149dcbf2d313d1254d9"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/case-studies/securing-industrial-data-for-smartex-with-continuous-pentesting/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "info-hub/case-studies/securing-industrial-data-for-smartex-with-continuous-pentesting/_payload.json",
+   "bytes": 236409,
+   "contentType": "application/json",
+   "sha256": "6e95ceb794780101b2a1b314e56ac3b7faffc0186f1fca334daa5985503a1d3c"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/product/now-detecting-wp2shell/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "info-hub/product/now-detecting-wp2shell/_payload.json",
+   "bytes": 272510,
+   "contentType": "application/json",
+   "sha256": "b563ce64c20b940d773b5467c5a5f9c790fa1fdc3a95e4fcce24aab991cc593f"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/product/introducing-the-new-ethiack-portal/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "info-hub/product/introducing-the-new-ethiack-portal/_payload.json",
+   "bytes": 300093,
+   "contentType": "application/json",
+   "sha256": "150898c56ec8f2cf6eb0122fa9e804f27bf51e7b5b951704ecc3a09332f41431"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/joao-ferreira",
+   "path": "info-hub/joao-ferreira.html",
+   "bytes": 287737,
+   "contentType": "text/html",
+   "sha256": "7ff90c36b0072039dbf22e42dc45b7eca0ebfcbf5238120c524c9189a03afd8e"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x3486/https://cdn.sanity.io/images/ah5kp358/production/af9870b5f7e6d4fe9149c47d83cb0312818982d7-1024x1050.jpg",
+   "path": "_ipx/f_webp_amp_s_3400x3486/https_/cdn.sanity.io/images/ah5kp358/production/af9870b5f7e6d4fe9149c47d83cb0312818982d7-1024x1050.jpg",
+   "bytes": 41708,
+   "contentType": "image/webp",
+   "sha256": "b764cc164edb2a0225bb028e9d17de38742747c15e21da6bfeb9987dd5ba26ff"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x2126/https://cdn.sanity.io/images/ah5kp358/production/d15f01a01990283bbb71a3fb5c59a802d628ed89-1999x1250.png",
+   "path": "_ipx/f_webp_amp_s_3400x2126/https_/cdn.sanity.io/images/ah5kp358/production/d15f01a01990283bbb71a3fb5c59a802d628ed89-1999x1250.png",
+   "bytes": 90146,
+   "contentType": "image/webp",
+   "sha256": "93a64288727347baf04c4443e4fcf886c23ee77512acf86def9be9f40c21b0ad"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x1134/https://cdn.sanity.io/images/ah5kp358/production/a7c88802e8560f94076c259ff0f625f76efa2971-2412x804.png",
+   "path": "_ipx/f_webp_amp_s_3400x1134/https_/cdn.sanity.io/images/ah5kp358/production/a7c88802e8560f94076c259ff0f625f76efa2971-2412x804.png",
+   "bytes": 70520,
+   "contentType": "image/webp",
+   "sha256": "6dfc19489f3c03887782fbad4053e511e15442ac0e831396ca3add2495e531a8"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x1278/https://cdn.sanity.io/images/ah5kp358/production/252d491299e833e2e60ffce3bf748ee722c8f1ab-2404x904.png",
+   "path": "_ipx/f_webp_amp_s_3400x1278/https_/cdn.sanity.io/images/ah5kp358/production/252d491299e833e2e60ffce3bf748ee722c8f1ab-2404x904.png",
+   "bytes": 74316,
+   "contentType": "image/webp",
+   "sha256": "08f2913e088f01d1dfd26cb5ac8639960663b2caa4d11419237cd4bf380167cd"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x1408/https://cdn.sanity.io/images/ah5kp358/production/1aeb4cc02b2a713edf1f732885db49a77410b44e-2407x997.png",
+   "path": "_ipx/f_webp_amp_s_3400x1408/https_/cdn.sanity.io/images/ah5kp358/production/1aeb4cc02b2a713edf1f732885db49a77410b44e-2407x997.png",
+   "bytes": 69362,
+   "contentType": "image/webp",
+   "sha256": "71ca6b7bf01dc43eec7a2da08bdd4ca3f91c49826a8b1975ec1f33150da077cb"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x3112/https://cdn.sanity.io/images/ah5kp358/production/39ad72e389332cd46ac1564b45cf35cbeb093460-1404x1285.png",
+   "path": "_ipx/f_webp_amp_s_3400x3112/https_/cdn.sanity.io/images/ah5kp358/production/39ad72e389332cd46ac1564b45cf35cbeb093460-1404x1285.png",
+   "bytes": 30438,
+   "contentType": "image/webp",
+   "sha256": "2c7e10261625ad38fe7bbbd73a3233be46a5bb293fc8fa4fffaaa57f8cdfc7df"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x4184/https://cdn.sanity.io/images/ah5kp358/production/406ac59f3e113f3dcf4f1e3f341a974ac712ffe0-295x363.png",
+   "path": "_ipx/f_webp_amp_s_3400x4184/https_/cdn.sanity.io/images/ah5kp358/production/406ac59f3e113f3dcf4f1e3f341a974ac712ffe0-295x363.png",
+   "bytes": 10606,
+   "contentType": "image/webp",
+   "sha256": "86b04719c953a0ff646c7f6a446ec207ec147208e8be242e74aa35e3acf06fd9"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x1576/https://cdn.sanity.io/images/ah5kp358/production/1293e18086fe08b34294b00439721887627925ba-2402x1113.png",
+   "path": "_ipx/f_webp_amp_s_3400x1576/https_/cdn.sanity.io/images/ah5kp358/production/1293e18086fe08b34294b00439721887627925ba-2402x1113.png",
+   "bytes": 71984,
+   "contentType": "image/webp",
+   "sha256": "d696d954e49c7e24b258471b618c9493e422adfd3316912410e7f786c0b86794"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x1246/https://cdn.sanity.io/images/ah5kp358/production/e6df7287d3224bbc5e4f24a052b7d6405ce78a36-1399x513.png",
+   "path": "_ipx/f_webp_amp_s_3400x1246/https_/cdn.sanity.io/images/ah5kp358/production/e6df7287d3224bbc5e4f24a052b7d6405ce78a36-1399x513.png",
+   "bytes": 22522,
+   "contentType": "image/webp",
+   "sha256": "202abdcbd3cd0b0c0e592d3d5d07b6b52e8635c61e03fff0b59342b37666a2c1"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x832/https://cdn.sanity.io/images/ah5kp358/production/604911b55d7a68d5e94b1ff0bc1a575cd2e04661-1610x394.png",
+   "path": "_ipx/f_webp_amp_s_3400x832/https_/cdn.sanity.io/images/ah5kp358/production/604911b55d7a68d5e94b1ff0bc1a575cd2e04661-1610x394.png",
+   "bytes": 19870,
+   "contentType": "image/webp",
+   "sha256": "0b55bf2a8d0612e7f46e90745aae389daca2db49f66b8af4a375c55953415ad4"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/product/spring-release-2026/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "info-hub/product/spring-release-2026/_payload.json",
+   "bytes": 297075,
+   "contentType": "application/json",
+   "sha256": "56f7943d066b427d2eaebb0b765cca6397ed286b5cb705ba4b97c4a0c5274bde"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/product/beacon-version-two/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "info-hub/product/beacon-version-two/_payload.json",
+   "bytes": 311503,
+   "contentType": "application/json",
+   "sha256": "48fb8d60e593b03da9b464714e1d7b2670f631a805260718571d855916145e70"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x4836/https://cdn.sanity.io/images/ah5kp358/production/b39ab1b507ad611bca833de541027be7cb0dc65e-1350x1920.png",
+   "path": "_ipx/f_webp_amp_s_3400x4836/https_/cdn.sanity.io/images/ah5kp358/production/b39ab1b507ad611bca833de541027be7cb0dc65e-1350x1920.png",
+   "bytes": 47468,
+   "contentType": "image/webp",
+   "sha256": "4e771229ad2266afdfee6063ef380c476cf00aadffa0b1b5841e3a9089b81826"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x2678/https://cdn.sanity.io/images/ah5kp358/production/25bb6c66be844a9eadd705e6be08e4b98f5774b9-2282x1798.png",
+   "path": "_ipx/f_webp_amp_s_3400x2678/https_/cdn.sanity.io/images/ah5kp358/production/25bb6c66be844a9eadd705e6be08e4b98f5774b9-2282x1798.png",
+   "bytes": 95420,
+   "contentType": "image/webp",
+   "sha256": "357c9fa02bf6ac599f2a7435e8a957ac5e678b71386876d307166907ff036513"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x1738/https://cdn.sanity.io/images/ah5kp358/production/0f446de6374370ec11de56255bbfb93b0a2cb8a5-3066x1568.png",
+   "path": "_ipx/f_webp_amp_s_3400x1738/https_/cdn.sanity.io/images/ah5kp358/production/0f446de6374370ec11de56255bbfb93b0a2cb8a5-3066x1568.png",
+   "bytes": 76092,
+   "contentType": "image/webp",
+   "sha256": "57fed263c8516ead49e294d7eb1fd043db24f0cdccb6c90e8b87859a199fb10d"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x4044/https://cdn.sanity.io/images/ah5kp358/production/5b3f626445f14c1383bf0b2a19be9f9060c359ab-1738x2067.png",
+   "path": "_ipx/f_webp_amp_s_3400x4044/https_/cdn.sanity.io/images/ah5kp358/production/5b3f626445f14c1383bf0b2a19be9f9060c359ab-1738x2067.png",
+   "bytes": 79882,
+   "contentType": "image/webp",
+   "sha256": "ada28acfe4024d4858f1bfe8c12c613284d90661073dd887fb8b0de6abbb0869"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/research/geonetwork-preauth-RCE/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "info-hub/research/geonetwork-preauth-RCE/_payload.json",
+   "bytes": 357268,
+   "contentType": "application/json",
+   "sha256": "4208d5b02a5d6231770f62b9f2ae95928a03933016529c34740ba20091f69207"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x1612/https://cdn.sanity.io/images/ah5kp358/production/27952ab2f7894c61393db7ea4033dba0f9ebe8c1-1578x748.png",
+   "path": "_ipx/f_webp_amp_s_3400x1612/https_/cdn.sanity.io/images/ah5kp358/production/27952ab2f7894c61393db7ea4033dba0f9ebe8c1-1578x748.png",
+   "bytes": 42952,
+   "contentType": "image/webp",
+   "sha256": "7b830e10c04458ed7f093cdc1466c4ced019ecc31439b000696305b62a678d35"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x664/https://cdn.sanity.io/images/ah5kp358/production/fc7e8685d510f473e180ab216b82ac58626eaa55-512x100.png",
+   "path": "_ipx/f_webp_amp_s_3400x664/https_/cdn.sanity.io/images/ah5kp358/production/fc7e8685d510f473e180ab216b82ac58626eaa55-512x100.png",
+   "bytes": 1974,
+   "contentType": "image/webp",
+   "sha256": "d89b68c9af7695f2c3ac8ff975f42a8e62e2ccd7f9d8f8c56e9c054a60e7d760"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/research/strategy-is-key-evaluating-the-pentesting-skills-of-frontier-LLMs/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "info-hub/research/strategy-is-key-evaluating-the-pentesting-skills-of-frontier-LLMs/_payload.json",
+   "bytes": 272348,
+   "contentType": "application/json",
+   "sha256": "161bcbf4861e77ba532267161516fb77cde3b2fad3d7c4c29f06a6443d37b540"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/pedro-conde",
+   "path": "info-hub/pedro-conde.html",
+   "bytes": 290045,
+   "contentType": "text/html",
+   "sha256": "d2c3369e22cd808707ca8783fe9b1cca37006480a01d33d65da276f1d6c4ea92"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x3400/https://cdn.sanity.io/images/ah5kp358/production/040f66aea2cb69f49dc9c03de35d8efb44488344-1024x1024.jpg",
+   "path": "_ipx/f_webp_amp_s_3400x3400/https_/cdn.sanity.io/images/ah5kp358/production/040f66aea2cb69f49dc9c03de35d8efb44488344-1024x1024.jpg",
+   "bytes": 45958,
+   "contentType": "image/webp",
+   "sha256": "fff451ea6be82ba1924fbd1304d261eb3dd47f9cbd1b1e3fd0256d8140fe14eb"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x2452/https://cdn.sanity.io/images/ah5kp358/production/3506a58683602b9aff2f53f225e096733642fb45-3524x2541.png",
+   "path": "_ipx/f_webp_amp_s_3400x2452/https_/cdn.sanity.io/images/ah5kp358/production/3506a58683602b9aff2f53f225e096733642fb45-3524x2541.png",
+   "bytes": 72588,
+   "contentType": "image/webp",
+   "sha256": "21dca92a97eb4ef6b11f10596644e0ba2502e3de16c4e9941d708d5ed2b71eea"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x2714/https://cdn.sanity.io/images/ah5kp358/production/5e27350936a6ead562e188ef0ad97544198344e0-3184x2541.png",
+   "path": "_ipx/f_webp_amp_s_3400x2714/https_/cdn.sanity.io/images/ah5kp358/production/5e27350936a6ead562e188ef0ad97544198344e0-3184x2541.png",
+   "bytes": 67964,
+   "contentType": "image/webp",
+   "sha256": "4e25f65ed78605755b31b98c0daa4aa2684824528559d8902ae31311ce76b396"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x2216/https://cdn.sanity.io/images/ah5kp358/production/d6b5a909d1603ca6206df7e0d2e1604af7fbf2b0-2508x1634.png",
+   "path": "_ipx/f_webp_amp_s_3400x2216/https_/cdn.sanity.io/images/ah5kp358/production/d6b5a909d1603ca6206df7e0d2e1604af7fbf2b0-2508x1634.png",
+   "bytes": 49372,
+   "contentType": "image/webp",
+   "sha256": "45a4a0784122e4977658212a1069a2da2e2b256ae639ec6c1f3d6fe3b24bbc12"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/resources/ecb-ai-cybersecurity-action-plan-complete-guide/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "info-hub/resources/ecb-ai-cybersecurity-action-plan-complete-guide/_payload.json",
+   "bytes": 458625,
+   "contentType": "application/json",
+   "sha256": "58aad9993c0bf016e17422556d0215bdc5d8ff6c5f51bfa0120fab716a9ff4e6"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x2644/https://cdn.sanity.io/images/ah5kp358/production/11562c183ad5856f8137bcdd489d50e9140f42d1-832x647.webp",
+   "path": "_ipx/f_webp_amp_s_3400x2644/https_/cdn.sanity.io/images/ah5kp358/production/11562c183ad5856f8137bcdd489d50e9140f42d1-832x647.webp",
+   "bytes": 39662,
+   "contentType": "image/webp",
+   "sha256": "5a03202a7c9dd66818b2fea462640dfaf8bd75f216c619e602d8f7952f33f313"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/resources/ecb-cyber-resilience-ai-deadline-complete-guide/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "info-hub/resources/ecb-cyber-resilience-ai-deadline-complete-guide/_payload.json",
+   "bytes": 467472,
+   "contentType": "application/json",
+   "sha256": "8d4f719cd216838bbb379a76ffb1ac44c6b08292efd030edbfffe7d4574e3368"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x3106/https://cdn.sanity.io/images/ah5kp358/production/94251a4e61b2a83f5794f854c04de0b34c0e2621-880x804.webp",
+   "path": "_ipx/f_webp_amp_s_3400x3106/https_/cdn.sanity.io/images/ah5kp358/production/94251a4e61b2a83f5794f854c04de0b34c0e2621-880x804.webp",
+   "bytes": 37198,
+   "contentType": "image/webp",
+   "sha256": "ec1ffba6560af64a1ab57fb89fe3d510d70bb0c9865defec90c08f5f3c1dd9f0"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/blog/what-anthropic-mythos-means-for-cybersecurity/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "info-hub/blog/what-anthropic-mythos-means-for-cybersecurity/_payload.json",
+   "bytes": 312054,
+   "contentType": "application/json",
+   "sha256": "686cbc755b0107c3d4810071d41133a923f22c626b52d10183b8814aa655ff92"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/case-studies/dont-stop-the-party-how-baladapp-is-keeping-their-users-safe-with-autonomous-ethical-hacking/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "info-hub/case-studies/dont-stop-the-party-how-baladapp-is-keeping-their-users-safe-with-autonomous-ethical-hacking/_payload.json",
+   "bytes": 234311,
+   "contentType": "application/json",
+   "sha256": "1c735dbcb6b618d8a20897383b6b75e48e869fbc41b67fdf2da1652099415006"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/case-studies/protecting-critical-software-with-machine-ethical-hacking/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "info-hub/case-studies/protecting-critical-software-with-machine-ethical-hacking/_payload.json",
+   "bytes": 235694,
+   "contentType": "application/json",
+   "sha256": "d3e9f6eb1de7f8844bfb45f5e4e3431ea08fe09f39f92a16d1b9b1fde2a9447f"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/case-studies/from-checklist-based-pentesting-to-autonomous-ethical-hacking-what-changed-for-cegid/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "info-hub/case-studies/from-checklist-based-pentesting-to-autonomous-ethical-hacking-what-changed-for-cegid/_payload.json",
+   "bytes": 234757,
+   "contentType": "application/json",
+   "sha256": "e2866ecbfb4776523ad43bbf1d7ab513700a60c348d156f818fb18ea9387b1ad"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/andre-baptista/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "info-hub/andre-baptista/_payload.json",
+   "bytes": 1257539,
+   "contentType": "application/json",
+   "sha256": "49a7ddb3810849d58ebae9e012a2b995188295124807787573e3142fb125885d"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/research/ai-pentesting-benchmarks-are-so-bad-we-made-a-new-one",
+   "path": "info-hub/research/ai-pentesting-benchmarks-are-so-bad-we-made-a-new-one.html",
+   "bytes": 321923,
+   "contentType": "text/html",
+   "sha256": "b017705339a93817ecf91f35de60c0bbd73a77c62f4c53a562c5aab163405d9e"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/research/kindarails2shell-how-a-matlab-file-reads-your-secrets-and-pops-a-shell-on-ruby-on-rails",
+   "path": "info-hub/research/kindarails2shell-how-a-matlab-file-reads-your-secrets-and-pops-a-shell-on-ruby-on-rails.html",
+   "bytes": 355923,
+   "contentType": "text/html",
+   "sha256": "9fd13c2feaa06faa94ddf41370889603f73adbddc0a3b050c43af1a79716c693"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/research/kindarails2shell-rails-rce-cve-2026-66066",
+   "path": "info-hub/research/kindarails2shell-rails-rce-cve-2026-66066.html",
+   "bytes": 316240,
+   "contentType": "text/html",
+   "sha256": "fa849017ab389e1f3f0ffb3fae1e679ca7027a29b4b1880e297ff4e1f2508165"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/blog/mythos-didnt-change-the-rules",
+   "path": "info-hub/blog/mythos-didnt-change-the-rules.html",
+   "bytes": 304280,
+   "contentType": "text/html",
+   "sha256": "4421e925da067cbba8d22ae1773d73573ad15e666169fa72348f6b5d8c9e5fa3"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/research/grafana-cve-2025-6023-bypass-a-technical-deep-dive",
+   "path": "info-hub/research/grafana-cve-2025-6023-bypass-a-technical-deep-dive.html",
+   "bytes": 312875,
+   "contentType": "text/html",
+   "sha256": "b00699f764efc92b530ffde06d153fd91e0ab645010d7648c307fc0cbe633ed1"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/product/introducing-hackian",
+   "path": "info-hub/product/introducing-hackian.html",
+   "bytes": 298789,
+   "contentType": "text/html",
+   "sha256": "7b2240f7f8156ef3b65f42478d0dd22351418656073712a324ba4ded4223ad57"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/blog/dont-fear-the-ai-reaper-using-llms-to-hack-better-and-faster",
+   "path": "info-hub/blog/dont-fear-the-ai-reaper-using-llms-to-hack-better-and-faster.html",
+   "bytes": 310821,
+   "contentType": "text/html",
+   "sha256": "94b78619d00e0c4f32650faa65ad82b31419817f2f97a6896132910d7fbc364f"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/rafael-castilho/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "info-hub/rafael-castilho/_payload.json",
+   "bytes": 1257539,
+   "contentType": "application/json",
+   "sha256": "b0892e0b3767ec7b041e0e43c7dd44c825442a0e44d33ce6ad0358b4da17ec8f"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/research/abusing-redirect-discrepancies-to-leak-secrets-in-urls",
+   "path": "info-hub/research/abusing-redirect-discrepancies-to-leak-secrets-in-urls.html",
+   "bytes": 314636,
+   "contentType": "text/html",
+   "sha256": "f08ed33365854f82d9cca0af71065c6f4d385e000bc69812af5b45e2445a1d02"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/joao-ferreira/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "info-hub/joao-ferreira/_payload.json",
+   "bytes": 1257539,
+   "contentType": "application/json",
+   "sha256": "d557042c450a91e2dd9584529874472d755b2983f60b9a7f54535f00b321c7bc"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/pedro-conde/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "info-hub/pedro-conde/_payload.json",
+   "bytes": 1257539,
+   "contentType": "application/json",
+   "sha256": "593012002fd0bc83a38dfbe4aa89d8541f8502488b1a4099dd9b6789ef0be785"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/research/evaluating-pentesting-agents-part-2",
+   "path": "info-hub/research/evaluating-pentesting-agents-part-2.html",
+   "bytes": 345677,
+   "contentType": "text/html",
+   "sha256": "69354fd6b9d17833a0094f8a5bdf3f59b6f90206f143f870a7cbe5c992866535"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/research/evaluating-pentesting-agents-part-1",
+   "path": "info-hub/research/evaluating-pentesting-agents-part-1.html",
+   "bytes": 326996,
+   "contentType": "text/html",
+   "sha256": "da96f13ee107effebbf0b45ded1eab7d15fa624730453081e406658a3d47db94"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/research/introducing-verifier",
+   "path": "info-hub/research/introducing-verifier.html",
+   "bytes": 316403,
+   "contentType": "text/html",
+   "sha256": "3fb30cc9b44d5f4cc0c3e05c27057969722b37a63300a90cde603822fcecadb5"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/research/ai-pentesting-benchmarks-are-so-bad-we-made-a-new-one/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "info-hub/research/ai-pentesting-benchmarks-are-so-bad-we-made-a-new-one/_payload.json",
+   "bytes": 266619,
+   "contentType": "application/json",
+   "sha256": "a2f5d5cad257e0517632c75091b0f30f183af1ebe28f2866ab10e74714608252"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x1880/https://cdn.sanity.io/images/ah5kp358/production/ca6641e2b2bb67429fbfa653d5b8e9fa61c7fe3a-2048x1132.jpg",
+   "path": "_ipx/f_webp_amp_s_3400x1880/https_/cdn.sanity.io/images/ah5kp358/production/ca6641e2b2bb67429fbfa653d5b8e9fa61c7fe3a-2048x1132.jpg",
+   "bytes": 31796,
+   "contentType": "image/webp",
+   "sha256": "e77a8373d8e5ad8b1daa75eb38e9dede81a746b6328e6daaf79bc18d921db208"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x2488/https://cdn.sanity.io/images/ah5kp358/production/f24de6227e65c20eeab7454f51c93ab7157e4f53-2048x1499.jpg",
+   "path": "_ipx/f_webp_amp_s_3400x2488/https_/cdn.sanity.io/images/ah5kp358/production/f24de6227e65c20eeab7454f51c93ab7157e4f53-2048x1499.jpg",
+   "bytes": 60622,
+   "contentType": "image/webp",
+   "sha256": "fdd9b4aba5c8bc6dc4cb0237faa2ec78065e00d78390105652a11e80ab4efc5e"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x2458/https://cdn.sanity.io/images/ah5kp358/production/8b6393901c658f7b4daa2e4cd7fa1fdc9c6fc943-2048x1480.jpg",
+   "path": "_ipx/f_webp_amp_s_3400x2458/https_/cdn.sanity.io/images/ah5kp358/production/8b6393901c658f7b4daa2e4cd7fa1fdc9c6fc943-2048x1480.jpg",
+   "bytes": 58910,
+   "contentType": "image/webp",
+   "sha256": "d5454298aa687c6a58ed4d67ec3b18eac479acafbd8813ab6b4b9a679bebff07"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/research/kindarails2shell-how-a-matlab-file-reads-your-secrets-and-pops-a-shell-on-ruby-on-rails/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "info-hub/research/kindarails2shell-how-a-matlab-file-reads-your-secrets-and-pops-a-shell-on-ruby-on-rails/_payload.json",
+   "bytes": 391194,
+   "contentType": "application/json",
+   "sha256": "88b2d0694e8dee82fb5d70f960f64774cb3fc912066e0a6eb484e246a9e87663"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x3994/https://cdn.sanity.io/images/ah5kp358/production/9a9fc280690d0a6c37f3166098d2674f43afbb50-1347x1582.png",
+   "path": "_ipx/f_webp_amp_s_3400x3994/https_/cdn.sanity.io/images/ah5kp358/production/9a9fc280690d0a6c37f3166098d2674f43afbb50-1347x1582.png",
+   "bytes": 31230,
+   "contentType": "image/webp",
+   "sha256": "a04f3b26bf8195483b62e5952aa65e2d36311f5bbfb3222e516f035a068eedda"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x1182/https://cdn.sanity.io/images/ah5kp358/production/d5f7601499ee5d97babdc7e6c873652ade19ec81-1174x408.png",
+   "path": "_ipx/f_webp_amp_s_3400x1182/https_/cdn.sanity.io/images/ah5kp358/production/d5f7601499ee5d97babdc7e6c873652ade19ec81-1174x408.png",
+   "bytes": 31134,
+   "contentType": "image/webp",
+   "sha256": "bd24c72308eea256a31a57a27e4ededb898b0c13dacfd81cb5c26f2ed3adf46b"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x1988/https://cdn.sanity.io/images/ah5kp358/production/aee74620dabfa23b465c47dd3d05fd50971bbd6e-1921x1123.png",
+   "path": "_ipx/f_webp_amp_s_3400x1988/https_/cdn.sanity.io/images/ah5kp358/production/aee74620dabfa23b465c47dd3d05fd50971bbd6e-1921x1123.png",
+   "bytes": 29140,
+   "contentType": "image/webp",
+   "sha256": "80e317bfff8193f6b74679f2a05598147b3a62ada3cce6bba4c31e2d49a5bc4d"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x2066/https://cdn.sanity.io/images/ah5kp358/production/d81f924f4a54ec54893ed57ff672156c40dbce38-1490x905.png",
+   "path": "_ipx/f_webp_amp_s_3400x2066/https_/cdn.sanity.io/images/ah5kp358/production/d81f924f4a54ec54893ed57ff672156c40dbce38-1490x905.png",
+   "bytes": 20358,
+   "contentType": "image/webp",
+   "sha256": "f9899a03be23a35e17d02de4737e91bb6c98bdbb1e03f9e1442616bdd058cf90"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x1418/https://cdn.sanity.io/images/ah5kp358/production/b82b5c7ab90c9a188aed6fc13535fef4c98af40b-1442x601.png",
+   "path": "_ipx/f_webp_amp_s_3400x1418/https_/cdn.sanity.io/images/ah5kp358/production/b82b5c7ab90c9a188aed6fc13535fef4c98af40b-1442x601.png",
+   "bytes": 13786,
+   "contentType": "image/webp",
+   "sha256": "6bd7567069b3627382dfda018c2ab449e0b70c5a906c74cc84f520e00011b711"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x2284/https://cdn.sanity.io/images/ah5kp358/production/19e7be91048e5b7d83c73c6ded38c71c229d8f44-1536x1032.png",
+   "path": "_ipx/f_webp_amp_s_3400x2284/https_/cdn.sanity.io/images/ah5kp358/production/19e7be91048e5b7d83c73c6ded38c71c229d8f44-1536x1032.png",
+   "bytes": 54046,
+   "contentType": "image/webp",
+   "sha256": "bfcef74cd6fb29ba7bd93eebc00ae00770dd228460ec3c3921bdb52e8dfb8822"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/research/kindarails2shell-rails-rce-cve-2026-66066/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "info-hub/research/kindarails2shell-rails-rce-cve-2026-66066/_payload.json",
+   "bytes": 282763,
+   "contentType": "application/json",
+   "sha256": "066c8290ac1e62840d326a4e32a54ac0afa7baa7fcc278ebf058752fd0ac8985"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/blog/mythos-didnt-change-the-rules/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "info-hub/blog/mythos-didnt-change-the-rules/_payload.json",
+   "bytes": 260996,
+   "contentType": "application/json",
+   "sha256": "4ea5c0d262a24598498409839c0101cf8a4bac9827b1161bf97df484ceab9854"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/research/grafana-cve-2025-6023-bypass-a-technical-deep-dive/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "info-hub/research/grafana-cve-2025-6023-bypass-a-technical-deep-dive/_payload.json",
+   "bytes": 301757,
+   "contentType": "application/json",
+   "sha256": "66596a64842562ef8992bafc88ac31d053a163b1575d9bb4c3fe18d3483bf353"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x1942/https://cdn.sanity.io/images/ah5kp358/production/32a0b744dc00cf44c8eb0d035566d3764d911ac2-1600x914.webp",
+   "path": "_ipx/f_webp_amp_s_3400x1942/https_/cdn.sanity.io/images/ah5kp358/production/32a0b744dc00cf44c8eb0d035566d3764d911ac2-1600x914.webp",
+   "bytes": 17230,
+   "contentType": "image/webp",
+   "sha256": "b195334aacbdb2a6d359083f3c05c9bc5de7b11f0ef6f02e3e4a3bdd90b6aff8"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x3640/https://cdn.sanity.io/images/ah5kp358/production/9f6d23c90d8258797eac355ca5b2be29195d4986-256x274.webp",
+   "path": "_ipx/f_webp_amp_s_3400x3640/https_/cdn.sanity.io/images/ah5kp358/production/9f6d23c90d8258797eac355ca5b2be29195d4986-256x274.webp",
+   "bytes": 3300,
+   "contentType": "image/webp",
+   "sha256": "3dd6f8261b5b0d8c5b465825a06dadf461b83f05540a80ce1e3206c84ddb4d01"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/product/introducing-hackian/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "info-hub/product/introducing-hackian/_payload.json",
+   "bytes": 290212,
+   "contentType": "application/json",
+   "sha256": "6a24ac085d39567ad738c8005a30f6109bd597b0fbbd80531bfcf1787dfd6e9d"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x1914/https://cdn.sanity.io/images/ah5kp358/production/f754e84546ad56b1e5e69cba272a2e03bbd48668-1600x901.png",
+   "path": "_ipx/f_webp_amp_s_3400x1914/https_/cdn.sanity.io/images/ah5kp358/production/f754e84546ad56b1e5e69cba272a2e03bbd48668-1600x901.png",
+   "bytes": 30658,
+   "contentType": "image/webp",
+   "sha256": "f81e812178023368cc53f727cef805f01fe24608c4c33d2035f1fcd794ac2b9c"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/blog/dont-fear-the-ai-reaper-using-llms-to-hack-better-and-faster/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "info-hub/blog/dont-fear-the-ai-reaper-using-llms-to-hack-better-and-faster/_payload.json",
+   "bytes": 317449,
+   "contentType": "application/json",
+   "sha256": "65282d253337f32f8b3ff0bbc3d75d355f9b685347e3fe746b83fc9cedaddd99"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x1250/https://cdn.sanity.io/images/ah5kp358/production/1313d25869564c1b975a01bf88259533175dd552-1186x436.png",
+   "path": "_ipx/f_webp_amp_s_3400x1250/https_/cdn.sanity.io/images/ah5kp358/production/1313d25869564c1b975a01bf88259533175dd552-1186x436.png",
+   "bytes": 22342,
+   "contentType": "image/webp",
+   "sha256": "c0f49b8b0ad8f1583c2c976fca6442d68a2cab42f68ecfcebddc0fc9433858d6"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/research/abusing-redirect-discrepancies-to-leak-secrets-in-urls/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "info-hub/research/abusing-redirect-discrepancies-to-leak-secrets-in-urls/_payload.json",
+   "bytes": 343504,
+   "contentType": "application/json",
+   "sha256": "a49c7110cb0bb3293b81db8d2981895a3ded25fd40d2e9c9f682c9a318b074ba"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x1670/https://cdn.sanity.io/images/ah5kp358/production/c2b9c4b2f95947d5eb30c2653c413ea0eb1227bc-564x277.png",
+   "path": "_ipx/f_webp_amp_s_3400x1670/https_/cdn.sanity.io/images/ah5kp358/production/c2b9c4b2f95947d5eb30c2653c413ea0eb1227bc-564x277.png",
+   "bytes": 10170,
+   "contentType": "image/webp",
+   "sha256": "a81bdf5e6d20822cdb5ab9e67075697981b0670a54073bf3ca5a5f00aae7468e"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x2266/https://cdn.sanity.io/images/ah5kp358/production/e96be68b6c3c11aa3e65a7eb10b481b938a35331-564x376.png",
+   "path": "_ipx/f_webp_amp_s_3400x2266/https_/cdn.sanity.io/images/ah5kp358/production/e96be68b6c3c11aa3e65a7eb10b481b938a35331-564x376.png",
+   "bytes": 14982,
+   "contentType": "image/webp",
+   "sha256": "d0760213742fffd58e7da46ff5ae7a8a51b31ea209ed21106299e452639ccc1f"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/research/evaluating-pentesting-agents-part-2/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "info-hub/research/evaluating-pentesting-agents-part-2/_payload.json",
+   "bytes": 294429,
+   "contentType": "application/json",
+   "sha256": "3f556913ec199dd991ba770e59308f611d2acb5d073b40cff35243f12a908713"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x2450/https://cdn.sanity.io/images/ah5kp358/production/9c821bf63bd09302783e369995e87217aaa99e9b-3525x2541.png",
+   "path": "_ipx/f_webp_amp_s_3400x2450/https_/cdn.sanity.io/images/ah5kp358/production/9c821bf63bd09302783e369995e87217aaa99e9b-3525x2541.png",
+   "bytes": 90184,
+   "contentType": "image/webp",
+   "sha256": "f838d60f19400c2881978b3a3a1d7c2317f7c679d45b0a5c2d5535cea34e2794"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x1598/https://cdn.sanity.io/images/ah5kp358/production/4516df51e731e55df896d4e45ef74844f54b290d-2656x1248.png",
+   "path": "_ipx/f_webp_amp_s_3400x1598/https_/cdn.sanity.io/images/ah5kp358/production/4516df51e731e55df896d4e45ef74844f54b290d-2656x1248.png",
+   "bytes": 22896,
+   "contentType": "image/webp",
+   "sha256": "f41b905a4d9df71db910c0960569c5a6a1db0e84a5510db57498e2f0b705c272"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x1598/https://cdn.sanity.io/images/ah5kp358/production/41a5dcde9f135565ada013ae1a904d54f4941123-2656x1249.png",
+   "path": "_ipx/f_webp_amp_s_3400x1598/https_/cdn.sanity.io/images/ah5kp358/production/41a5dcde9f135565ada013ae1a904d54f4941123-2656x1249.png",
+   "bytes": 22610,
+   "contentType": "image/webp",
+   "sha256": "ea81904eb9d2cf86d4ab28a7319d769a709fccfb47f5d369b5e9e29c74925b12"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x2406/https://cdn.sanity.io/images/ah5kp358/production/ce5374e980fbf92d124369b6e8292c3bcd9955f4-1763x1248.png",
+   "path": "_ipx/f_webp_amp_s_3400x2406/https_/cdn.sanity.io/images/ah5kp358/production/ce5374e980fbf92d124369b6e8292c3bcd9955f4-1763x1248.png",
+   "bytes": 29584,
+   "contentType": "image/webp",
+   "sha256": "e0e2341587b885c10937551fa7869a12d07ad719b2c1321f4dfab11fb606a4e1"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x2752/https://cdn.sanity.io/images/ah5kp358/production/9e57868904f53753fd15d59194f2c5c7b33434d8-1763x1427.png",
+   "path": "_ipx/f_webp_amp_s_3400x2752/https_/cdn.sanity.io/images/ah5kp358/production/9e57868904f53753fd15d59194f2c5c7b33434d8-1763x1427.png",
+   "bytes": 26518,
+   "contentType": "image/webp",
+   "sha256": "7fb05d356174338f2c9559f7fa1b727e9c80528476faff1b6ee40123ca2c1d8b"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/research/evaluating-pentesting-agents-part-1/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "info-hub/research/evaluating-pentesting-agents-part-1/_payload.json",
+   "bytes": 386571,
+   "contentType": "application/json",
+   "sha256": "be5b44e5919e93af3d9eadd0367d0a4909a8b8b5edf9e5865bf51da6ce39c226"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x1670/https://cdn.sanity.io/images/ah5kp358/production/1637d38b07a982946a635d4f96f9f963133a35a4-3644x1789.png",
+   "path": "_ipx/f_webp_amp_s_3400x1670/https_/cdn.sanity.io/images/ah5kp358/production/1637d38b07a982946a635d4f96f9f963133a35a4-3644x1789.png",
+   "bytes": 129862,
+   "contentType": "image/webp",
+   "sha256": "02fb265b661dcdcd56d8ecb5503b92622c6f0842ea1fb02b15502c07a4544518"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x2186/https://cdn.sanity.io/images/ah5kp358/production/ee1993a14164e038a5b81fb82762443811bc6cd3-2782x1789.png",
+   "path": "_ipx/f_webp_amp_s_3400x2186/https_/cdn.sanity.io/images/ah5kp358/production/ee1993a14164e038a5b81fb82762443811bc6cd3-2782x1789.png",
+   "bytes": 68284,
+   "contentType": "image/webp",
+   "sha256": "05348f5649f4a23d53f9bb9951ebd172f1c031d9a4ffac56caf4deaea038aa36"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x1798/https://cdn.sanity.io/images/ah5kp358/production/c6a52e455e0f9b96333efb63b87524701f3a6559-2796x1478.png",
+   "path": "_ipx/f_webp_amp_s_3400x1798/https_/cdn.sanity.io/images/ah5kp358/production/c6a52e455e0f9b96333efb63b87524701f3a6559-2796x1478.png",
+   "bytes": 38396,
+   "contentType": "image/webp",
+   "sha256": "a65ee8fe51f241c9cc68f41d51d447757853a4981d61a247bcc74cc791d95275"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x2452/https://cdn.sanity.io/images/ah5kp358/production/a3e99a9d49d35b7b35f3100fe1f9739636807541-3524x2541.png",
+   "path": "_ipx/f_webp_amp_s_3400x2452/https_/cdn.sanity.io/images/ah5kp358/production/a3e99a9d49d35b7b35f3100fe1f9739636807541-3524x2541.png",
+   "bytes": 96056,
+   "contentType": "image/webp",
+   "sha256": "dca3b05636a283293cbbffbaf4592088397a0bf6e11bc40f74caea917506f6f1"
+  },
+  {
+   "url": "https://ethiack.com/info-hub/research/introducing-verifier/_payload.json?9c6ca34a-56fa-46a2-a1cb-1cabdefd3d67",
+   "path": "info-hub/research/introducing-verifier/_payload.json",
+   "bytes": 295482,
+   "contentType": "application/json",
+   "sha256": "e2750543bbe8ffcb1a484f8e038da284ede975c5baa14c94e93d4a61779f6944"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x2254/https://cdn.sanity.io/images/ah5kp358/production/7a3d5efe972b823839e13b37cd09a1343de3a8b3-1000x663.webp",
+   "path": "_ipx/f_webp_amp_s_3400x2254/https_/cdn.sanity.io/images/ah5kp358/production/7a3d5efe972b823839e13b37cd09a1343de3a8b3-1000x663.webp",
+   "bytes": 32878,
+   "contentType": "image/webp",
+   "sha256": "882244c29ec6219a6fdecac155e805817547b159988221476b213223bdf2c12f"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x2252/https://cdn.sanity.io/images/ah5kp358/production/e8363a591f6b450ee99376261a953f3e9bea260d-900x596.webp",
+   "path": "_ipx/f_webp_amp_s_3400x2252/https_/cdn.sanity.io/images/ah5kp358/production/e8363a591f6b450ee99376261a953f3e9bea260d-900x596.webp",
+   "bytes": 17842,
+   "contentType": "image/webp",
+   "sha256": "b49a017b1e09458b17ce5ffd0c9d99c61048ad02fc921753a74feeab4dde8183"
+  },
+  {
+   "url": "https://ethiack.com/_ipx/f_webp&amp;s_3400x4582/https://cdn.sanity.io/images/ah5kp358/production/acfcf64313e0eb42bb35ee58d4263ecb01ef4c51-900x1213.webp",
+   "path": "_ipx/f_webp_amp_s_3400x4582/https_/cdn.sanity.io/images/ah5kp358/production/acfcf64313e0eb42bb35ee58d4263ecb01ef4c51-900x1213.webp",
+   "bytes": 38438,
+   "contentType": "image/webp",
+   "sha256": "b3ef54f07dfa63d86b841dc4ecafbb0bb41e947cef272c417c2daea1f24da979"
+  }
+ ]
+}

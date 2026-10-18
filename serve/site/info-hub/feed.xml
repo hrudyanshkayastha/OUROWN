@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Ethiack Info Hub</title>
+		<link>https://ethiack.com/info-hub</link>
+		<atom:link href="https://ethiack.com/info-hub/feed.xml" rel="self" type="application/rss+xml" />
+		<description>Autonomous Ethical Hacking for continuous security Continuous Attack Surface Management &amp; Testing</description>
+		<language>en</language>
+		<lastBuildDate>Thu, 15 Oct 2026 10:17:20 GMT</lastBuildDate>
+		<ttl>60</ttl>
+		<item>
+			<title>Mythos AI Security Implications: The Complete Guide (2026)</title>
+			<link>https://ethiack.com/info-hub/resources/mythos-ai-security-implications-complete-guide</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/resources/mythos-ai-security-implications-complete-guide</guid>
+			<description>What Claude Mythos means for enterprise security: capability data, Project Glasswing scope, four implications, and what CISOs should do now.</description>
+			<pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+			<dc:creator>Jorge Monteiro</dc:creator>
+			<category>Resources</category>
+		</item>
+		<item>
+			<title>Now Detecting: CVE-2026-85706 - Unauthenticated Arbitrary File Read in GitLab</title>
+			<link>https://ethiack.com/info-hub/research/now-detecting-cve-2026-85706-gitlab</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/research/now-detecting-cve-2026-85706-gitlab</guid>
+			<description>A maximum severity flaw in GitLab&apos;s repository commits API allows anonymous attackers to read arbitrary files from self-managed servers. We are already detecting it.</description>
+			<pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+			<dc:creator>André Baptista</dc:creator>
+			<category>Research</category>
+		</item>
+		<item>
+			<title> Abusing Remix Routing Discrepancies</title>
+			<link>https://ethiack.com/info-hub/research/abusing-remix-routing-discrepancies</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/research/abusing-remix-routing-discrepancies</guid>
+			<description>Remix&apos;s Single Fetch feature introduces a routing discrepancy that lets attackers bypass auth checks via .data requests. Here&apos;s how it works and how to fix it.</description>
+			<pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+			<dc:creator>Rafael Castilho</dc:creator>
+			<category>Research</category>
+		</item>
+		<item>
+			<title>CTEM vs BAS (Breach and Attack Simulation): The Difference</title>
+			<link>https://ethiack.com/info-hub/resources/ctem-vs-bas</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/resources/ctem-vs-bas</guid>
+			<description>CTEM is the workflow. BAS simulates against your controls. AEV proves against your reality. Read on for the honest comparison and how to build the right validation layer.</description>
+			<pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+			<dc:creator>Jorge Monteiro</dc:creator>
+			<category>Resources</category>
+		</item>
+		<item>
+			<title>Attack Surface Management vs Vulnerability Management (2026)</title>
+			<link>https://ethiack.com/info-hub/blog/attack-surface-management-vs-vulnerability-management</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/blog/attack-surface-management-vs-vulnerability-management</guid>
+			<description>Attack surface management vs vulnerability management: what each does, where they overlap, and how adversarial exposure validation closes the gap.</description>
+			<pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+			<dc:creator>Jorge Monteiro</dc:creator>
+			<category>Blog</category>
+		</item>
+		<item>
+			<title>Manual vs Automated Penetration Testing (2026 Guide)</title>
+			<link>https://ethiack.com/info-hub/blog/manual-vs-automated-penetration-testing</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/blog/manual-vs-automated-penetration-testing</guid>
+			<description>Manual is depth without scale. Automated is scale without depth. Agentic AI is both. See the honest comparison and the third category that the debate misses.</description>
+			<pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+			<dc:creator>Jorge Monteiro</dc:creator>
+			<category>Blog</category>
+		</item>
+		<item>
+			<title>ECB AI Cybersecurity Action Plan: The Complete Guide</title>
+			<link>https://ethiack.com/info-hub/resources/ecb-ai-cybersecurity-action-plan-complete-guide</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/resources/ecb-ai-cybersecurity-action-plan-complete-guide</guid>
+			<description>ECB Letter SSM-2026-0301 gives banks until 31 October 2026 to submit an action plan across six focus areas. Scope, six areas, SREP consequences, DORA overlap.</description>
+			<pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+			<dc:creator>Jorge Monteiro</dc:creator>
+			<category>Resources</category>
+		</item>
+		<item>
+			<title>GeoNetwork - PreAuth Remote Code Execution</title>
+			<link>https://ethiack.com/info-hub/research/geonetwork-preauth-RCE</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/research/geonetwork-preauth-RCE</guid>
+			<description>How a missing @PreAuthorize line in GeoNetwork led to unauthenticated Remote Code Execution across government geospatial infrastructure in 39 countries.</description>
+			<pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+			<dc:creator>Rafael Castilho</dc:creator>
+			<category>Research</category>
+		</item>
+		<item>
+			<title>Strategy is Key: Evaluating the Pentesting Skills of Frontier LLMs</title>
+			<link>https://ethiack.com/info-hub/research/strategy-is-key-evaluating-the-pentesting-skills-of-frontier-LLMs</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/research/strategy-is-key-evaluating-the-pentesting-skills-of-frontier-LLMs</guid>
+			<description>We tested 7 frontier LLMs as Strategizers and Executors inside Hackian&apos;s pentesting agent. See how separating planning from execution delivers 95% of top performance at half the cost.</description>
+			<pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+			<dc:creator>Pedro Conde </dc:creator>
+			<category>Research</category>
+		</item>
+		<item>
+			<title>ECB Cyber Resilience AI Deadline: The Complete Guide</title>
+			<link>https://ethiack.com/info-hub/resources/ecb-cyber-resilience-ai-deadline-complete-guide</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/resources/ecb-cyber-resilience-ai-deadline-complete-guide</guid>
+			<description>&quot;ECB cyber resilience AI deadline&quot; hides three EU instruments with different deadlines. Letter SSM-2026-0301, CRA Article 14, and the EU AI Act, untangled.</description>
+			<pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
+			<dc:creator>Jorge Monteiro</dc:creator>
+			<category>Resources</category>
+		</item>
+		<item>
+			<title>Write Once, Shell Everywhere: Turning Arbitrary File Writes into RCE</title>
+			<link>https://ethiack.com/info-hub/research/write-once-shell-everywhere-arbitrary-file-writes-into-rce</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/research/write-once-shell-everywhere-arbitrary-file-writes-into-rce</guid>
+			<pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
+			<dc:creator>Bruno Mendes</dc:creator>
+			<category>Research</category>
+		</item>
+		<item>
+			<title>AI Pentester Benchmarks Are Rubbish. So We Made a Better One</title>
+			<link>https://ethiack.com/info-hub/research/ai-pentesting-benchmarks-are-so-bad-we-made-a-new-one</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/research/ai-pentesting-benchmarks-are-so-bad-we-made-a-new-one</guid>
+			<description>Ethiack&apos;s research team built EthiBench, a new way to evaluate AI pentesting agents on real-world hacking ability rather than CTF flags. This final post in the series breaks down what realistic evaluation actually requires.</description>
+			<pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
+			<dc:creator>André Baptista</dc:creator>
+			<category>Research</category>
+		</item>
+		<item>
+			<title>KindaRails2Shell: How a MATLAB file reads your secrets and pops a shell on Ruby on Rails</title>
+			<link>https://ethiack.com/info-hub/research/kindarails2shell-how-a-matlab-file-reads-your-secrets-and-pops-a-shell-on-ruby-on-rails</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/research/kindarails2shell-how-a-matlab-file-reads-your-secrets-and-pops-a-shell-on-ruby-on-rails</guid>
+			<description>CVE-2026-66066: how a .mat file declared as image/png chains into arbitrary file read and remote code execution as root on a default Ruby on Rails application.</description>
+			<pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
+			<dc:creator>André Baptista</dc:creator>
+			<category>Research</category>
+		</item>
+		<item>
+			<title>KindaRails2Shell - Critical RCE in Rails via Active Storage (CVE-2026-66066)</title>
+			<link>https://ethiack.com/info-hub/research/kindarails2shell-rails-rce-cve-2026-66066</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/research/kindarails2shell-rails-rce-cve-2026-66066</guid>
+			<description>Ethiack research team discovered KindaRails2Shell (CVE-2026-66066): a critical RCE in Ruby on Rails via Active Storage. 500,000+ sites affected. Find out if you are and how to mitigate.</description>
+			<pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
+			<dc:creator>André Baptista</dc:creator>
+			<category>Research</category>
+		</item>
+		<item>
+			<title>Evaluating Pentesting Agents for the Real-World - Part 2</title>
+			<link>https://ethiack.com/info-hub/research/evaluating-pentesting-agents-part-2</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/research/evaluating-pentesting-agents-part-2</guid>
+			<description>Most AI pentesting benchmarks measure a single run. Part 2 of EthiBench covers what happens next: stochasticity, cumulative detection, temporal behavior, and how to select cost-effective target subsets without losing evaluation fidelity.</description>
+			<pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
+			<dc:creator>Pedro Conde </dc:creator>
+			<category>Research</category>
+		</item>
+		<item>
+			<title>AI Can Hack a Bank in 21 Minutes: ECB&apos;s DORA Deadline Is October</title>
+			<link>https://ethiack.com/info-hub/blog/ai-hack-bank-21-minutes-ecb-dora-deadline</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/blog/ai-hack-bank-21-minutes-ecb-dora-deadline</guid>
+			<description>AI can breach a bank&apos;s defenses in 21 minutes. The ECB just gave financial institutions until October to prove their resilience under DORA. See what&apos;s required and how continuous, AI-driven pentesting gets you audit-ready fast.</description>
+			<pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
+			<dc:creator>Jorge Monteiro</dc:creator>
+			<category>Blog</category>
+		</item>
+		<item>
+			<title>Now Detecting: WP2Shell — Pre-Authentication RCE in WordPress Core (CVE-2026-63030/CVE-2026-60137)</title>
+			<link>https://ethiack.com/info-hub/product/now-detecting-wp2shell</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/product/now-detecting-wp2shell</guid>
+			<description>A critical zero-day in WordPress Core is putting over 500 million websites at risk of full takeover. We are already detecting it.</description>
+			<pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
+			<dc:creator>André Baptista</dc:creator>
+			<category>Product</category>
+		</item>
+		<item>
+			<title>Nextcloud CVE-2026-45281 Cross-Account Calendar Takeover  </title>
+			<link>https://ethiack.com/info-hub/research/nextcloud-cve-2026-45281</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/research/nextcloud-cve-2026-45281</guid>
+			<description>CVE-2026-45281 reveals a high-severity authorization flaw in Nextcloud Server allowing authenticated attackers to fully access and modify other users&apos; calendars.</description>
+			<pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
+			<dc:creator>Pedro Cuco</dc:creator>
+			<category>Research</category>
+		</item>
+		<item>
+			<title>Evaluating Pentesting Agents for the Real-World - Part 1</title>
+			<link>https://ethiack.com/info-hub/research/evaluating-pentesting-agents-part-1</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/research/evaluating-pentesting-agents-part-1</guid>
+			<description>Existing pentesting benchmarks fail in the real world. See how Ethiack built EthiBench: an evaluation framework that tests AI pentesting agents on realistic targets, with structured ground-truth, LLM-as-a-judge matching, and metrics that go beyond flag capture.</description>
+			<pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+			<dc:creator>Pedro Conde </dc:creator>
+			<category>Research</category>
+		</item>
+		<item>
+			<title>Introducing the new Ethiack Portal: Built for the Way You Work Now</title>
+			<link>https://ethiack.com/info-hub/product/introducing-the-new-ethiack-portal</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/product/introducing-the-new-ethiack-portal</guid>
+			<description>The new Ethiack Portal is the most significant redesign since launch. Faster signal, more autonomy: a new dashboard, self-serve agentic pentests, asset-centric views, and smarter findings.</description>
+			<pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
+			<dc:creator>João Ferreira</dc:creator>
+			<category>Product</category>
+		</item>
+		<item>
+			<title>Security Had It Backwards. This Is What Comes Next.</title>
+			<link>https://ethiack.com/info-hub/blog/this-is-what-comes-next</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/blog/this-is-what-comes-next</guid>
+			<description>Most security teams aren&apos;t losing to sophisticated attackers. They&apos;re losing because they&apos;ve been solving the wrong problem. The industry built better ways to see, not better ways to know what matters. This is the argument for proof over volume, and the platform we built around it.</description>
+			<pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
+			<dc:creator>Jorge Monteiro</dc:creator>
+			<category>Blog</category>
+		</item>
+		<item>
+			<title>Abusing Redirect Discrepancies to leak secrets in URLs</title>
+			<link>https://ethiack.com/info-hub/research/abusing-redirect-discrepancies-to-leak-secrets-in-urls</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/research/abusing-redirect-discrepancies-to-leak-secrets-in-urls</guid>
+			<description>Discover how attackers exploit HTTP redirect discrepancies to extract sensitive data embedded in URLs, and what you can do to prevent secret leakage in your web infrastructure.</description>
+			<pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
+			<dc:creator>Rafael Castilho</dc:creator>
+			<category>Research</category>
+		</item>
+		<item>
+			<title>How Broadvoice Replaced Firefighting with Continuous, Validated Security</title>
+			<link>https://ethiack.com/info-hub/case-studies/broadvoice-ethiack</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/case-studies/broadvoice-ethiack</guid>
+			<description>Pedro Cunha leads security for a global UCaaS and CCaaS provider with thousands of volatile cloud assets and clients who trust Broadvoice with their most critical communications.</description>
+			<pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
+			<dc:creator>Jorge Monteiro</dc:creator>
+			<category>Case Studies</category>
+		</item>
+		<item>
+			<title>Ethiack&apos;s Spring Release: What&apos;s New and What&apos;s Coming</title>
+			<link>https://ethiack.com/info-hub/product/spring-release-2026</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/product/spring-release-2026</guid>
+			<description>Continuous validation at attacker speed: what shipped in Q1, what we&apos;re seeing in the wild, and what&apos;s coming next</description>
+			<pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
+			<dc:creator>João Ferreira</dc:creator>
+			<category>Product</category>
+		</item>
+		<item>
+			<title>Here&apos;s What Anthropic&apos;s Mythos Means for the Future of Cybersecurity</title>
+			<link>https://ethiack.com/info-hub/blog/what-anthropic-mythos-means-for-cybersecurity</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/blog/what-anthropic-mythos-means-for-cybersecurity</guid>
+			<description>AI just made exploit development cheap, fast, and autonomous. Here&apos;s what Anthropic&apos;s Mythos release means for your attack surface — and why traditional defenses can no longer keep up.</description>
+			<pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
+			<dc:creator>Jorge Monteiro</dc:creator>
+			<category>Blog</category>
+		</item>
+		<item>
+			<title>The State of Digital Exposure to Cybercrime for European Telecoms</title>
+			<link>https://ethiack.com/info-hub/resources/digital-exposure-to-cybercrime-european-telecoms</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/resources/digital-exposure-to-cybercrime-european-telecoms</guid>
+			<description>The insights and recommendations from analyzing the security posture of European Telecom companies, with over 50,000 assets studied.</description>
+			<pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
+			<dc:creator>Jorge Monteiro</dc:creator>
+			<category>Resources</category>
+		</item>
+		<item>
+			<title>Mythos didn&apos;t change the rules, it showed us they already changed</title>
+			<link>https://ethiack.com/info-hub/blog/mythos-didnt-change-the-rules</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/blog/mythos-didnt-change-the-rules</guid>
+			<description>Project Glasswing confirmed what security teams should already know: the rules changed before anyone noticed. Ethiack&apos;s CTO breaks down what AI-powered hacking really means for enterprise security and where the real threats still hide.</description>
+			<pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
+			<dc:creator>André Baptista</dc:creator>
+			<category>Blog</category>
+		</item>
+		<item>
+			<title>Beacon V2: Testing Internal Assets Made Easy</title>
+			<link>https://ethiack.com/info-hub/product/beacon-version-two</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/product/beacon-version-two</guid>
+			<description>Testing internal assets has always been an headache for security teams. Our Beacon made it easy. Now, we made it even easier to get started.</description>
+			<pubDate>Tue, 07 Apr 2026 00:00:00 GMT</pubDate>
+			<dc:creator>André Baptista</dc:creator>
+			<category>Product</category>
+		</item>
+		<item>
+			<title>The Hidden ROI of Security: How to Put a Number on the Risks You Stop. </title>
+			<link>https://ethiack.com/info-hub/resources/security-roi</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/resources/security-roi</guid>
+			<description>How can you present cybersecurity in words a board understands? In this blog post, we give you the formula to calculate ROI for security, and how we do it here at Ethiack.</description>
+			<pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+			<dc:creator>Sara Duarte</dc:creator>
+			<category>Resources</category>
+		</item>
+		<item>
+			<title>Understanding our Risk Score, and why it reflects real-world conditions</title>
+			<link>https://ethiack.com/info-hub/product/understanding-risk-score</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/product/understanding-risk-score</guid>
+			<description>How do we calculate our risk score? We explain our approach to making it mimic real-world risk in this article.</description>
+			<pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+			<dc:creator>José Martinho</dc:creator>
+			<category>Product</category>
+		</item>
+		<item>
+			<title>Hackian and the Ghosts in Your Business Logic: When Your App’s Rules Are the Real Vulnerability</title>
+			<link>https://ethiack.com/info-hub/research/hackian-ghosts-in-business-logic</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/research/hackian-ghosts-in-business-logic</guid>
+			<description>Hackian managed to exploit app rules logic in SonarQube by simply thinking outside the box - and got access to projects it wasn&apos;t supposed to.
+Curious? Read the full article.</description>
+			<pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
+			<dc:creator>Pedro Cuco</dc:creator>
+			<category>Research</category>
+		</item>
+		<item>
+			<title>Agentic Problems and the Rise of Zombie AIs</title>
+			<link>https://ethiack.com/info-hub/research/agentic-problems-and-zombie-ai</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/research/agentic-problems-and-zombie-ai</guid>
+			<description>To which extent can AI agents and LLMs be manipulated into doing stuff they shouldn&apos;t do? Johann tested the limits and wrote about them in this article.</description>
+			<pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
+			<dc:creator>Johann Rehberger</dc:creator>
+			<category>Research</category>
+		</item>
+		<item>
+			<title>The State of AI Powered Hacking in Early 2026: What Is Real, What Is Hype, What Is Missing</title>
+			<link>https://ethiack.com/info-hub/blog/ai-hacking-2026</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/blog/ai-hacking-2026</guid>
+			<description>There&apos;s progress behind made in powering cybersecurity teams with AI. What can we expect to see accomplished this year?</description>
+			<pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
+			<dc:creator>Jorge Monteiro</dc:creator>
+			<category>Blog</category>
+		</item>
+		<item>
+			<title>One-click RCE on OpenClaw in under 2 hours with an Autonomous Hacking Agent</title>
+			<link>https://ethiack.com/info-hub/research/one-click-rce-openclaw</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/research/one-click-rce-openclaw</guid>
+			<description>Our AI pentester, Hackian, found a RCE on Openclaw by hacking it fully autonomously in under 2 hours. Learn how and read the logs in this blog.</description>
+			<pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
+			<dc:creator>Henrique Branquinho</dc:creator>
+			<category>Research</category>
+		</item>
+		<item>
+			<title>The State of Digital Exposure to Cybercrime for European Retail</title>
+			<link>https://ethiack.com/info-hub/resources/digital-exposure-to-cybercrime-european-retail</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/resources/digital-exposure-to-cybercrime-european-retail</guid>
+			<description>The insights and recommendations from analyzing the security posture of European Retail companies, with over 50,000 assets studied.</description>
+			<pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
+			<dc:creator>Jorge Monteiro</dc:creator>
+			<category>Resources</category>
+		</item>
+		<item>
+			<title>Growing, Hosting, Hacking: Ethiack’s 2025 Wrap Up</title>
+			<link>https://ethiack.com/info-hub/blog/2025-wrap-up</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/blog/2025-wrap-up</guid>
+			<description>Ethiack&apos;s 2025 year in review: 100+ customers protected, Hackian AI demo at DEFCON CTF, launching HackAIcon conference, and doubling security findings.</description>
+			<pubDate>Tue, 30 Dec 2025 00:00:00 GMT</pubDate>
+			<dc:creator>Jorge Monteiro</dc:creator>
+			<category>Blog</category>
+		</item>
+		<item>
+			<title>Grafana CVE-2025-6023 Bypass: A Technical Deep Dive</title>
+			<link>https://ethiack.com/info-hub/research/grafana-cve-2025-6023-bypass-a-technical-deep-dive</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/research/grafana-cve-2025-6023-bypass-a-technical-deep-dive</guid>
+			<description>Technical deep dive on bypassing Grafana CVE-2025-6023: step-by-step analysis of how chained server-side open redirect and client-side path traversal lead to XSS and full account takeover, plus insights from real exploit research. </description>
+			<pubDate>Thu, 27 Nov 2025 00:00:00 GMT</pubDate>
+			<dc:creator>André Baptista</dc:creator>
+			<category>Research</category>
+		</item>
+		<item>
+			<title>Introducing the Hackian - an AI agent that can hack</title>
+			<link>https://ethiack.com/info-hub/product/introducing-hackian</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/product/introducing-hackian</guid>
+			<description>Discover Hackian, an AI agent transforming cybersecurity by autonomously identifying vulnerabilities and enhancing ethical hacking practices for a safer internet.</description>
+			<pubDate>Mon, 27 Oct 2025 00:00:00 GMT</pubDate>
+			<dc:creator>André Baptista</dc:creator>
+			<category>Product</category>
+		</item>
+		<item>
+			<title>How U.Porto Brought 5,000+ Assets Under Continuous Validation</title>
+			<link>https://ethiack.com/info-hub/case-studies/scaling-security-how-uporto-and-ethiack-protected-5000-assets-with-ai-powered-intelligence</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/case-studies/scaling-security-how-uporto-and-ethiack-protected-5000-assets-with-ai-powered-intelligence</guid>
+			<description>One of Europe&apos;s largest universities had a sprawling, ever-changing attack surface, and a security team that needed to know which exposures attackers could actually use.
+</description>
+			<pubDate>Thu, 21 Aug 2025 00:00:00 GMT</pubDate>
+			<dc:creator>Jorge Monteiro</dc:creator>
+			<category>Case Studies</category>
+		</item>
+		<item>
+			<title>AI Pentesting Without the Noise: Hackbots and the Verifier</title>
+			<link>https://ethiack.com/info-hub/research/introducing-verifier</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/research/introducing-verifier</guid>
+			<description>Explore the role of AI-powered hackbots in autonomous penetration testing. Learn how they outperform traditional methods in speed and depth and why keeping hallucinations in check is critical to secure implementation.</description>
+			<pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate>
+			<dc:creator>Pedro Conde </dc:creator>
+			<category>Research</category>
+		</item>
+		<item>
+			<title>Bypassing WAFs for Fun and JS Injection with Parameter Pollution</title>
+			<link>https://ethiack.com/info-hub/research/bypassing-wafs-for-fun-and-js-injection-with-parameter-pollution</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/research/bypassing-wafs-for-fun-and-js-injection-with-parameter-pollution</guid>
+			<description>Technical deep dive into bypassing a strict Web Application Firewall using HTTP Parameter Pollution, leveraging multi-parameter payload splitting to achieve JavaScript injection and evade detection.</description>
+			<pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
+			<dc:creator>Bruno Mendes</dc:creator>
+			<category>Research</category>
+		</item>
+		<item>
+			<title>Don’t Fear The AI Reaper: Using LLMs to Hack Better and Faster</title>
+			<link>https://ethiack.com/info-hub/blog/dont-fear-the-ai-reaper-using-llms-to-hack-better-and-faster</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/blog/dont-fear-the-ai-reaper-using-llms-to-hack-better-and-faster</guid>
+			<description>Large Language Models are changing how security researchers work. Here&apos;s how to use AI to hack faster, go deeper, and stop wasting time on the obvious.</description>
+			<pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
+			<dc:creator>André Baptista</dc:creator>
+			<category>Blog</category>
+		</item>
+		<item>
+			<title>From Compliance to Continuous Security: Ethiack&apos;s Vision For Financial Cybersecurity</title>
+			<link>https://ethiack.com/info-hub/blog/from-compliance-to-continuous-security-ethiacks-vision-for-financial-cybersecurity</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/blog/from-compliance-to-continuous-security-ethiacks-vision-for-financial-cybersecurity</guid>
+			<description>In an interview with Link to Leaders, Jorge Monteiro, CEO of Ethiack, discusses the challenges of cybersecurity in the financial sector, the impact of the DORA regulation, and how autonomous ethical hacking can enhance digital resilience.</description>
+			<pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
+			<dc:creator>Jorge Monteiro</dc:creator>
+			<category>Blog</category>
+		</item>
+		<item>
+			<title>How Zick Learn Earned Enterprise Trust Without Hiring an Internal Pentester</title>
+			<link>https://ethiack.com/info-hub/case-studies/how-ethiack-helps-zick-learn-protect-their-relationships-with-enterprise-clients</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/case-studies/how-ethiack-helps-zick-learn-protect-their-relationships-with-enterprise-clients</guid>
+			<description>Matteo Penzo had a fast-growing startup and a stack of enterprise security questionnaires. He needed continuous validation, not a once-a-year report.</description>
+			<pubDate>Wed, 28 May 2025 00:00:00 GMT</pubDate>
+			<dc:creator>Jorge Monteiro</dc:creator>
+			<category>Case Studies</category>
+		</item>
+		<item>
+			<title>How Smartex Cut Time-to-Mitigation from Weeks to Days</title>
+			<link>https://ethiack.com/info-hub/case-studies/securing-industrial-data-for-smartex-with-continuous-pentesting</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/case-studies/securing-industrial-data-for-smartex-with-continuous-pentesting</guid>
+			<description>Paulo Ribeiro&apos;s engineering team ships fast. The risk was simple: every deployment was a new opportunity for an attacker.
+</description>
+			<pubDate>Wed, 28 May 2025 00:00:00 GMT</pubDate>
+			<dc:creator>Jorge Monteiro</dc:creator>
+			<category>Case Studies</category>
+		</item>
+		<item>
+			<title>How ANA Aeroportos Kept 10 Airports Secure While Attackers Got Faster</title>
+			<link>https://ethiack.com/info-hub/case-studies/strengthening-cybersecurity-at-ana-aeroportos-with-ethiacks-ethical-hacking</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/case-studies/strengthening-cybersecurity-at-ana-aeroportos-with-ethiacks-ethical-hacking</guid>
+			<description>Sixty million passengers a year. Ten airports. Twenty-four-hour operations. A threat landscape that doesn&apos;t sleep, and a CISO who refuses to.
+</description>
+			<pubDate>Wed, 28 May 2025 00:00:00 GMT</pubDate>
+			<dc:creator>Jorge Monteiro</dc:creator>
+			<category>Case Studies</category>
+		</item>
+		<item>
+			<title>Navigating DORA: How Continuous Penetration Testing Bolsters Your ICT Risk Management Framework and Contributes to Overall Compliance</title>
+			<link>https://ethiack.com/info-hub/resources/navigating-dora-how-continuous-penetration-testing-bolsters-your-ict-risk-management-framework-and-contributes-to-overall-compliance</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/resources/navigating-dora-how-continuous-penetration-testing-bolsters-your-ict-risk-management-framework-and-contributes-to-overall-compliance</guid>
+			<description>Navigate DORA&apos;s complex requirements for financial sector cybersecurity. Learn how autonomous pentesting with Ethiack aids in compliance, addressing testing, protection, and risk management. Understand key deadlines and the multi-faceted approach needed for robust digital operational resilience.</description>
+			<pubDate>Thu, 03 Apr 2025 00:00:00 GMT</pubDate>
+			<dc:creator>Jorge Monteiro</dc:creator>
+			<category>Resources</category>
+		</item>
+		<item>
+			<title>What’s New in Ethiack: Main Product Updates on V2.27, V2.28 and V2.29</title>
+			<link>https://ethiack.com/info-hub/product/whats-new-in-ethiack-main-product-updates-on-v227-v228-and-v229</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/product/whats-new-in-ethiack-main-product-updates-on-v227-v228-and-v229</guid>
+			<description>Discover what&apos;s new on Ethiack 2.27, from managing user access to hacking events, receiving monthly security reports, and enjoying improved Jira integration for better vulnerability tracking.</description>
+			<pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+			<dc:creator>José Martinho</dc:creator>
+			<category>Product</category>
+		</item>
+		<item>
+			<title>Roll out the Ethiacker Awards: Celebrating the Best Ethical Hackers of 2024</title>
+			<link>https://ethiack.com/info-hub/blog/roll-out-the-ethiacker-awards-celebrating-the-best-ethical-hackers-of-2024</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/blog/roll-out-the-ethiacker-awards-celebrating-the-best-ethical-hackers-of-2024</guid>
+			<description>Meet the winners of our Ethical Hackers Awards 2024.</description>
+			<pubDate>Wed, 26 Feb 2025 00:00:00 GMT</pubDate>
+			<dc:creator>Hugo Ferreira</dc:creator>
+			<category>Blog</category>
+		</item>
+		<item>
+			<title>Super-charging Bug Bounty Hunting with the Power of AI</title>
+			<link>https://ethiack.com/info-hub/blog/supercharging-bug-bounty-hunting-with-ai</link>
+			<guid isPermaLink="true">https://ethiack.com/info-hub/blog/supercharging-bug-bounty-hunting-with-ai</guid>
+			<description>Discover how AI-driven tools supercharge bug bounty hunting. Boost reconnaissance, streamline vulnerability exploitation, and enhance reporting.</description>
+			<pubDate>Fri, 17 Jan 2025 00:00:00 GMT</pubDate>
+			<dc:creator>Ben Lampere</dc:creator>
+			<category>Blog</category>
+		</item>
+	</channel>
+</rss>

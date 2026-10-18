@@ -1,0 +1,1852 @@
+{
+  "capture_path": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\opencode\\ethiack-scripts.json",
+  "capture_sha256": "e53486c3fcb273513af701ba491d024059ce71953e562dca3636caa06fdc3533",
+  "capture_kind": "page-inspection",
+  "source_evidence_id": "ev_1be8f005829f1f19c702406603439f7dff5ae832596d6855023a10ed92e6bcaf",
+  "capture_completeness": {
+    "status": "policy_filtered",
+    "conditions": [
+      "attach_limited",
+      "policy_filtered"
+    ],
+    "policy_filtered_sections": [
+      "accessibility",
+      "console_text",
+      "dom",
+      "frames",
+      "json_body_shapes",
+      "metadata",
+      "network_requests",
+      "resources",
+      "scripts",
+      "storage_keys",
+      "websocket_shapes"
+    ],
+    "attach_limited_sections": [
+      "console_events",
+      "metadata",
+      "network_requests",
+      "websocket_connections",
+      "websocket_frames"
+    ],
+    "truncated_sections": [],
+    "unavailable_sections": [],
+    "excluded": [
+      {
+        "section": "accessibility",
+        "reason": "not_approved",
+        "count": 6288
+      },
+      {
+        "section": "console_text",
+        "reason": "not_approved",
+        "count": null
+      },
+      {
+        "section": "dom",
+        "reason": "unsupported_url",
+        "count": 3
+      },
+      {
+        "section": "frames",
+        "reason": "unsupported_url",
+        "count": 3
+      },
+      {
+        "section": "json_body_shapes",
+        "reason": "not_approved",
+        "count": null
+      },
+      {
+        "section": "metadata",
+        "reason": "disallowed_origin",
+        "count": 60
+      },
+      {
+        "section": "metadata",
+        "reason": "unsupported_url",
+        "count": 13
+      },
+      {
+        "section": "network_requests",
+        "reason": "disallowed_origin",
+        "count": 1
+      },
+      {
+        "section": "resources",
+        "reason": "disallowed_origin",
+        "count": 21
+      },
+      {
+        "section": "resources",
+        "reason": "unsupported_url",
+        "count": 4
+      },
+      {
+        "section": "scripts",
+        "reason": "disallowed_origin",
+        "count": 19
+      },
+      {
+        "section": "scripts",
+        "reason": "unattributed_origin",
+        "count": 2
+      },
+      {
+        "section": "storage_keys",
+        "reason": "not_approved",
+        "count": null
+      },
+      {
+        "section": "websocket_shapes",
+        "reason": "not_approved",
+        "count": null
+      }
+    ],
+    "dropped_events": {
+      "scripts": 0,
+      "network_requests": 0,
+      "console_events": 0,
+      "websocket_connections": 0,
+      "websocket_frames": 0,
+      "webmcp_tools": 0,
+      "timeline_events": 0,
+      "total": 0
+    }
+  },
+  "output_directory": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\opencode\\ethiack-bundles",
+  "analysis_input": {
+    "input_path": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\opencode\\ethiack-bundles\\files",
+    "format": "directory"
+  },
+  "scripts": [
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_00e3317cf10d6e708cd3c63912c3d67e7fab1d9205dcf27a1be2884605e97eef",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/BnMYDIlF.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/BnMYDIlF.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/BnMYDIlF.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "2648f4700501bf3934e3d1b96c8c2b1291694ac46c4cc8f69dc96940f413cd01",
+        "bytes": 2092,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_04293e73ab1301b9e3e8f81c8a4c13eee33ce52a7b941686e5a77fa55277f682",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/DOiHG4TN.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/DOiHG4TN.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/DOiHG4TN.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "34efd53a5c74bd91183af63362d6a15c9063a6f30473336943fa626609260bb7",
+        "bytes": 487,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_0483760eca38476cf777ceb7709ed602ab0f03d7e0b2677dc0d5f0c062b4ff8f",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/Ckzxu43k.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/Ckzxu43k.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/Ckzxu43k.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "7e9d7a31e50446659b5afe9911aa0bc042fcb7f1e869efac344d6818f4e1d9c2",
+        "bytes": 535,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_04d51bbd78bda7ca226c75356783683159b8ea95f95495c5c4a743e9190a7357",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/Bk4uSTP8.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/Bk4uSTP8.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/Bk4uSTP8.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "a2067598f3c395505c3ea5f7d46584ee8c23143918fa610f2a51278b40d9a92a",
+        "bytes": 402,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_074d26d0311d7bb629150b9a791f3074f7f2e6080335edde7e080ea65eed5b0c",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/D6vsUnJB.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/D6vsUnJB.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/D6vsUnJB.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "97e6d0717105173164b16d4584f25930bca5b5db3840c35ea129271090f2041f",
+        "bytes": 836,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_0af6578bb907a2dd9ef80e8ed27da0a69ea04cae4df2696f5eb71ed22fa859c7",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/lKbktySr.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/lKbktySr.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/lKbktySr.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "8856f3cfea2643481bb86c3e203b2ca92bb143aba3f50537d094adb275f76a2f",
+        "bytes": 4622,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_0cbcd3b61737b175b5a34af613360c9484154b3419ba0ce364e024130d37cb85",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/-4vuhrH9.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/-4vuhrH9.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/-4vuhrH9.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "8d6df4bfa84a3a63445e604c8a171b6272010dc535ff57fc204b946a181eea4c",
+        "bytes": 781,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_0db6ce3921443a307f7af10b1b99eabc5008f5f448df4707c71f71ed48084ef1",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/DjIGpGll.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/DjIGpGll.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/DjIGpGll.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "61a78123768a5c3e4a98844de944b63f7d4a9f0a47aeefe94f48f0cfae303a81",
+        "bytes": 493,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_0e3a08ed0f742dee05274f6285134810045bae0321d22e000525ed0832f50292",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/D7UsqVVD.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/D7UsqVVD.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/D7UsqVVD.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "2e6013b8ae1032a93c511e3bc754eb158a0d058c0a4cc776c7eb3d84a42d4e98",
+        "bytes": 1702,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_18ef55ab5cf6e6a8899a8a0ca5cb55feecb2cda14adf1698b0f05205dbac6ed0",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/BL9MzHeF.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/BL9MzHeF.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/BL9MzHeF.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "c278a41c94040e855c83ec53b537ebf10a8a4fc826d544cae765577dc0a1845d",
+        "bytes": 682,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_2264f3ab9cda424d9ac62c5eff666bb18409a2b0cb9e33d785ee688db8013503",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/BbdpyP-i.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/BbdpyP-i.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/BbdpyP-i.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "65088cf4628652fcfb6eabd1cdee2a94679d921db10337ee14493d18d4974858",
+        "bytes": 4400,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_23eb7d6cf159899d5946564fbfaf508c219e335a3b9671881ce57f546b5ae9e0",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/DrrqncaE.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/DrrqncaE.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/DrrqncaE.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "9623fb93e809b4f61e0d1be77eaa04be931d553cabbe62d65c154126c8c71b7a",
+        "bytes": 366,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_27308175d12f022eaa7f265586d61887099b20e6f3c91abb47c431d2406dd572",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/C69WlMbV.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/C69WlMbV.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/C69WlMbV.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "3b8b7d406f3c0e07da54be2b84dbecf87fa416b292f7547cb9558a22587a98d6",
+        "bytes": 1559,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_28167cfef1e1b9a753649a2b5bbff2e890fa16656f2a5b569005e14101bbe3e5",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/DoBWjOTb.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/DoBWjOTb.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/DoBWjOTb.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "7aaae0b49da2b4fd1466281bcc9b2355f26d04f699f4e8d681bb2b4d231875dc",
+        "bytes": 480,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_291a5716384703203a9487898f9dbc5195577b9fbf524a4faf7aaff3453d8e86",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/Dr1hQoHk.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/Dr1hQoHk.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/Dr1hQoHk.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "94ab22f8fb347d70e29b8084804e33688b36b14e206966bfe45f01539740fcbc",
+        "bytes": 10366,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_2fa734ff81ae23d072f63ec83bdcc8db808c0f649551d9bb32dd1abf76c13c4a",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/6yCKWxF8.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/6yCKWxF8.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/6yCKWxF8.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "116fe3a87405e4281a6b14b6755b05a010e2a07b240e6a2a22954e636f27c8be",
+        "bytes": 981,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_37640d5ead3fafa7a965a834db235850291465c0fb09a8027e184db5bf341d00",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/cIfk7yRO.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/cIfk7yRO.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/cIfk7yRO.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "443077c910b270bec419644d9507113e5c41a95b6bc2fcf7ca87fa83b3b5f6c5",
+        "bytes": 3098,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_3954b8bdd5c37b418e417889b58f435a7f46b7ab53419170ab81dae2c26219ad",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/BTrafbDn.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/BTrafbDn.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/BTrafbDn.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "8ee186b77fe8c991e5052c081d09f6244f3b44d0461e620f7c60f112d7ce0b9b",
+        "bytes": 500,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_3b64334cf4750a66f5862b213c9cc7a918d3ef5a61384d16cead6d04ad63bfe0",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/Ch1Swvf_.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/Ch1Swvf_.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/Ch1Swvf_.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "9604ea608b6f2ae139968b1b874d6d107880cc176b7c9346dafa2b499e75d36c",
+        "bytes": 550,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_3ded991ba990284ecc14c57369439c8a46dd80523aada2bae47bfcdb4e4cb4a1",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/Bg6JjSem.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/Bg6JjSem.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/Bg6JjSem.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "e9e5e1126aa713c1e2389c6221e306d1d0060734c43b3cd993559c953b182535",
+        "bytes": 580,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_3feeb5d94ad07ce7df393da78ac19159d2704bdc4e9b8fc839b513287fc66214",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/DQ5DOhHw.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/DQ5DOhHw.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/DQ5DOhHw.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "60925218fa12b6c2cd7bcf494945533221fc2ca0ea43f4312fa3a854318216b4",
+        "bytes": 707,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_42f6c33abef08c9e333a380e64f0b7e59b98500794f907b47dc829d38e4912dc",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/COKzMoW2.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/COKzMoW2.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/COKzMoW2.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "216425ef95937ca003d9d8d1e5edab1a76986b11bfba2afe5be154f85283dac0",
+        "bytes": 1293,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_44158bda00c58570ac2beff93012693b2dda43879823e2d2583a0b6acbbd66cb",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/Bwz1r6hd.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/Bwz1r6hd.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/Bwz1r6hd.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "3b94a6064e54fde853c649836db8483b5a82db7f105fba038cde6d65cd0aaec5",
+        "bytes": 648,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_46e62b4118bfb372babdbfe6b50f9ff1be2974f97e4ddf87438bb8a4e7c672ad",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/Du-A2zPi.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/Du-A2zPi.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/Du-A2zPi.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "999b3c26b564fbc50bc51e2e6ac6577f470ba4014be197490da9fa20383fe29a",
+        "bytes": 1035,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_474267719353c8ca5edce90b03c7150d011980d01d5a7323f3453c2562475df8",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/CvTMY0hI.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/CvTMY0hI.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/CvTMY0hI.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "2d3bb702834f410791678d1bc559050f8b1dcadfdb2bb888442a2f2ba61ba7e9",
+        "bytes": 12645,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_50b869640e7c559b8d644b3483ee611d32e877aba45ede2e0ae942a42b808f3a",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/DMSiQwX0.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/DMSiQwX0.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/DMSiQwX0.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "20549d7509966e2ed62d914fbe03da2a694ac47f8832c2a678ce7e723227d387",
+        "bytes": 428,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_54bc23b03bdc28893c8e1c1cffbefa05b597712c64e4469f5b8bf23a93682ca0",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/CUqbjOjy.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/CUqbjOjy.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/CUqbjOjy.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "d58a6c64cd3fa934660a1607925f4b3113ecfc2a9fa39866352b3897dfe17d7d",
+        "bytes": 8036,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_556e5c82818b1c4b9470abd49ed78fbba29f25337c61c19d6e90ada43aaeec86",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/Bea-zFln.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/Bea-zFln.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/Bea-zFln.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "91e453d8887a5bb7ebcfea3c532cbdec02f2fe164bd5237f4bb7f51730a19a5c",
+        "bytes": 464,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_580da9651698d05ed7ff628dcba561818c961a4b9445d317a0c72cf5052347e0",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/BMYXNpqD.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/BMYXNpqD.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/BMYXNpqD.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "5b4554f4a6d18234c715347e02785a38f7ad790a12bc98ed152d62818dd0cdfa",
+        "bytes": 16451,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_5c0c214d87f0cb3cbd0832e14525a5825bfd6c5fed5fc0b7c2fab87d75585c2e",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/21h52I9A.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/21h52I9A.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/21h52I9A.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "d7f426a6690d0dacf135a74e6abd7f631ccc05897c5a588ec9113aff3218a0dd",
+        "bytes": 18101,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_5cb497be1fc419e6e9aee38d2dab965cf2f680cc6450e471589a544e19b16e6b",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/TZecERD6.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/TZecERD6.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/TZecERD6.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "4c8c1e01421d6ec096364f5306e20e566e11b800a13d2bb7f2b73d728d5b960f",
+        "bytes": 7959,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_5da29883a72ccd4490ffd5b9be18b1b13e2b9d221d981169e7961412657dc0af",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/CfwUIiyP.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/CfwUIiyP.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/CfwUIiyP.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "7185741cb49302111b2219bdcc8c3823c7bb2e33c3362247de10763cfe842a0e",
+        "bytes": 539,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_5ed81e023a8b801cdc7487410d52c61736d044b14ca415d4251da0a8e87b0712",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://ethiack.com/",
+      "content": {
+        "state": "exported",
+        "relative_path": "isolated/source-33-4dbf71244bca5dce6122d1db72416e3dc3619c12ca0534fd87f22d5226ad6466.js",
+        "layout": "isolated",
+        "layout_reason": "URL path is not an ordinary portable JavaScript module path.",
+        "sha256": "39a0cd6944282531de5c091e8049732a97f46fe3dad1d7b4faefd28b8a45ff0d",
+        "bytes": 31,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_5fee35321843ea90e6c50bb5d730ef37fbcea958d6823d592cefd112caf97ac9",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/mDN5UEkR.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/mDN5UEkR.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/mDN5UEkR.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "a7c4be27e15bb0c1e683937cf6f2a9115fec26dd34b94e987fa92420c4d2f3a4",
+        "bytes": 1880,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_6250faa2c5c7b574c79632eddb2a55cbfc7c954ac2b2fe36ea597d913c51cdd4",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/AjVZdNou.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/AjVZdNou.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/AjVZdNou.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "68b73c0fe2c1f81499cb2251e27529695c4eefe0699dce1680ae606e00339c97",
+        "bytes": 1365,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_66b8c5e9eec2bd28138aa1841ad8a2692b392f779ccfbd8f4e8db454c994d119",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/yIDbgYg1.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/yIDbgYg1.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/yIDbgYg1.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "4dceaca1945e59c9960020858b805bf58026e43a2f46ef7689f2a6b772265d6a",
+        "bytes": 864,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_74e23c9ecb520cbb45fa520a9f265a2a925049bc4c34ebc9aa2a33acb425c206",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/cc92CHLP.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/cc92CHLP.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/cc92CHLP.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "650d84438db1348d6d9aa934d465eb53f7155e2183e3a5484e4c330353ba0563",
+        "bytes": 536,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_75b2ce892f6b2143d4cbe49480c279606a6c16b70102db4eafb7a713e1a6d237",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/C1XzVAb6.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/C1XzVAb6.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/C1XzVAb6.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "1b15961177f25ec89027164f9ce16fc0d045c9ded03a4fb67a752251013cb1c6",
+        "bytes": 2225,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_77027d08299427856a3cae03b5fa3c07b5de7282fc1031d56914a02a414c5c65",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/BeF4bmC3.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/BeF4bmC3.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/BeF4bmC3.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "5c9f12a6ea4232e1487b39b6692e8f4390dbb5e21f768d514608248f1e84740c",
+        "bytes": 28462,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_79929136c3ccdba93418ae15a68cd62271861647194147eaea817abc4b396d4a",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/GavbuTPg.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/GavbuTPg.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/GavbuTPg.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "916d4ecfd61b9830c3607f8953d943f8af3d4ce46e60f9dc7d058c1303b0e123",
+        "bytes": 405,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_7cb9b4cc8d0aa07e7216441975373793e41d5b0d38eae3ec61b1d06852832331",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/DWvQKxl4.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/DWvQKxl4.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/DWvQKxl4.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "6da78272f2ecce16c38f59a41e576f37fa85162a174518af081453db6baac3bc",
+        "bytes": 3070,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_7d1221c8383853b4f943b956da8094e2f9d05d39031680c10e8d0bc91e07377a",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/BFtXoW5L.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/BFtXoW5L.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/BFtXoW5L.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "40ce194474d31b40792d830e9ec20df5a97fd1d9bc280f95603cc383039ac8f1",
+        "bytes": 4675,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_7e17fd36c789e00c08a222e926adea7c89110e946a1c37b8bbaec605e5b01592",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/DGhBzL6K.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/DGhBzL6K.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/DGhBzL6K.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "1c255a1cf63bd73544d6c4142f8c16f2702dea1b4715578855fa0d458a0af6db",
+        "bytes": 1247,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_81a698c67e5dd66a638d8a57376f819e53e34b664f09f36441dd8b47ca5ea944",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/8JuUymyV.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/8JuUymyV.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/8JuUymyV.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "f7ec32a37cd9a56051b6e50db5869b8253ab113cdbef6aeeb629fbaeadb9e58c",
+        "bytes": 136250,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_84106da73842e4138e8460c3346b066390d9b357aa98377e64f6c030e0ece13a",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/DUQUX3af.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/DUQUX3af.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/DUQUX3af.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "951184589be70c119bc1e3e1d70808d92c9f97bba67a44707a7f7ac20b0a374d",
+        "bytes": 2476,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_8869b752088c3ea4413a0834c3843cab923498d8967878d33d53e39d2a78f269",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/D4uy8bQq.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/D4uy8bQq.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/D4uy8bQq.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "a835a6ed0a701bbf520d23a6bb8d6e009031c9fe4cbfd1a9dc34bc7c5334f608",
+        "bytes": 624,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_898839178669a08cc5a7a5cd01b3ae4524b4172b8a48cddb1f552eef29280e36",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/BocJCfvS.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/BocJCfvS.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/BocJCfvS.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "c511d461ee7de22665acee6ea4644a81cd6af2f46a3e7ff580bfe620a9351222",
+        "bytes": 2097,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_8b4f89cd6a37eb688018c06ea059f4936daf9e89d8450f8179b0d43f48e5d27a",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/BLiyEnK9.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/BLiyEnK9.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/BLiyEnK9.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "08f931ecf89cabb91203568374f28ee8b3f721882626357c41db4e49b1c9066c",
+        "bytes": 1308,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_8c0bcd3d841447e31facf3ab94da343990092d844e24bb8572271a056dca9fb3",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/D33iF0LW.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/D33iF0LW.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/D33iF0LW.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "6bdee587cc92b87e5fed95873813eb28b73d4654d86567b18d9c53936948ddd4",
+        "bytes": 4451,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_8efc6f087a71c0a70bce1494926ba64a335f4adf04f05224bf8ae1b78f2ff48a",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/DUhj2TtC.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/DUhj2TtC.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/DUhj2TtC.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "e13e98f57c752c962742db5519d5c7eaac54a396e934efe045ce381c8b7dc1b5",
+        "bytes": 1092,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_8f3ca1247a57fbd238244dc1d0283bbb7c6a32e8f264d66aa4078aa82af58b2e",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/D9RVlv5a.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/D9RVlv5a.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/D9RVlv5a.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "cf0214ac280e2d11f8e409fc71be14380a2bfcebbd19406d85d9e94933e5573e",
+        "bytes": 430,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_8f58bb812b5b77899ca143e57153c83aab944b705986f55dac13deddf9cb0bbc",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/Br7XH3O8.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/Br7XH3O8.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/Br7XH3O8.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "46922617104da433df8ab707919d4e33e9640b3ced2179aea29485c9a5e1a067",
+        "bytes": 44763,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_971105c15a43c98c5cc687cba9d9647b74c317fc014f35cd04e1acd1cc523cde",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/tdp4zk6A.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/tdp4zk6A.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/tdp4zk6A.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "6a52fe628b194042fd730b52256b0c6fa4cacb9c59381250c9749b6794dd2a54",
+        "bytes": 798,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_9de610de74843926ef021e9417c8f50c4c6317f4e4d19b36fe0e8ab6f8007a7a",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/BLRQ8Ec4.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/BLRQ8Ec4.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/BLRQ8Ec4.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "bd9e49dda3caee2ea70086ea53e3770e3598a3f8e7065f398e9aca7b9fa74ed3",
+        "bytes": 652,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_aa1f9fb6b4266b06bd7783a1d2bdf24dff55a8484217b23ef4f7c2434ff3d11b",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/CuOkeAN8.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/CuOkeAN8.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/CuOkeAN8.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "814bf33787774e1b16de95c2274c943d6146b9521dcbc57d20ff98c69947d9e4",
+        "bytes": 3017,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_aab49f502a60b74c54e876cd74fa99208dd276c4c48117e502ec0ec73455ae03",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/BSXF6GHE.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/BSXF6GHE.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/BSXF6GHE.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "735c2d5aae4c2eb019f39d3e500fd255402b29143c75ad9563c36ddd8fd22c2d",
+        "bytes": 513,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_ae25b3a202d7791f32164ea7e2e27c8d593d09ab6a84c4d0b3ec23a50a9f6e58",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/CgHT1weo.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/CgHT1weo.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/CgHT1weo.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "0a050eedf8f9b19d48a8878cc5c7aea8b486357bac9ab67f68bbb0d38e20a231",
+        "bytes": 4982,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_afa9d7bf57249267b2f3b6f8096f267c073e7ba64ddccfd1bbab8ccb0b0c3481",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/BkOiF--w.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/BkOiF--w.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/BkOiF--w.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "99c764a964f714723ade090c4ea081717b8966d770b061462a6ad32ff7914048",
+        "bytes": 185,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_b15ffa2ac3fa7ce147d64057639ee8eea42c38630b47f7db13d49b735a78b002",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/DwiI_BbY.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/DwiI_BbY.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/DwiI_BbY.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "de2c8d3e931c28d447adb26e20ccfa82fb46b87799cc30c0655a9dddaef7883c",
+        "bytes": 8798,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_b6a7c65941136f22184419d4e40f483c3240ffbc31327977032288eb98d060a3",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/w24EzQVx.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/w24EzQVx.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/w24EzQVx.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "2d06a1a3674675d2c33b31bfebdda00389f4f49728d1f83585df2f677fe69088",
+        "bytes": 1179,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_b6ad73eda4d8ab7656abd03f7543ddacb98196b4d18ddb70d5ab57c349e2ffed",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/BoekCLuq.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/BoekCLuq.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/BoekCLuq.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "e15d8fe0eb416e67524ceb5943c8c437c8fca5bba3c7e4b95e5d3d2c1577674d",
+        "bytes": 7369,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_b7c639ca9c8e426c52bd36f207d7c9b1d00efa01c3d6228114d0e3eb72868de6",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/9nuYNTwJ.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/9nuYNTwJ.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/9nuYNTwJ.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "c72a0bd1afdc994bd1680f445a95511a6db3c3febcecfd7bd69e5ab1b025ad08",
+        "bytes": 20995,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_bd4871db3e20b532fe602385dae42d03882dfbee99a8a5f1517a6a238e5613c1",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/K4uFLb9I.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/K4uFLb9I.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/K4uFLb9I.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "f577d01bcee5358b6c1487e3bba423d34cb785837037815e203e2dc624b61711",
+        "bytes": 1367,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_c0e4661cec5135d4c960ac44a7957a1f2cc71b98e7d4084d2669e4d269a8ae8d",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/oYFCVSHy.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/oYFCVSHy.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/oYFCVSHy.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "aaec18c761e46d73b8c2e8d8d6fda9f15581b9ec77f94b87caf32618294329f7",
+        "bytes": 1318,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_c64f742266e208c5a0a20193f89891e85fe6d2a6584a08e04e8c1fd0490c233d",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/CF-MYP8-.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/CF-MYP8-.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/CF-MYP8-.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "fb0278382bfcdb46ba1d2305a9168007fb78edb3a8d4ea0cf04d7b6d39f15909",
+        "bytes": 606,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_cb96274ca64a876d2f106b9f7c4837465be68eef0224e25337d0f4961080e938",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/DRMM8Oko.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/DRMM8Oko.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/DRMM8Oko.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "3941f384c7c226464cda6920b225e05989d25e97a48792e55da08404371a4bc6",
+        "bytes": 705,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_d1d5cf0d0c9b759d04c889c58221af22d28da5935341d86a26334a6a1a6587d4",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/BO-nxHMP.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/BO-nxHMP.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/BO-nxHMP.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "829b0a698ce4bff06b18dda8aa6708c2db63c21a78e647fc58ddf2d0beb8d4e5",
+        "bytes": 480,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_d5d857c4e4dc3f3889bcd07dd4ab8ac6d9d6f193c49cb63d71595a593dfad096",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/5omN52y5.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/5omN52y5.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/5omN52y5.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "52606ab05bef40b4e9e42665a0d11bb5836db04141eca3f721a5271bfb0d65dd",
+        "bytes": 5827,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_d8a15739d0aeaa637f8b69705df6bcf55129104567f4df1c2c8cf1858f830e9a",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/CYTOAySW.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/CYTOAySW.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/CYTOAySW.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "df2c7088ca42874efa201b693bc4986248d6e9f29230477c4b3e632df329b6a2",
+        "bytes": 4256,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_dd249b923297b76cf4ff37f274c6701e2bb7495fb99bb84ddf74ae3357bb78d1",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/C3j8vV1Q.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/C3j8vV1Q.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/C3j8vV1Q.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "b3f5b9b163ac3655dad523ec66bedce5d9c951bab719136dda3bc55e5d23f861",
+        "bytes": 608,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_eec5ebbf39504e2a123c0dc4eb72b49ea4d8f5af618c6721c148ae1c44019564",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/DpGOSAyH.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/DpGOSAyH.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/DpGOSAyH.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "5504bc66c9bbda45174f36405ee260c02e26f60dba8a28c274282b4ca05f1824",
+        "bytes": 11252,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_f22aca965eb2b60531d65d21558408813c4c813582f3b2a94af22e873903c372",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/BaWCe95U.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/BaWCe95U.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/BaWCe95U.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "dcc406c25375f6a98004a9c99abcb61e1dee473da6aef15c5440070dabec71a3",
+        "bytes": 2486,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_f2b69e0f6203e9f71b2895e655c3a59f69b98866c9d5535f51be35b4be5e8d20",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/CzNW3ZJW.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/CzNW3ZJW.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/CzNW3ZJW.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "a5344ed707ca559164328ae4bc01e953c148431f442ae8e216b85b4aa5a0579a",
+        "bytes": 2229161,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_f7473dfff929de43c045917ddc56ef0ed23ac04208799354feda263e0df75526",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/BJ2APCe5.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/BJ2APCe5.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/BJ2APCe5.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "b66baa25e83f9310f69429bca58d26d38d26b4602a3d16c35d43b1f81a0d07ae",
+        "bytes": 4232,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_fa111d3e9ef6ba05bd90fbcf787557087bbfd5f3d8bb0bcb3cf997e46283869e",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/Ct-YAUpM.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/Ct-YAUpM.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/Ct-YAUpM.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "6432cf5e18da2440a02e2f74811cd68398102848dd8679add1c421871c4c9f24",
+        "bytes": 417,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_fb34e22745b7936b7b01e5982a6a6e736b10a56c00761b18338b04cf2215786f",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/DlOttVz3.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/DlOttVz3.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/DlOttVz3.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "8bb378f44efa58f98262cf71d1716fe7344c18af3b44df64c80505f11a69f884",
+        "bytes": 536,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_ff6b9ae17e8814b64d0e376e940829b2f8626a966b6b0781087ce2646aee81fb",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/CtminaUQ.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/CtminaUQ.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/CtminaUQ.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "ad0a190e24b065b1c87732a7b27e13ef7a83c36856d4bad0a001f7e2e005f11d",
+        "bytes": 366,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_ffd5d59b79a9085d9b3481eceaa9a62ed2e4353b9f54bf22df72c0ddac908531",
+        "frame_id": "91B970257D88E2A94B47005FD16B9647",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": "https://ethiack.com/_nuxt/CtVd2G2U.js.map"
+      },
+      "url": "https://ethiack.com/_nuxt/CtVd2G2U.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/475317e8ae5e0c7d5278e4caf74a8eaba299bc2aecabeca3568f4a137566a1ad/_nuxt/CtVd2G2U.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "8577d277e2c6bc831c055526e4dc04402ced27a9976e6624c647d1c459c5cebc",
+        "bytes": 7716,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    }
+  ],
+  "limitations": [
+    "Observation starts when REA attaches; prior network and console activity is unavailable.",
+    "Raw network headers, bodies, cookies, storage values, console objects, and WebSocket payloads are never retained; explicitly requested primitive console text is retained verbatim, while payload captures retain value-free shapes.",
+    "Source maps are reported only as declarative URLs and are not fetched.",
+    "URL-less scripts and console events without an allowed source URL are excluded because their origin cannot be proven.",
+    "CDP discovery omitted the target attachment state; attached is reported as unknown.",
+    "Only script bytes retained in this capture are exported. Sources are not refetched or executed, and a response or Debugger source does not prove execution.",
+    "Ordinary unambiguous URL paths preserve relative module layouts by origin, including case-distinct spellings. Query variants, exact path collisions, file/directory prefixes, inline sources, and unrepresentable paths are isolated. A case-distinct pair is isolated only when the destination filesystem cannot store both spellings; the record names that pair. Browser module relationships of isolated paths remain unknown.",
+    "Local JavaScript analysis does not implement browser import maps, root-relative URL resolution, remote URL loading, or browser runtime behavior. It may strip import queries and fragments; isolated variants are not canonical targets.",
+    "Source-map declarations are retained as metadata. No source maps or missing dependencies are fetched or reconstructed.",
+    "Scenario response bytes preserve the output of Playwright's Response.body() API; any source-body provenance caveat from the capture is retained in this manifest. Debugger sources are the exposed text encoded as UTF-8. Redacted bytes are exported exactly as retained, and may no longer parse as JavaScript."
+  ]
+}
