@@ -1,0 +1,11 @@
+{
+  "name": "ethiack-reconstructed",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Faithfully reconstructed Ethiack website with original recovered assets, prerendered routes, CRT canvas videos, and fonts.",
+  "scripts": {
+    "start": "node serve/server.mjs",
+    "serve": "node serve/server.mjs",
+    "test": "node test/verify_site.mjs"
+  }
+}
