@@ -7,7 +7,7 @@ import { fileURLToPath } from 'node:url'
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const ROOT = path.resolve(__dirname, 'site')
 const PORT = Number(process.env.PORT || 4173)
-const HOST = process.env.HOST || '127.0.0.1'
+const HOST = process.env.HOST || '0.0.0.0'
 const UPSTREAM = 'https://ethiack.com'
 
 const TYPES = {
@@ -149,8 +149,8 @@ const server = http.createServer(async (req, res) => {
 
   let localFile = resolveDiskFile(decodedPath)
 
-  // Dynamic upstream fetch and cache if file is missing locally
-  if (!localFile && req.method === 'GET') {
+  // Dynamic upstream fetch and cache if file is missing locally (assets only, no HTML)
+  if (!localFile && req.method === 'GET' && path.extname(cleanPath) && !cleanPath.endsWith('.html')) {
     try {
       const upstreamUrl = UPSTREAM + rawUrl
       const upstreamRes = await fetch(upstreamUrl, {
